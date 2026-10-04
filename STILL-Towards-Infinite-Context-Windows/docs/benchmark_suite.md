@@ -11,7 +11,7 @@ QASPER 适配差异见 [基线说明](baselines_and_benchmarks.md)。
 现有环境已具备模型与 QASPER；新环境先安装依赖，再运行原准备脚本：
 
 ```bash
-.venv/bin/python -m pip install -e '.[train,benchmarks,dev]'
+uv pip install --python .venv/bin/python -e '.[train,benchmarks,dev]'
 .venv/bin/python scripts/prepare_opd.py
 ```
 

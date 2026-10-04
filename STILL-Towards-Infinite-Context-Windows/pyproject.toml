@@ -18,7 +18,7 @@ dependencies = [
 [project.optional-dependencies]
 benchmarks = [
   "nltk>=3.9,<4",
-  "wonderwords>=2.2,<3",
+  "wonderwords>=3.0,<4",
   "tenacity>=9,<10",
   "scipy>=1.15,<2",
   "html2text>=2024.2.26",
