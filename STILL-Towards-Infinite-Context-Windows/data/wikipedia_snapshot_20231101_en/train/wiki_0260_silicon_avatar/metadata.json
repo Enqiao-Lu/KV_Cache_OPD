@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0260_silicon_avatar",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4145379",
+  "title": "Silicon Avatar",
+  "url": "https://en.wikipedia.org/wiki/Silicon%20Avatar",
+  "text_chars": 6053,
+  "exact_hash": "39234cd6f145ad137bcd23dc8d561cebc1fcad118e28bdfdbc6e2363379168ce",
+  "source_score": 1023421683900556864300024560167445211434552551408276710445526377615420005748
+}

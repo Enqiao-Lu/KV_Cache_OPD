@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0012_all_we_know_is_falling",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4435775",
+  "title": "All We Know Is Falling",
+  "url": "https://en.wikipedia.org/wiki/All%20We%20Know%20Is%20Falling",
+  "text_chars": 11682,
+  "exact_hash": "f4cf855d398fdf76d77c6518950484108b99fa5a872502067ba7eeab3fd9b1d9",
+  "source_score": 115576477213403799371133230796951137686107139147094200836295100859430942593
+}

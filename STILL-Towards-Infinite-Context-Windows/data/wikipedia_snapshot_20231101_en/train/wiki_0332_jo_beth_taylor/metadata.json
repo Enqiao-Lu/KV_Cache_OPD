@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0332_jo_beth_taylor",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4079536",
+  "title": "Jo Beth Taylor",
+  "url": "https://en.wikipedia.org/wiki/Jo%20Beth%20Taylor",
+  "text_chars": 9223,
+  "exact_hash": "aa2fb33e0894e4d1fe437520d6cf90584c74d5afa9f64743c9265b52c8e4052e",
+  "source_score": 1388182465213266287762848134073324926468320698833890989155343533151067773681
+}

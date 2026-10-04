@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0255_roja_film",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4521534",
+  "title": "Roja (film)",
+  "url": "https://en.wikipedia.org/wiki/Roja%20%28film%29",
+  "text_chars": 14807,
+  "exact_hash": "d700eb5fc26f85dcf12119b3f52f5bf41dd1047d8a5470a4b2379cac1d127ea7",
+  "source_score": 1007834580035186645380231597868939162945704066800514727836550173708781517408
+}

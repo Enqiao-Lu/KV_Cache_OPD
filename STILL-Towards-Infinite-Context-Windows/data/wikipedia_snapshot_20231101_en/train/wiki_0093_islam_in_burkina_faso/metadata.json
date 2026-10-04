@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0093_islam_in_burkina_faso",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4180236",
+  "title": "Islam in Burkina Faso",
+  "url": "https://en.wikipedia.org/wiki/Islam%20in%20Burkina%20Faso",
+  "text_chars": 4953,
+  "exact_hash": "8d52bcf357c52c5c49b44dfb2c716849288144daf1742754648d3e1a654c12c2",
+  "source_score": 436130660359737864583045351928534094303773293460695974915856504799224097287
+}

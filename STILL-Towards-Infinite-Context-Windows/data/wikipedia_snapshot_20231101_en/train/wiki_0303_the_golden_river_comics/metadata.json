@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0303_the_golden_river_comics",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4282387",
+  "title": "The Golden River (comics)",
+  "url": "https://en.wikipedia.org/wiki/The%20Golden%20River%20%28comics%29",
+  "text_chars": 4150,
+  "exact_hash": "0624b14af9f6ad285e45a578754b5ee76e195dcd27c3616f7aadb8afe68f085f",
+  "source_score": 1286592370872117032114696948960613315315911201092989575757428984048634990722
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0152_texas_state_highway_36",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4700697",
+  "title": "Texas State Highway 36",
+  "url": "https://en.wikipedia.org/wiki/Texas%20State%20Highway%2036",
+  "text_chars": 5214,
+  "exact_hash": "b478d4f548eb1e6396ce4086438570b232e3bc66ed337a283b1b343247d27402",
+  "source_score": 651382031573547615030829289143845727384754254926088512850962064015782918150
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0134_company_of_mineral_and_battery_works",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4686345",
+  "title": "Company of Mineral and Battery Works",
+  "url": "https://en.wikipedia.org/wiki/Company%20of%20Mineral%20and%20Battery%20Works",
+  "text_chars": 9563,
+  "exact_hash": "a131c6a730a3395c16c15d199a31a3ba567f25b92c79384db9938bc454c297c6",
+  "source_score": 592741389808345124000047148609972125963286982408294209214241989625369568887
+}

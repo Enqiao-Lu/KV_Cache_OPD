@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0182_india_iran_relations",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4380684",
+  "title": "India\u2013Iran relations",
+  "url": "https://en.wikipedia.org/wiki/India%E2%80%93Iran%20relations",
+  "text_chars": 15852,
+  "exact_hash": "a6717ec8c7b151600a2e4d195039852d531f09cf08adae6db69fa754fc41bbff",
+  "source_score": 744789997068320523818231328911090031847380935862695431576142204054990844789
+}

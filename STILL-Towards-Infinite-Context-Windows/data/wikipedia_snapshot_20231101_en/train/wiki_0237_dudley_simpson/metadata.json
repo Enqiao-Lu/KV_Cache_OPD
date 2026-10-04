@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0237_dudley_simpson",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4614171",
+  "title": "Dudley Simpson",
+  "url": "https://en.wikipedia.org/wiki/Dudley%20Simpson",
+  "text_chars": 5482,
+  "exact_hash": "33f0096b2a8a33331ecd5926e5101f5401061157aa5701b204d9180cbc0e24e6",
+  "source_score": 931803003937077187941730194983598219915194701465957778995781294474581930437
+}

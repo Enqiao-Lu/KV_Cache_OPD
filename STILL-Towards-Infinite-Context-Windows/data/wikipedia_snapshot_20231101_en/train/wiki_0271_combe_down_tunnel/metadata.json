@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0271_combe_down_tunnel",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4475286",
+  "title": "Combe Down Tunnel",
+  "url": "https://en.wikipedia.org/wiki/Combe%20Down%20Tunnel",
+  "text_chars": 4026,
+  "exact_hash": "27e9e03afc0ab4f1fb391d9d7ac1f59c0a74972f1ab6c9a7b38c2f0b38ddb345",
+  "source_score": 1114020593008182062992505191180812060870688059061297692377209708574660571573
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0211_inglewood_forest",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4120719",
+  "title": "Inglewood Forest",
+  "url": "https://en.wikipedia.org/wiki/Inglewood%20Forest",
+  "text_chars": 4504,
+  "exact_hash": "1f7cc97fc485980d7d843e93eb030ca6772ed638e5c96aa6baef5073ac017833",
+  "source_score": 842493729022259022435761882583117758099348884640018034384890952989536105199
+}

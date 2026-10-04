@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0191_emily_oster",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4607628",
+  "title": "Emily Oster",
+  "url": "https://en.wikipedia.org/wiki/Emily%20Oster",
+  "text_chars": 6885,
+  "exact_hash": "e8404bcb7710caac0d68fccce52987820593201d170487aa52103978d07cc22d",
+  "source_score": 767470564985484378687091688564118367061645640467537499913517717140305544642
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0322_edgar_zilsel",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4373120",
+  "title": "Edgar Zilsel",
+  "url": "https://en.wikipedia.org/wiki/Edgar%20Zilsel",
+  "text_chars": 6023,
+  "exact_hash": "e6b1117003698ab3f5893e390d5ad826683652c898759a8cb3b89a96d50d0e4a",
+  "source_score": 1365313591202441698077972029389272897963923811566601068778055682291827252768
+}

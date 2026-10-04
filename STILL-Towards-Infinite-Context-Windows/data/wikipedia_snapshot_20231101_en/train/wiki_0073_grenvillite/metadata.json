@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0073_grenvillite",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4311152",
+  "title": "Grenvillite",
+  "url": "https://en.wikipedia.org/wiki/Grenvillite",
+  "text_chars": 5786,
+  "exact_hash": "7a480f3009cb8ca66777c3c6d9a831a3fbf17c0f93e951e284d11759da27f80b",
+  "source_score": 344758995533107393569201324192427660517048280818186657138926289651883566214
+}

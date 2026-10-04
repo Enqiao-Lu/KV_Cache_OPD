@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0342_baghdad_college",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4562459",
+  "title": "Baghdad College",
+  "url": "https://en.wikipedia.org/wiki/Baghdad%20College",
+  "text_chars": 6455,
+  "exact_hash": "2a427f3da35833268126b971f0b678829cd7a90b196ba8ba11a1b4e5cb397574",
+  "source_score": 1431742484206978708514234492408749868758273516014479007265473906228594487327
+}

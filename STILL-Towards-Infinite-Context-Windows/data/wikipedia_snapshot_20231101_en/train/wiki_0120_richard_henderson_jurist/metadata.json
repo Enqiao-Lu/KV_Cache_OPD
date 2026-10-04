@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0120_richard_henderson_jurist",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4639397",
+  "title": "Richard Henderson (jurist)",
+  "url": "https://en.wikipedia.org/wiki/Richard%20Henderson%20%28jurist%29",
+  "text_chars": 7352,
+  "exact_hash": "4c8be610d0d1a6b9bac379fdefdc5bf1b9775c1ca39cbbf4974e5af889168365",
+  "source_score": 555159924027525706911609014437828768020827382318002438060736860862010542637
+}

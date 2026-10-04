@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0039_henri_br_mond",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4172378",
+  "title": "Henri Br\u00e9mond",
+  "url": "https://en.wikipedia.org/wiki/Henri%20Br%C3%A9mond",
+  "text_chars": 5927,
+  "exact_hash": "42b0883be92bd92ed52498941ae5ad0f9859afa03c04d3b6702de8b85f62056d",
+  "source_score": 217378445310638957935311135575633052769819128502968166630300936490351690685
+}

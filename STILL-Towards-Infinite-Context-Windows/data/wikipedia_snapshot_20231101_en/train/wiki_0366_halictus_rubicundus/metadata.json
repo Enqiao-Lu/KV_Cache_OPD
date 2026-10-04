@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0366_halictus_rubicundus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4298904",
+  "title": "Halictus rubicundus",
+  "url": "https://en.wikipedia.org/wiki/Halictus%20rubicundus",
+  "text_chars": 24106,
+  "exact_hash": "b4d47f1753e6b0f0ae7905da1fd2485194f728619468c6dfc16e7a41388ef560",
+  "source_score": 1533915984166450902373484988063986739959926320054228395133720744659119530010
+}

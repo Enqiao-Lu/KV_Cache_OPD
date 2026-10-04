@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0310_akane_maniax",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4087985",
+  "title": "Akane Maniax",
+  "url": "https://en.wikipedia.org/wiki/Akane%20Maniax",
+  "text_chars": 5460,
+  "exact_hash": "727a99beece761332a7b0f12e71cf41f7a1bbaa37cda1b1c20e6b767cfee959d",
+  "source_score": 1302902984156314780934092564254973172068332331769820314894435722002941645878
+}

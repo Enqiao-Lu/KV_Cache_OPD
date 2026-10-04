@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0129_foxy_lady_cher_album",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4444604",
+  "title": "Foxy Lady (Cher album)",
+  "url": "https://en.wikipedia.org/wiki/Foxy%20Lady%20%28Cher%20album%29",
+  "text_chars": 4941,
+  "exact_hash": "393e9e1c339a7636d14b25a9fb548dc60b035b1456d7d99186bd7fe354d5be9f",
+  "source_score": 576045379641910587633405898801892033861103592119085481901528203570949397661
+}

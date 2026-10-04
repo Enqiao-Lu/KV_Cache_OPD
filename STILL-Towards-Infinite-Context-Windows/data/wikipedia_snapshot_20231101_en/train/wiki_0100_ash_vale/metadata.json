@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0100_ash_vale",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4327678",
+  "title": "Ash Vale",
+  "url": "https://en.wikipedia.org/wiki/Ash%20Vale",
+  "text_chars": 4065,
+  "exact_hash": "a457b10acb884d74ec3bea1712deecb539470ec6da5c3d1f4c5fff5e02314c2d",
+  "source_score": 481407859661741447774968378981750225917260357579945651229226954623049126672
+}

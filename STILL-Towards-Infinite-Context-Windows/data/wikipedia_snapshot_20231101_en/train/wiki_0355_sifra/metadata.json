@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0355_sifra",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4354428",
+  "title": "Sifra",
+  "url": "https://en.wikipedia.org/wiki/Sifra",
+  "text_chars": 9408,
+  "exact_hash": "7ca49464ef9431fd7d748833666bd503eb929886e63cddc245f30c62bac8fbe9",
+  "source_score": 1478327396662608376480121173717795110869968041082637451618196782182898912371
+}

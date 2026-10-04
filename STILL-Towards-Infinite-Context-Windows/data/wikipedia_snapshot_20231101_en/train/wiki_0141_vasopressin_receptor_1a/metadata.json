@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0141_vasopressin_receptor_1a",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4304272",
+  "title": "Vasopressin receptor 1A",
+  "url": "https://en.wikipedia.org/wiki/Vasopressin%20receptor%201A",
+  "text_chars": 8920,
+  "exact_hash": "77ea01d4d0fffb391ce86b4a6df63b67d75ba8b811d66fcccfee0e67422063a9",
+  "source_score": 610976187171436893969163709968137940575204331884175542881621308541473513851
+}

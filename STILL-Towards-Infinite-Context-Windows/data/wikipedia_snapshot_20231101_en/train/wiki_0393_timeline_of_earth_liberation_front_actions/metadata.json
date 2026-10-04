@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0393_timeline_of_earth_liberation_front_actions",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4067375",
+  "title": "Timeline of Earth Liberation Front actions",
+  "url": "https://en.wikipedia.org/wiki/Timeline%20of%20Earth%20Liberation%20Front%20actions",
+  "text_chars": 30226,
+  "exact_hash": "854571f4216ca4dfca41aa6c11f58d80378ffa74c45eb778e574e431e3e81519",
+  "source_score": 1657027315658439179562470655851875529265288208498619936080056660460319408607
+}

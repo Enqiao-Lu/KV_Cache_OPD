@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0384_poulnabrone_dolmen",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4300577",
+  "title": "Poulnabrone dolmen",
+  "url": "https://en.wikipedia.org/wiki/Poulnabrone%20dolmen",
+  "text_chars": 10230,
+  "exact_hash": "69b571f8d6d79833546b6521ecd0ad653f8ef76ce19d185332ea9d8d9debeb29",
+  "source_score": 1609188409214603679825483374340771564753930155866458822729075781514017434194
+}

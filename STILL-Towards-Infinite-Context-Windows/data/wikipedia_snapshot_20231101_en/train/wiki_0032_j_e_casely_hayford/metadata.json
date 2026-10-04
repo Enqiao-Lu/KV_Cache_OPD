@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0032_j_e_casely_hayford",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4581903",
+  "title": "J. E. Casely Hayford",
+  "url": "https://en.wikipedia.org/wiki/J.%20E.%20Casely%20Hayford",
+  "text_chars": 7777,
+  "exact_hash": "ff364a2566b7dfc7d7a10719fbb6a0364ab159d823a51a8b7077a2bbf2986d82",
+  "source_score": 177320337193624051462277166366129096233346378335643610854559597436700526327
+}

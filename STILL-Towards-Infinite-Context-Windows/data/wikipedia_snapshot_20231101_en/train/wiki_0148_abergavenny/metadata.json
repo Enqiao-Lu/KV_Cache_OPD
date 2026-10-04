@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0148_abergavenny",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "2715",
+  "title": "Abergavenny",
+  "url": "https://en.wikipedia.org/wiki/Abergavenny",
+  "text_chars": 22269,
+  "exact_hash": "6cb6e9539ac6e88ae1d7ec2abfd93fc82c7292c60e10711d1ba898c3171542a6",
+  "source_score": 638627235724267537928605165578820014783584416476851200997397059195824489779
+}

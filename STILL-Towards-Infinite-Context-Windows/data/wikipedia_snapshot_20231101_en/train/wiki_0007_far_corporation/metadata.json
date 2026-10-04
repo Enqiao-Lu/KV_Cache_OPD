@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0007_far_corporation",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4648853",
+  "title": "Far Corporation",
+  "url": "https://en.wikipedia.org/wiki/Far%20Corporation",
+  "text_chars": 4102,
+  "exact_hash": "1a1c512dd0f866f29ae6bdb2a683f3dcd71cdd7a63436d8f991e2bcc26437f86",
+  "source_score": 95049874866083577191043282310382996836760105142018949601106059242558052009
+}

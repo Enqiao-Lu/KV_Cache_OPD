@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0104_buckwalter_transliteration",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4320276",
+  "title": "Buckwalter transliteration",
+  "url": "https://en.wikipedia.org/wiki/Buckwalter%20transliteration",
+  "text_chars": 8678,
+  "exact_hash": "8972cec1b0fb50e64320a6799966b12c58c948227637ab2ed14c1897efc84695",
+  "source_score": 498490083479360246376391236904432195759646688468639111670555540406214921710
+}

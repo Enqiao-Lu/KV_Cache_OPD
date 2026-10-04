@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0162_housing_in_portugal",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4511570",
+  "title": "Housing in Portugal",
+  "url": "https://en.wikipedia.org/wiki/Housing%20in%20Portugal",
+  "text_chars": 4241,
+  "exact_hash": "ebc6412cc386df3607f098c28ac3111ab610a54a968d73fb5ee275c356c037ac",
+  "source_score": 693698693746448804587255792324973584648024476758821923358799864387888476115
+}

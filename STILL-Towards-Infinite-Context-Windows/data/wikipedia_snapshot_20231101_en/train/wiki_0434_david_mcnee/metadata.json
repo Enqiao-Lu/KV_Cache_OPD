@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0434_david_mcnee",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4555575",
+  "title": "David McNee",
+  "url": "https://en.wikipedia.org/wiki/David%20McNee",
+  "text_chars": 6735,
+  "exact_hash": "6bd0bb0a3553dc3ee4d680cf924b2b45217a604af3b9e7579175220d7975d60a",
+  "source_score": 1827669428852431405271538365213125077472562405424921731992989431517050541253
+}

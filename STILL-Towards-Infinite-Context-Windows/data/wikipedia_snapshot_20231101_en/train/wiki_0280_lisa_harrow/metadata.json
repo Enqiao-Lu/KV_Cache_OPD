@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0280_lisa_harrow",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4110487",
+  "title": "Lisa Harrow",
+  "url": "https://en.wikipedia.org/wiki/Lisa%20Harrow",
+  "text_chars": 6701,
+  "exact_hash": "97792198f7f5c2ca46510c2e4230f28eee314e2cc9f44d24006dad2ceb778600",
+  "source_score": 1186071732157938184763274970468853168291686658327178728815337591847912866918
+}

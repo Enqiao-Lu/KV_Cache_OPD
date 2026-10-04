@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0481_maloney_hall",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4119474",
+  "title": "Maloney Hall",
+  "url": "https://en.wikipedia.org/wiki/Maloney%20Hall",
+  "text_chars": 4583,
+  "exact_hash": "0d7027c629a8998b18aff39fd06016cc4260872360e070093e21c23cf12429b1",
+  "source_score": 1937508221686656308534116134478067135779735714179603925501180802546157086867
+}

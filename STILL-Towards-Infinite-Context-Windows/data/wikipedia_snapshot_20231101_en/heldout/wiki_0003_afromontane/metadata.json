@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0003_afromontane",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4618035",
+  "title": "Afromontane",
+  "url": "https://en.wikipedia.org/wiki/Afromontane",
+  "text_chars": 6817,
+  "exact_hash": "c9f935d9a48d319527b51159ade47a65c2fd958fb1aaa76a04b65114132af7eb",
+  "source_score": 14298236274736698301169475426840664290235676594254041468892912314284719333
+}

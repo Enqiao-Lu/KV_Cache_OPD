@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0224_royal_welsh_college_of_music_drama",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4466560",
+  "title": "Royal Welsh College of Music & Drama",
+  "url": "https://en.wikipedia.org/wiki/Royal%20Welsh%20College%20of%20Music%20%26%20Drama",
+  "text_chars": 4506,
+  "exact_hash": "24d00614d2f161704ae0341b8491c86fb3653e41e90d98024a9d4be240d75b7e",
+  "source_score": 878204786159404818391731391737400685980181398433987833057754263300390893101
+}

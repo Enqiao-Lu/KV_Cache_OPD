@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0103_david_huish",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4433688",
+  "title": "David Huish",
+  "url": "https://en.wikipedia.org/wiki/David%20Huish",
+  "text_chars": 4227,
+  "exact_hash": "6ea039a687b058ed848d998f81b30096f79f98e4a02ac64f380ff6bcb2e53ac1",
+  "source_score": 495404244595581354780436040189307475375726397678127052263086788125678128983
+}

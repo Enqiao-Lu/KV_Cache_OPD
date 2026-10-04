@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0424_thingyan",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4087333",
+  "title": "Thingyan",
+  "url": "https://en.wikipedia.org/wiki/Thingyan",
+  "text_chars": 12464,
+  "exact_hash": "f611ad182dd65f5f362e943101029f9f51e9c1b7d9d39cff9dbde1c1dac75141",
+  "source_score": 1798988738028393180547932611425769086617208218366465131896252284320744206972
+}

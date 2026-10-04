@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0219_spymonkey",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4705051",
+  "title": "Spymonkey",
+  "url": "https://en.wikipedia.org/wiki/Spymonkey",
+  "text_chars": 22701,
+  "exact_hash": "c4051446f4b396214d34e92dfeb0b5427ee1702996e9a891cc7ac5067b32d671",
+  "source_score": 866102897172724955281382985230242871395974495696912363487317101750315395850
+}

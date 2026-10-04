@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0376_lie_duc_decazes",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4372034",
+  "title": "\u00c9lie, duc Decazes",
+  "url": "https://en.wikipedia.org/wiki/%C3%89lie%2C%20duc%20Decazes",
+  "text_chars": 7407,
+  "exact_hash": "5b36475605fdaea510b881a49d1a682d1c9153e77e6502d64de1b44e223e483b",
+  "source_score": 1563322866179873016255634177121046964030273618030769432280729508551494734021
+}

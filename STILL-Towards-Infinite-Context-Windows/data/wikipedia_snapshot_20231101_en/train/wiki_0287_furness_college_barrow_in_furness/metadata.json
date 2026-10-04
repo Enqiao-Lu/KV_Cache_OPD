@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0287_furness_college_barrow_in_furness",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4567070",
+  "title": "Furness College, Barrow-in-Furness",
+  "url": "https://en.wikipedia.org/wiki/Furness%20College%2C%20Barrow-in-Furness",
+  "text_chars": 6384,
+  "exact_hash": "e925aebf31e93c83bb473d141ab991a6fb3f082a44918f22e27e647a36734995",
+  "source_score": 1206637998929109816998220974794487211533575702970981056212520857808937647220
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0107_douglas_railway_station",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4614924",
+  "title": "Douglas Railway Station",
+  "url": "https://en.wikipedia.org/wiki/Douglas%20Railway%20Station",
+  "text_chars": 25665,
+  "exact_hash": "d7fbf1d8562d244beedda824ee66db2c49d31de46fde77873d88fc0fe81a8885",
+  "source_score": 508560706936013589035157098600124996706343986483830423243903487381856700454
+}

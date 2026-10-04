@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0190_alice_eve",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4718514",
+  "title": "Alice Eve",
+  "url": "https://en.wikipedia.org/wiki/Alice%20Eve",
+  "text_chars": 4205,
+  "exact_hash": "cd4b542b656cbc13c9316b38ebb2f41a212f3707cace6f0c3cd7e114b83d3327",
+  "source_score": 764515856609877645765987205607334110013754982126102905583775118527740707205
+}

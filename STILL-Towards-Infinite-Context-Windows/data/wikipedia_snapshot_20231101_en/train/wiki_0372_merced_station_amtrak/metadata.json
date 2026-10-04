@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0372_merced_station_amtrak",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4716009",
+  "title": "Merced station (Amtrak)",
+  "url": "https://en.wikipedia.org/wiki/Merced%20station%20%28Amtrak%29",
+  "text_chars": 4140,
+  "exact_hash": "58aa722b0a965cda48656dff6228cf2e6afe177122ab1c9086bb823cb20daf67",
+  "source_score": 1546983683590567656731287514776862813587300452968686852956237684509977880657
+}

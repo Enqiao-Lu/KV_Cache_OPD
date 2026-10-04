@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0186_1995_ncaa_division_i_a_football_season",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4148476",
+  "title": "1995 NCAA Division I-A football season",
+  "url": "https://en.wikipedia.org/wiki/1995%20NCAA%20Division%20I-A%20football%20season",
+  "text_chars": 14748,
+  "exact_hash": "c8a3ba7ff843881b87eeeff07921519619e1dbae00b8987c4ce1832970980aa8",
+  "source_score": 759354654728668641699376702332169927180135274388161863959002895152228112417
+}

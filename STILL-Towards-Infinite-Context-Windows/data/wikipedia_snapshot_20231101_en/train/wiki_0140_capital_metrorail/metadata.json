@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0140_capital_metrorail",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4336065",
+  "title": "Capital MetroRail",
+  "url": "https://en.wikipedia.org/wiki/Capital%20MetroRail",
+  "text_chars": 15986,
+  "exact_hash": "5359fdc0f13e01336c0390fe550e7d69b5bb08177a42b10dbe49d8f44c7e61e9",
+  "source_score": 610600931047954110647185872012915326595443843442958592996771628647977625418
+}

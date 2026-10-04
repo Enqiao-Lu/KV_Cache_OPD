@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0048_richard_lennon",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4641958",
+  "title": "Richard Lennon",
+  "url": "https://en.wikipedia.org/wiki/Richard%20Lennon",
+  "text_chars": 6252,
+  "exact_hash": "7301d09e8a4e8e36669f72384ef444dfb97b17a36ae1e0f3315a8658e189090f",
+  "source_score": 246513440910664689508016895095317584103032701773102947195866907340425128765
+}

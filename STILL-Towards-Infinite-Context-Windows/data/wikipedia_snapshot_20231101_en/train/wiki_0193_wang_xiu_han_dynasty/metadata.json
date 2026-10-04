@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0193_wang_xiu_han_dynasty",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4647247",
+  "title": "Wang Xiu (Han dynasty)",
+  "url": "https://en.wikipedia.org/wiki/Wang%20Xiu%20%28Han%20dynasty%29",
+  "text_chars": 6552,
+  "exact_hash": "33f7ee14dc037a7aaab6fcd6d17006f9d1ed702fe1f3a534c4656ea0433cacfb",
+  "source_score": 774675448971863825509209526944201816611765823782758813310861824054055547421
+}

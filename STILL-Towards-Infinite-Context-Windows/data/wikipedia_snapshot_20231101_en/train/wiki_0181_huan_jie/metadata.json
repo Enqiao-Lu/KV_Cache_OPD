@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0181_huan_jie",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4624253",
+  "title": "Huan Jie",
+  "url": "https://en.wikipedia.org/wiki/Huan%20Jie",
+  "text_chars": 10421,
+  "exact_hash": "04c2a8d78916f9811c9763f42344be907fc0631e429b3751955364e6880d0dec",
+  "source_score": 744399175978949539909026781818221800652202223580140765926276442866885176098
+}

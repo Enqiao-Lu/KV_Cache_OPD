@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0420_gun_control_in_brazil",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4467697",
+  "title": "Gun control in Brazil",
+  "url": "https://en.wikipedia.org/wiki/Gun%20control%20in%20Brazil",
+  "text_chars": 4251,
+  "exact_hash": "204d073090a09ed098435f0a74302994398a77e46e4b6816cac67e6d91f770a2",
+  "source_score": 1778286045640501721332363292250770037563819947342538888324230495554015259646
+}

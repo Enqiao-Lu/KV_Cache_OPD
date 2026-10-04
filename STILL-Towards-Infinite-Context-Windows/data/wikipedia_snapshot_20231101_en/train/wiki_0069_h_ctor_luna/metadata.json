@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0069_h_ctor_luna",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4288938",
+  "title": "H\u00e9ctor Luna",
+  "url": "https://en.wikipedia.org/wiki/H%C3%A9ctor%20Luna",
+  "text_chars": 5002,
+  "exact_hash": "6526fe252b84cb90e472138d7a97fa30d7311dca1344b2708a68a94bd631d06f",
+  "source_score": 329949761665792579284614473175089477518532026605205270660846809014217260125
+}

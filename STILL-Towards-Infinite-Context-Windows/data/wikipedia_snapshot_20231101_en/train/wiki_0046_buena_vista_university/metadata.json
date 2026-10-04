@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0046_buena_vista_university",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4712748",
+  "title": "Buena Vista University",
+  "url": "https://en.wikipedia.org/wiki/Buena%20Vista%20University",
+  "text_chars": 14034,
+  "exact_hash": "3865c859016d6f9d2f9677ad3bf16eabfd68213b18a6c6f70eeead07e275c8ed",
+  "source_score": 239312519234966158791199073690687199011095803610969816780466532278402418458
+}

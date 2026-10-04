@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0080_the_mighty_quinn_film",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4179770",
+  "title": "The Mighty Quinn (film)",
+  "url": "https://en.wikipedia.org/wiki/The%20Mighty%20Quinn%20%28film%29",
+  "text_chars": 7075,
+  "exact_hash": "33d0e2f6caf474f26ac961fe2cee33588d4d9845057418c40b3edb6f7db8bacd",
+  "source_score": 366392107984053550698646063833032322259380766106486850371643829542306109105
+}

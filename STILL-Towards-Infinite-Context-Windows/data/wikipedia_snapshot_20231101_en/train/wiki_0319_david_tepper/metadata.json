@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0319_david_tepper",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4770341",
+  "title": "David Tepper",
+  "url": "https://en.wikipedia.org/wiki/David%20Tepper",
+  "text_chars": 14485,
+  "exact_hash": "b2a66299933e8a9630efeace2fae61e3dbc23651a56dd9deab0d65fa58fb5ad8",
+  "source_score": 1347735439163576832277837740536746099704989677360009483012214586689218368683
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0276_south_london_gallery",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4432037",
+  "title": "South London Gallery",
+  "url": "https://en.wikipedia.org/wiki/South%20London%20Gallery",
+  "text_chars": 5402,
+  "exact_hash": "ea0451aaaba06d182d7f0faf94557931f2a2e66bbe2a3ba045502b9e0ace1215",
+  "source_score": 1155790617665857442281404478649027833765416612698519763721581100427187506701
+}

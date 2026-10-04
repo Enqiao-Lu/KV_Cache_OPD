@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0313_st_augustine_s_college_sydney",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4754010",
+  "title": "St Augustine's College, Sydney",
+  "url": "https://en.wikipedia.org/wiki/St%20Augustine%27s%20College%2C%20Sydney",
+  "text_chars": 25029,
+  "exact_hash": "0d4baca461ac2db6737d708ac47146f1b5fef8c36b665b18f2ce9827b7ed89f2",
+  "source_score": 1307951824890184968744187664067217168595009532299135352425856679604579889358
+}

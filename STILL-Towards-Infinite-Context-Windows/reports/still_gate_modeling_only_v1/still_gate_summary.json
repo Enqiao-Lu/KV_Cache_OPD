@@ -1,0 +1,41 @@
+{
+  "still_structural": {
+    "row_count": 200,
+    "nonempty_cleaned_count": 200,
+    "nonempty_cleaned_rate": 1.0,
+    "nonempty_raw_count": 200,
+    "nonempty_raw_rate": 1.0,
+    "dominant_cleaned_prediction": "1999.<|im_end|>",
+    "dominant_cleaned_prediction_share": 0.005,
+    "dominant_raw_prediction": "<think>\n\n</think>\n\n1999.<|im_end|>",
+    "dominant_raw_prediction_share": 0.005,
+    "mean_cleaned_token_repetition_ratio": 0.0007862903225806452,
+    "unexpected_cjk_prediction_rate": 0.0,
+    "summary_hash": "e4ed6d970cf1387ecfedc4a77882cb14416df63c679c59df900de5357d0b61b9"
+  },
+  "broken_structural": {
+    "row_count": 39,
+    "nonempty_cleaned_count": 2,
+    "nonempty_cleaned_rate": 0.05128205128205128,
+    "nonempty_raw_count": 0,
+    "nonempty_raw_rate": 0.0,
+    "dominant_cleaned_prediction": "ipment",
+    "dominant_cleaned_prediction_share": 0.05128205128205128,
+    "dominant_raw_prediction": "",
+    "dominant_raw_prediction_share": 0.0,
+    "mean_cleaned_token_repetition_ratio": 0.0,
+    "unexpected_cjk_prediction_rate": 0.0,
+    "summary_hash": "48c23f7d688467ca2f27a9846a5e3624a4cb6258650387061eb303120070cb32"
+  },
+  "still_semantic_match_rate": 0.12,
+  "broken_semantic_match_rate": 0.05128205128205128,
+  "gate": {
+    "nonempty_rate_pass": true,
+    "dominant_string_pass": true,
+    "repetition_pass": true,
+    "script_pass": true,
+    "semantic_floor_pass": false,
+    "semantic_improves_over_broken": true,
+    "all_pass": false
+  }
+}

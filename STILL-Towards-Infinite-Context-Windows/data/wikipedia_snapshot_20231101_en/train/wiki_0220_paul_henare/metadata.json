@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0220_paul_henare",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4485215",
+  "title": "Paul Henare",
+  "url": "https://en.wikipedia.org/wiki/Paul%20Henare",
+  "text_chars": 4068,
+  "exact_hash": "d02c53a7d9006187ca4f2e976b0edc2621d89bb56d44b7c2dbf4f5cc469df70e",
+  "source_score": 870828444594420217582171129213741003741370148972496438615599336600496652477
+}

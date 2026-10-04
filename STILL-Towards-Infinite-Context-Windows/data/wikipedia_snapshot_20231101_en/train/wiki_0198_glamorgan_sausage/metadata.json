@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0198_glamorgan_sausage",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4341867",
+  "title": "Glamorgan sausage",
+  "url": "https://en.wikipedia.org/wiki/Glamorgan%20sausage",
+  "text_chars": 5200,
+  "exact_hash": "f3887541633e13c342e634b3bdae010b185fb5749139da196725da9467dfa06d",
+  "source_score": 779190519429800006975413229774035366211626043168164610065658870360001922993
+}

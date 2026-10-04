@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0210_afl_south_africa",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4712431",
+  "title": "AFL South Africa",
+  "url": "https://en.wikipedia.org/wiki/AFL%20South%20Africa",
+  "text_chars": 5108,
+  "exact_hash": "c7c0a945dd0e03851816abd957e6e02d3f957b435d397dc19897bec9ec394973",
+  "source_score": 834756916301903338380202169022156942273736694390567322571426910344209980330
+}

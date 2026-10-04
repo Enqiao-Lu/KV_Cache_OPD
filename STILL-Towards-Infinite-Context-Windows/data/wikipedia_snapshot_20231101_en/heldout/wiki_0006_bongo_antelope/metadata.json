@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0006_bongo_antelope",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4506",
+  "title": "Bongo (antelope)",
+  "url": "https://en.wikipedia.org/wiki/Bongo%20%28antelope%29",
+  "text_chars": 21024,
+  "exact_hash": "8e7ff285ca43707f5a2713dcdb8e3cf1b81b171cdb58ad442ee98a57f7ab81fd",
+  "source_score": 22683794758685256077393834241316607449657604938461036610369679012583932210
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0212_roni_jonah",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4447657",
+  "title": "Roni Jonah",
+  "url": "https://en.wikipedia.org/wiki/Roni%20Jonah",
+  "text_chars": 4448,
+  "exact_hash": "6913bf4a59e641a751c6fe1ffe20fee8ddd2ecddb667df1dfaf64795afd7b203",
+  "source_score": 847261963662715502203127295663982532552317191779050811244276810740341308565
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0183_the_john_cooper_school",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4621502",
+  "title": "The John Cooper School",
+  "url": "https://en.wikipedia.org/wiki/The%20John%20Cooper%20School",
+  "text_chars": 6561,
+  "exact_hash": "b696b7106c4519b2cebe1831f6d5739c990bbfd249f17b7db8e0948dc99dcc8d",
+  "source_score": 745506790255223954794428176688309950852166322162462087525433175408042532072
+}

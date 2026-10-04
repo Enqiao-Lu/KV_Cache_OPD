@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0395_flemish_heraldic_council",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4700308",
+  "title": "Flemish Heraldic Council",
+  "url": "https://en.wikipedia.org/wiki/Flemish%20Heraldic%20Council",
+  "text_chars": 7158,
+  "exact_hash": "bca02b6cf8b7aae44b7e2490718bb610e656d9c98498f123ad3167f3a0a9500b",
+  "source_score": 1661228173677572030809801419502243175858786763663672675804255381914577346177
+}

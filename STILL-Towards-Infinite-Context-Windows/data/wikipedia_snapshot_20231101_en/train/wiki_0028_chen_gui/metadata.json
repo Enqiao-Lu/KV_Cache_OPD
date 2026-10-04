@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0028_chen_gui",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4768383",
+  "title": "Chen Gui",
+  "url": "https://en.wikipedia.org/wiki/Chen%20Gui",
+  "text_chars": 5448,
+  "exact_hash": "4cb81844de2d3bd69c6b4b876f4cb80cbcce71e786ba289f4d86c1614b50e941",
+  "source_score": 159789442993015349155828975513260995730830978105733980882357350677680423157
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0246_hern_ndez",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4463355",
+  "title": "Hern\u00e1ndez",
+  "url": "https://en.wikipedia.org/wiki/Hern%C3%A1ndez",
+  "text_chars": 16306,
+  "exact_hash": "6bcb1997b8496511696ab44fa3cb4952416ac286c70d2a5d4fdab81e09047b9d",
+  "source_score": 979734834014506703250177272467804744679623851043206591430938957837747926581
+}

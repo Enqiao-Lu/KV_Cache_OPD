@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0340_susanna_rahkamo",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4165229",
+  "title": "Susanna Rahkamo",
+  "url": "https://en.wikipedia.org/wiki/Susanna%20Rahkamo",
+  "text_chars": 5651,
+  "exact_hash": "642c5808808bc83948d46a529faa320315ba0805a89fe069dc81979afe51e686",
+  "source_score": 1414012440357341294275850103958827506747287719949415872143982177956907369129
+}

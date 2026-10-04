@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0288_hong_kong_civic_association",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4443982",
+  "title": "Hong Kong Civic Association",
+  "url": "https://en.wikipedia.org/wiki/Hong%20Kong%20Civic%20Association",
+  "text_chars": 5952,
+  "exact_hash": "34c5109ee9039e1fea7c19afc2076d71789110d7b2a6080213c01ceed0cac2c0",
+  "source_score": 1208717285358611437238552076070477883201970674501989279938153709827850261957
+}

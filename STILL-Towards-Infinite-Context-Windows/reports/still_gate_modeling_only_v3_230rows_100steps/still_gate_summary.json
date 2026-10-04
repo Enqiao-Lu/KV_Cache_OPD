@@ -1,0 +1,41 @@
+{
+  "still_structural": {
+    "row_count": 200,
+    "nonempty_cleaned_count": 183,
+    "nonempty_cleaned_rate": 0.915,
+    "nonempty_raw_count": 200,
+    "nonempty_raw_rate": 1.0,
+    "dominant_cleaned_prediction": "<|im_end|>",
+    "dominant_cleaned_prediction_share": 0.06,
+    "dominant_raw_prediction": "<think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n</think>\n",
+    "dominant_raw_prediction_share": 0.055,
+    "mean_cleaned_token_repetition_ratio": 0.04565151515151515,
+    "unexpected_cjk_prediction_rate": 0.01,
+    "summary_hash": "bf5123ca506690debbd59512ae4abf005616444ee21a3665efdc264d73f36313"
+  },
+  "broken_structural": {
+    "row_count": 39,
+    "nonempty_cleaned_count": 2,
+    "nonempty_cleaned_rate": 0.05128205128205128,
+    "nonempty_raw_count": 0,
+    "nonempty_raw_rate": 0.0,
+    "dominant_cleaned_prediction": "ipment",
+    "dominant_cleaned_prediction_share": 0.05128205128205128,
+    "dominant_raw_prediction": "",
+    "dominant_raw_prediction_share": 0.0,
+    "mean_cleaned_token_repetition_ratio": 0.0,
+    "unexpected_cjk_prediction_rate": 0.0,
+    "summary_hash": "48c23f7d688467ca2f27a9846a5e3624a4cb6258650387061eb303120070cb32"
+  },
+  "still_semantic_match_rate": 0.13,
+  "broken_semantic_match_rate": 0.05128205128205128,
+  "gate": {
+    "nonempty_rate_pass": false,
+    "dominant_string_pass": false,
+    "repetition_pass": true,
+    "script_pass": true,
+    "semantic_floor_pass": false,
+    "semantic_improves_over_broken": true,
+    "all_pass": false
+  }
+}

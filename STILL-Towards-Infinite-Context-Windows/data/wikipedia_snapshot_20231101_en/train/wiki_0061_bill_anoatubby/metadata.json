@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0061_bill_anoatubby",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4622359",
+  "title": "Bill Anoatubby",
+  "url": "https://en.wikipedia.org/wiki/Bill%20Anoatubby",
+  "text_chars": 10909,
+  "exact_hash": "de895137d8d762669ee398af94aa8bd6cb89814a02458beb3fab25ef4282719c",
+  "source_score": 296659525264939047328289151984905182021833171476564482962406333371958085287
+}

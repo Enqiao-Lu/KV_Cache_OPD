@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0357_ata_martial_arts",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4681616",
+  "title": "ATA Martial Arts",
+  "url": "https://en.wikipedia.org/wiki/ATA%20Martial%20Arts",
+  "text_chars": 14535,
+  "exact_hash": "3bb6094cee43b16ec18135ede6573cffc01234ffec7a4fe1ee995ab386be13e2",
+  "source_score": 1478993676796163794511611177192634245577800692432959297218851586058677779192
+}

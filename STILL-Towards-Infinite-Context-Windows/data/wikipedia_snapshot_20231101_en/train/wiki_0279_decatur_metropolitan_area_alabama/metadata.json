@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0279_decatur_metropolitan_area_alabama",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4474017",
+  "title": "Decatur metropolitan area, Alabama",
+  "url": "https://en.wikipedia.org/wiki/Decatur%20metropolitan%20area%2C%20Alabama",
+  "text_chars": 5504,
+  "exact_hash": "41be22553442b739207ac8447cd0ada348cdbc90017b8791e66565e06b91ca1a",
+  "source_score": 1175766715411056671317008047307053772098046474808479365785638568506360324084
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0404_pony_international",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4712454",
+  "title": "Pony International",
+  "url": "https://en.wikipedia.org/wiki/Pony%20International",
+  "text_chars": 4174,
+  "exact_hash": "730b9fb07ecdddded3381f646101da81a5c1427104af986ea82c864a76fd9530",
+  "source_score": 1710402331528753727836603927276293538458060741080917797687384857705682721773
+}

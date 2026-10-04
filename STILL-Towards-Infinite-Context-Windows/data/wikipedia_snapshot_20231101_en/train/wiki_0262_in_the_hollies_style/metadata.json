@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0262_in_the_hollies_style",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4628223",
+  "title": "In the Hollies Style",
+  "url": "https://en.wikipedia.org/wiki/In%20the%20Hollies%20Style",
+  "text_chars": 4391,
+  "exact_hash": "265edf08aa96153d3c1941ec5bc8b7197ec2e9fe887dc0eace71d73f72658ad2",
+  "source_score": 1041419254900226061989143902964678532177776652264805925606409731692002749486
+}

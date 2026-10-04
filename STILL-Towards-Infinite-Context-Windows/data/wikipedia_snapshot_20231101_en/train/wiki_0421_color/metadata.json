@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0421_color",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "5921",
+  "title": "Color",
+  "url": "https://en.wikipedia.org/wiki/Color",
+  "text_chars": 25621,
+  "exact_hash": "998ef14cac26b52e406ba8a4082dfd7548a19fd4f2c56648e57803f89c2835f8",
+  "source_score": 1784330199857759386443211181118933464089152809079331543014055061173240881476
+}

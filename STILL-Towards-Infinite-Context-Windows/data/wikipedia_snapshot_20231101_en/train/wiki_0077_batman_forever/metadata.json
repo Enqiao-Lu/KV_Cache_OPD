@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0077_batman_forever",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4730",
+  "title": "Batman Forever",
+  "url": "https://en.wikipedia.org/wiki/Batman%20Forever",
+  "text_chars": 30064,
+  "exact_hash": "6b3159c71442a67bb3ff593528cad96610c71459d86b28f1ca10c07282665df4",
+  "source_score": 353864982299771897031486382768808575353937102165300132102219866756515456216
+}

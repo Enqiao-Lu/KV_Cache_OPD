@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0475_cel_l_eng_r",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4558522",
+  "title": "Cel\u00e2l \u015eeng\u00f6r",
+  "url": "https://en.wikipedia.org/wiki/Cel%C3%A2l%20%C5%9Eeng%C3%B6r",
+  "text_chars": 9254,
+  "exact_hash": "e7e600a96a22207597d9ffd4a8ac505c1c3d6c439b942f3f4ee1cd054cbf245a",
+  "source_score": 1929561596120047817528723669926909309638160671640272791224170627185563320458
+}

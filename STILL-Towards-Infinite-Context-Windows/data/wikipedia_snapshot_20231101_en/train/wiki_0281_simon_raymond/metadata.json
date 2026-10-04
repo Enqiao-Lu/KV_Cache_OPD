@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0281_simon_raymond",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4412038",
+  "title": "Simon Raymond",
+  "url": "https://en.wikipedia.org/wiki/Simon%20Raymond",
+  "text_chars": 11218,
+  "exact_hash": "8ae15f0f529ea705c4ac396f485d219aca90ff6708fe6142811a148fa6a529a2",
+  "source_score": 1192243886015358441584699789860033527012633909461239990527810941668795180699
+}

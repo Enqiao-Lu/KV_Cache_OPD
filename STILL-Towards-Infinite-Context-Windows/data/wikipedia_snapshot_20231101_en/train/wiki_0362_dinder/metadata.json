@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0362_dinder",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4684563",
+  "title": "Dinder",
+  "url": "https://en.wikipedia.org/wiki/Dinder",
+  "text_chars": 4283,
+  "exact_hash": "8d00b954f7cb270b62568fa3328290b45ef48e265c6d805362136990d1bde9cd",
+  "source_score": 1497828875598626724991968804743147640756620568044806594856835545432126505837
+}

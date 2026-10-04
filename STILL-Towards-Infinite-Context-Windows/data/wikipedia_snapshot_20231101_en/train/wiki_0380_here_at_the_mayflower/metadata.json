@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0380_here_at_the_mayflower",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4132068",
+  "title": "Here at the Mayflower",
+  "url": "https://en.wikipedia.org/wiki/Here%20at%20the%20Mayflower",
+  "text_chars": 4757,
+  "exact_hash": "1ca517a98cebc0180040578db69ea777bb481ec4c1da7999e8bbb98a5aed2669",
+  "source_score": 1568523248200161032061372767007825142028031127435306459271015521667826709094
+}

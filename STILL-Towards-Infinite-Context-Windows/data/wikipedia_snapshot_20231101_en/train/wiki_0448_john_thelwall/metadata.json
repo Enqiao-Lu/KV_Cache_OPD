@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0448_john_thelwall",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4752901",
+  "title": "John Thelwall",
+  "url": "https://en.wikipedia.org/wiki/John%20Thelwall",
+  "text_chars": 11156,
+  "exact_hash": "f959972dacfd30d7b0644be927e3335753b16796f01e2bade4882906b50e5a66",
+  "source_score": 1864873286840721251833551706391450182560508324771864469313373725643174959842
+}

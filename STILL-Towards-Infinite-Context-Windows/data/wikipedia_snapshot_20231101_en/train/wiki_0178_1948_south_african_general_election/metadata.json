@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0178_1948_south_african_general_election",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4102905",
+  "title": "1948 South African general election",
+  "url": "https://en.wikipedia.org/wiki/1948%20South%20African%20general%20election",
+  "text_chars": 10948,
+  "exact_hash": "ecc94b87436ea3ce2d6d8ee8b1d4946875c8bedcf72c7d33f45e88af7441ac04",
+  "source_score": 737012233108338175081164522123156039950406416538255818798943871040780169391
+}

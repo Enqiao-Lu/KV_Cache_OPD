@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0253_munjoy_hill",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4326360",
+  "title": "Munjoy Hill",
+  "url": "https://en.wikipedia.org/wiki/Munjoy%20Hill",
+  "text_chars": 6625,
+  "exact_hash": "eae4b8d20207aa5da8f93a368011319bb5d89a5d81530e9f3e099736a4a98b30",
+  "source_score": 1001284390280299489833933172848001925399954592533851890780674892769991520897
+}

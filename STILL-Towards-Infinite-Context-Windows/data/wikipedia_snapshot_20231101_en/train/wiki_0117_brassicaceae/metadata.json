@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0117_brassicaceae",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "3794",
+  "title": "Brassicaceae",
+  "url": "https://en.wikipedia.org/wiki/Brassicaceae",
+  "text_chars": 19686,
+  "exact_hash": "7d94e18880af8d7fe89af5a85284120201aa52060ce5ad135e7a062a27992973",
+  "source_score": 541418324186324666392870348557661157279425055287194467727080032762073797608
+}

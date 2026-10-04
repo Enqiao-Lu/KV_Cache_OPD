@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0049_timeline_of_the_cox_report_controversy",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4325188",
+  "title": "Timeline of the Cox Report controversy",
+  "url": "https://en.wikipedia.org/wiki/Timeline%20of%20the%20Cox%20Report%20controversy",
+  "text_chars": 14541,
+  "exact_hash": "8664d91f60d85022e5b0908b7c4b8780c71f1625097a8dd0d11bf0090eac5cde",
+  "source_score": 247607891003241757611934632489435313536886443092072169418699879473874511666
+}

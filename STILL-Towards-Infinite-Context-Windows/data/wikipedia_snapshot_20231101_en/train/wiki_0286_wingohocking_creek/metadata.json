@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0286_wingohocking_creek",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4605909",
+  "title": "Wingohocking Creek",
+  "url": "https://en.wikipedia.org/wiki/Wingohocking%20Creek",
+  "text_chars": 4602,
+  "exact_hash": "30ae1b5806f14ffdc33f08556a217c17e9fa30b7cf278ba2162c0f93f1c00223",
+  "source_score": 1204997828167062029925788868611172398993039685689891044877458416887397615670
+}

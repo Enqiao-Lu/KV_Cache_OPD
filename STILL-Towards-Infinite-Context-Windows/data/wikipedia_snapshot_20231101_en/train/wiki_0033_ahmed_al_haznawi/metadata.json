@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0033_ahmed_al_haznawi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "3222",
+  "title": "Ahmed al-Haznawi",
+  "url": "https://en.wikipedia.org/wiki/Ahmed%20al-Haznawi",
+  "text_chars": 7088,
+  "exact_hash": "468aaa088022b19f371a13e919e891e0d7da68e88558c7c5cfb3aa16c9c97439",
+  "source_score": 183541028459754487295655072061109120721947402373824458315971118699004797012
+}

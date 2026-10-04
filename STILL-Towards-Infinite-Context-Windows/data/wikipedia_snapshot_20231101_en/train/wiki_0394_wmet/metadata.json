@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0394_wmet",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4567261",
+  "title": "WMET",
+  "url": "https://en.wikipedia.org/wiki/WMET",
+  "text_chars": 9087,
+  "exact_hash": "16fa4b981c108f289ff1c70a16b65826a7587ec6e55f1eae163fae7f03032835",
+  "source_score": 1658132407604289135368121550370600558867313409109631089141149782306746235220
+}

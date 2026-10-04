@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0382_richard_e_kraus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4652869",
+  "title": "Richard E. Kraus",
+  "url": "https://en.wikipedia.org/wiki/Richard%20E.%20Kraus",
+  "text_chars": 4506,
+  "exact_hash": "c15c98c6f85c8e3f240564cd2be5a11b3f1f39b14e4c096a57c9a5a8dfc2e872",
+  "source_score": 1602153524728257535155923356401161743921011567303682607079325138812565375600
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0396_lorenz_lange",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4215603",
+  "title": "Lorenz Lange",
+  "url": "https://en.wikipedia.org/wiki/Lorenz%20Lange",
+  "text_chars": 4525,
+  "exact_hash": "72a21769338d53b0fe79e18699d40bfa18642ca5a886b7cca498cfc70a48b5ce",
+  "source_score": 1673324084829610280257221373836769400503014214158456728527260560303152635221
+}

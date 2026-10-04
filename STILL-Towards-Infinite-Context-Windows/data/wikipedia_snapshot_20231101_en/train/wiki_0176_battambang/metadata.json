@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0176_battambang",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4459817",
+  "title": "Battambang",
+  "url": "https://en.wikipedia.org/wiki/Battambang",
+  "text_chars": 11216,
+  "exact_hash": "84bda39700152c89a8e7186d5371d2ff1c06e4d141e8cd77023a852c898db11e",
+  "source_score": 736950051242759187681943881305708029588416879604066156025352773268602079895
+}

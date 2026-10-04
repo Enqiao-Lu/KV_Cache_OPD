@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0011_ruxton_automobile",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4189236",
+  "title": "Ruxton (automobile)",
+  "url": "https://en.wikipedia.org/wiki/Ruxton%20%28automobile%29",
+  "text_chars": 5042,
+  "exact_hash": "d065b581528509c639e2c046c092e49c4a2ffaa9b86e4d2a2544fd2bf6773dd4",
+  "source_score": 33269506614508081450705604731353503345124810608477695831317542771784625231
+}

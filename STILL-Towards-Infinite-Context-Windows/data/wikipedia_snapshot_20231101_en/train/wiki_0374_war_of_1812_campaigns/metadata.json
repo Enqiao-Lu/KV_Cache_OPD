@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0374_war_of_1812_campaigns",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4648504",
+  "title": "War of 1812 campaigns",
+  "url": "https://en.wikipedia.org/wiki/War%20of%201812%20campaigns",
+  "text_chars": 9022,
+  "exact_hash": "c330a942b225d8fd96c83bef426bd44048ea388ad0962d33cabae8957bfdde5e",
+  "source_score": 1555668117082595921300147927249378309962515852087069435955046825051907245064
+}

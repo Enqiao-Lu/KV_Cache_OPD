@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0466_france_iran_relations",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4677443",
+  "title": "France\u2013Iran relations",
+  "url": "https://en.wikipedia.org/wiki/France%E2%80%93Iran%20relations",
+  "text_chars": 22240,
+  "exact_hash": "59d4aa5fc19dbb1ba6a599ee60dbedcea73129636399d4bb50603038f0c50ee9",
+  "source_score": 1900518884116327344917253733062240495974511388511954988032446127056230267629
+}

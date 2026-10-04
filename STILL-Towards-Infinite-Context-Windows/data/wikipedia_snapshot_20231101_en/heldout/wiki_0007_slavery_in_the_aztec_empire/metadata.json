@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0007_slavery_in_the_aztec_empire",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4683060",
+  "title": "Slavery in the Aztec Empire",
+  "url": "https://en.wikipedia.org/wiki/Slavery%20in%20the%20Aztec%20Empire",
+  "text_chars": 8863,
+  "exact_hash": "7530a2777a79726a25a2553a3a5499c7cbcf23bec4aa8049bd4388db45bdf779",
+  "source_score": 25298626927793487464099320067901443423552398416685442054700128407097906792
+}

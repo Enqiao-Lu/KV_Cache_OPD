@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0403_dart_underground",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4707502",
+  "title": "DART Underground",
+  "url": "https://en.wikipedia.org/wiki/DART%20Underground",
+  "text_chars": 9248,
+  "exact_hash": "0fabe0875f7a7853b7caefeb97cd053193ffe87a781039c4715d0f58c22279c4",
+  "source_score": 1709249904439575980898912159526474545339924353754651143003836217068692497791
+}

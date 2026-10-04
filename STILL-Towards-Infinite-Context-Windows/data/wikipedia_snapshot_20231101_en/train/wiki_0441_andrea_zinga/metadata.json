@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0441_andrea_zinga",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4617527",
+  "title": "Andrea Zinga",
+  "url": "https://en.wikipedia.org/wiki/Andrea%20Zinga",
+  "text_chars": 4186,
+  "exact_hash": "e847ca1525f566b530db0899acbacb29be8296516963b84d622812140ae37657",
+  "source_score": 1857543303245841652036922853095475034748143311319982980820583686789444733206
+}

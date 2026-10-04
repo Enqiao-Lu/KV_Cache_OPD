@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0216_alexander_brydie_dyer",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4139782",
+  "title": "Alexander Brydie Dyer",
+  "url": "https://en.wikipedia.org/wiki/Alexander%20Brydie%20Dyer",
+  "text_chars": 4087,
+  "exact_hash": "104f6a61b0316ca6073eefb0f854d8c4e42bc2bc8e1a32bf1a7aff6e4da8bd48",
+  "source_score": 853865802111214342946919404922225928062885012301050215593570868886206525565
+}

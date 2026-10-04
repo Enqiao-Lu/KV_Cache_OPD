@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0392_plexi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4168983",
+  "title": "Plexi",
+  "url": "https://en.wikipedia.org/wiki/Plexi",
+  "text_chars": 6139,
+  "exact_hash": "77ddab98bd7ac7c05d595e141f02d773a320c8e3ba10e7aa2a21e6503bbefe90",
+  "source_score": 1655914529581283935373970424783139836492326011681478608749186882959856661836
+}

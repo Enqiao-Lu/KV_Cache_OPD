@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0317_paul_omodei",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4497858",
+  "title": "Paul Omodei",
+  "url": "https://en.wikipedia.org/wiki/Paul%20Omodei",
+  "text_chars": 4400,
+  "exact_hash": "008542befe404c4394b99a712f82d92f85ce394abeaff155d5289b891741a388",
+  "source_score": 1332926107404870505715327636317066589630728640113307221983787544785699623638
+}

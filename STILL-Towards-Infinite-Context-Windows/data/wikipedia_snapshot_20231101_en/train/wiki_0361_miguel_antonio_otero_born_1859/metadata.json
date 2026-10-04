@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0361_miguel_antonio_otero_born_1859",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4190264",
+  "title": "Miguel Antonio Otero (born 1859)",
+  "url": "https://en.wikipedia.org/wiki/Miguel%20Antonio%20Otero%20%28born%201859%29",
+  "text_chars": 7023,
+  "exact_hash": "a87648f90bec4e8f5a6804747cc336e7e5bd4b966191d29e79adf08c30a535ff",
+  "source_score": 1489460466200018895162255069704724226335235738900852421992733697355610160765
+}

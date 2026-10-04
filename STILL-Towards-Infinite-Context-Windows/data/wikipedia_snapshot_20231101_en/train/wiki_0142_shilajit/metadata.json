@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0142_shilajit",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4632952",
+  "title": "Shilajit",
+  "url": "https://en.wikipedia.org/wiki/Shilajit",
+  "text_chars": 7631,
+  "exact_hash": "6fb39501f95e4673225b4e333b27bf5246c80a2aef8564e00c912825d05efe17",
+  "source_score": 613650116452154446893445525489229955344793943358173999398821537600338665251
+}

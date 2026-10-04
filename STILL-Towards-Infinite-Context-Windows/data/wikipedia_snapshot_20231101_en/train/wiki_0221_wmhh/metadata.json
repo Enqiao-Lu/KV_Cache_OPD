@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0221_wmhh",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4446142",
+  "title": "WMHH",
+  "url": "https://en.wikipedia.org/wiki/WMHH",
+  "text_chars": 4606,
+  "exact_hash": "f0aa3e46b606b7f0b2534311c89d94b307c6c075506dfb23b85f412d94d18de7",
+  "source_score": 872818278355624107526949195648023648094902445628843277226029940125412514865
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0256_aviv_kohavi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4239807",
+  "title": "Aviv Kohavi",
+  "url": "https://en.wikipedia.org/wiki/Aviv%20Kohavi",
+  "text_chars": 7034,
+  "exact_hash": "7ab58d1d9dfd9b374d79f20f9658d1e68cba3855b3506021ebfee70174518e3f",
+  "source_score": 1007920371497661394761370160005343401479388978144650090318825348108037183889
+}

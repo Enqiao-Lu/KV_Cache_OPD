@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0202_crusher_joe",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4609022",
+  "title": "Crusher Joe",
+  "url": "https://en.wikipedia.org/wiki/Crusher%20Joe",
+  "text_chars": 6264,
+  "exact_hash": "b0b9961e569343f6759902e399e20edfa92664b51e49d5cb327f49c5bc83c761",
+  "source_score": 801757829513755364466350812964810358990950832220574252167672438241497468351
+}

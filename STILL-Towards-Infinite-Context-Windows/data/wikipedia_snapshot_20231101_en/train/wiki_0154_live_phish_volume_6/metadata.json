@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0154_live_phish_volume_6",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4742400",
+  "title": "Live Phish Volume 6",
+  "url": "https://en.wikipedia.org/wiki/Live%20Phish%20Volume%206",
+  "text_chars": 4182,
+  "exact_hash": "f1fb791f8959692c44cdf0f3b109f646943397a7d9f1e85ee19a917313b79ba2",
+  "source_score": 657096329416135251921506458259163665079011302762077342154239913699763625058
+}

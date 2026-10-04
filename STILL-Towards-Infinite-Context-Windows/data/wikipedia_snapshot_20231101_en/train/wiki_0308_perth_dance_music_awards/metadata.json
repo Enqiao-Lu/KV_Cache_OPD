@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0308_perth_dance_music_awards",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4224440",
+  "title": "Perth Dance Music Awards",
+  "url": "https://en.wikipedia.org/wiki/Perth%20Dance%20Music%20Awards",
+  "text_chars": 15446,
+  "exact_hash": "c5bb49abdcd17742918cacca91da529de3036c070a5dbdcff4452d099e61cf1c",
+  "source_score": 1295952317101620411030764685144169178854331201575455322878131107661975752617
+}

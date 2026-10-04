@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0024_eye_of_the_beholder_star_trek_the_next_generation",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4201087",
+  "title": "Eye of the Beholder (Star Trek: The Next Generation)",
+  "url": "https://en.wikipedia.org/wiki/Eye%20of%20the%20Beholder%20%28Star%20Trek%3A%20The%20Next%20Generation%29",
+  "text_chars": 5132,
+  "exact_hash": "70f7139944c1a60a4e386e142e1159e8b5860ded3b56121924191ae8b010ccc3",
+  "source_score": 149432645982528484367902280346609354283009712409096352797047875003463902668
+}

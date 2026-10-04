@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0123_toby_mangel",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4704693",
+  "title": "Toby Mangel",
+  "url": "https://en.wikipedia.org/wiki/Toby%20Mangel",
+  "text_chars": 4838,
+  "exact_hash": "5b714e83b4798c3f3b4aae07e932143415f6e8db0927ebdda2c84dc689f7abca",
+  "source_score": 567737552562255962643799789377844201892181144017189625436656584549791452715
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0102_christian_borle",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4239468",
+  "title": "Christian Borle",
+  "url": "https://en.wikipedia.org/wiki/Christian%20Borle",
+  "text_chars": 10539,
+  "exact_hash": "23a68d3bb40e67b9a4bded9b2e3cbb6a813c04ae27f19d4c829d5e168849f3d1",
+  "source_score": 490438339196773496822008243133941045755330519479552018306194547830038428328
+}

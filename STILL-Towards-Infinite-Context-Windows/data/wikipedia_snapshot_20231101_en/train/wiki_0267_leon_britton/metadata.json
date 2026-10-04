@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0267_leon_britton",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4769171",
+  "title": "Leon Britton",
+  "url": "https://en.wikipedia.org/wiki/Leon%20Britton",
+  "text_chars": 7665,
+  "exact_hash": "837a7791ae0a149c33f3459a0812f3669e32c2ccac39b55cb6bc6560c29fe0b5",
+  "source_score": 1083297003027496287490452403338788212020445818029925273646200589351724487289
+}

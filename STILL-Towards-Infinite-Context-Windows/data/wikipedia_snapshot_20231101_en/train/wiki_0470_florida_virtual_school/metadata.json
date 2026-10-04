@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0470_florida_virtual_school",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4542004",
+  "title": "Florida Virtual School",
+  "url": "https://en.wikipedia.org/wiki/Florida%20Virtual%20School",
+  "text_chars": 8391,
+  "exact_hash": "374ad1c2926d7fce3113e1ecec43cc45752b64c31c89c138c8e91fd5c922bd9c",
+  "source_score": 1907442541624883568589719284575005382030420430071415974619671732762840692194
+}

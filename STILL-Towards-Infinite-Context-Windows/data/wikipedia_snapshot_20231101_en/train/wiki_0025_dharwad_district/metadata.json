@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0025_dharwad_district",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4762950",
+  "title": "Dharwad district",
+  "url": "https://en.wikipedia.org/wiki/Dharwad%20district",
+  "text_chars": 12325,
+  "exact_hash": "18a57de1fa8ddfc18b1f1f6eb8289fe0af8202526c782f2b2387bb2018c428a1",
+  "source_score": 151318642024813778117054094017452296496531075200973750636852987483260640918
+}

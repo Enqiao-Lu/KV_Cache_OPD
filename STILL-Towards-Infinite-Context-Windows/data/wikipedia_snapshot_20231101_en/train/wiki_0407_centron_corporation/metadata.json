@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0407_centron_corporation",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4233605",
+  "title": "Centron Corporation",
+  "url": "https://en.wikipedia.org/wiki/Centron%20Corporation",
+  "text_chars": 5588,
+  "exact_hash": "a417aa4f915e8e13100ab6d6a0db2407e763d89dc8d36e53c04fc4d006e63bb2",
+  "source_score": 1720087195084365454858991727265902757513178063946477865178652556530085398002
+}

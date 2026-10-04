@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0293_randall_v_orange_county_council",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4158055",
+  "title": "Randall v. Orange County Council",
+  "url": "https://en.wikipedia.org/wiki/Randall%20v.%20Orange%20County%20Council",
+  "text_chars": 4172,
+  "exact_hash": "e0dcb4bdfa0a7a056708bc738f3e7a627d33d09420575f2c90a1c550a52ec791",
+  "source_score": 1243600386829934840171995507572150383704221261707766237917273341294133217041
+}

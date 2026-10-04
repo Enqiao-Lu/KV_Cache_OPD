@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0017_monte_melkonian",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4268523",
+  "title": "Monte Melkonian",
+  "url": "https://en.wikipedia.org/wiki/Monte%20Melkonian",
+  "text_chars": 20357,
+  "exact_hash": "d5ce36783ef9a7d07ccd83d2842f045c21f3e3ae8f8678cfca27bfeacbcbaf51",
+  "source_score": 53604805283713267993899749991444904959924081578262424134750104438315902767
+}

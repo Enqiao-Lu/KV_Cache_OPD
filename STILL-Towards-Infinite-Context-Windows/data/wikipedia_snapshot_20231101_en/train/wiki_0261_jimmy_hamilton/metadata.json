@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0261_jimmy_hamilton",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4560316",
+  "title": "Jimmy Hamilton",
+  "url": "https://en.wikipedia.org/wiki/Jimmy%20Hamilton",
+  "text_chars": 5531,
+  "exact_hash": "647edd16e61f7ee6bdd8ea5409993279b68a0a4dd1689c92b7b311bd1712b2b1",
+  "source_score": 1028563754898312511138017463727375094100568099111548332446812492022841212752
+}

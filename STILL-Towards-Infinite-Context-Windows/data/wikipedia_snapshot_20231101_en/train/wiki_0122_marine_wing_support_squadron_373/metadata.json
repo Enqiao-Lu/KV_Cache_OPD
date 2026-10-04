@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0122_marine_wing_support_squadron_373",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4702826",
+  "title": "Marine Wing Support Squadron 373",
+  "url": "https://en.wikipedia.org/wiki/Marine%20Wing%20Support%20Squadron%20373",
+  "text_chars": 7013,
+  "exact_hash": "df3de9de92f3b4808cf05fd4b67273a71a72072a06f139973533211815a03ce1",
+  "source_score": 566515531745162427234379035882705605633160440043536081379974244651276796623
+}

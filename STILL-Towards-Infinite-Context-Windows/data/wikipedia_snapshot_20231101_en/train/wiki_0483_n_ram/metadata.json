@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0483_n_ram",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4399151",
+  "title": "N. Ram",
+  "url": "https://en.wikipedia.org/wiki/N.%20Ram",
+  "text_chars": 7538,
+  "exact_hash": "c2476e8fb3f6e3f96f998b7bacfff23e9c19ba69d56728924090379b244c0913",
+  "source_score": 1949618371780133015764267279306487762449337319595389005831219561347940583668
+}

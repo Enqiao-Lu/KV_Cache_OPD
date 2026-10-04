@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0094_lafayette_flying_corps",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4485342",
+  "title": "Lafayette Flying Corps",
+  "url": "https://en.wikipedia.org/wiki/Lafayette%20Flying%20Corps",
+  "text_chars": 9963,
+  "exact_hash": "5181aad07fd780be2ffc62d9a78cd9e8875f2213e83065adbe253dbdabb19e6c",
+  "source_score": 441014138300424874412187354857536981299476217613068724466700184958648240989
+}

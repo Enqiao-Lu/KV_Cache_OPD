@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0356_obalumo",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4556521",
+  "title": "Obalumo",
+  "url": "https://en.wikipedia.org/wiki/Obalumo",
+  "text_chars": 12847,
+  "exact_hash": "2eebc4c984e0071b72640eed27dd37515505b42803900ad000f9c2a18fa8fd91",
+  "source_score": 1478769236037461791423287113242432662683864060346155780575475133739689042398
+}

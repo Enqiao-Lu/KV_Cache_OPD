@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0416_les_disques_du_cr_puscule",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4319030",
+  "title": "Les Disques du Cr\u00e9puscule",
+  "url": "https://en.wikipedia.org/wiki/Les%20Disques%20du%20Cr%C3%A9puscule",
+  "text_chars": 5037,
+  "exact_hash": "8f4808d5ae8f3bccfa2ad15b2d7c5754c1ec4502e49663695888716faf7bdaf4",
+  "source_score": 1754792395858888043546141948525583112096218892627793314892774846531902584827
+}

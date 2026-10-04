@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0040_the_lieutenant_of_inishmore",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4630177",
+  "title": "The Lieutenant of Inishmore",
+  "url": "https://en.wikipedia.org/wiki/The%20Lieutenant%20of%20Inishmore",
+  "text_chars": 6178,
+  "exact_hash": "0fa49fec87035ec6bd7ea7757deee558945deb08c2b263f8a3b8bb40cea4ded0",
+  "source_score": 218228584175886873215756211909915049728640560367913920288114931820319318459
+}

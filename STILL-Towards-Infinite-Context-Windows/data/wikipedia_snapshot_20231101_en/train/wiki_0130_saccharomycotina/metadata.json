@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0130_saccharomycotina",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4341336",
+  "title": "Saccharomycotina",
+  "url": "https://en.wikipedia.org/wiki/Saccharomycotina",
+  "text_chars": 7122,
+  "exact_hash": "d4da38a995208312a15670f381d69f22e4df47bdbdcfd5dfab4a447ebf3a2ef9",
+  "source_score": 578106606426547911694528158272698167340925937983443706905151313261311655893
+}

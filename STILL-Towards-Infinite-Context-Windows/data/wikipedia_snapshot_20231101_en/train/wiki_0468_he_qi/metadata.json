@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0468_he_qi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4647271",
+  "title": "He Qi",
+  "url": "https://en.wikipedia.org/wiki/He%20Qi",
+  "text_chars": 10525,
+  "exact_hash": "039ccc02e7b71a922c0d185091435fc63d056ed9300e559aa05ce618dedabd7f",
+  "source_score": 1904447258347776923436559763837194729363670171219271094924966752998653527313
+}

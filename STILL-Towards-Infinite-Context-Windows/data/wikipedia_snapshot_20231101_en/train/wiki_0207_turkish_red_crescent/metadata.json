@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0207_turkish_red_crescent",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4243897",
+  "title": "Turkish Red Crescent",
+  "url": "https://en.wikipedia.org/wiki/Turkish%20Red%20Crescent",
+  "text_chars": 5547,
+  "exact_hash": "3e4b16a6c426feb346f254ecd18d5e8984e8164de7d844c569977237a03859e3",
+  "source_score": 824134468017131837502944345700977685811168378386939969182541996660657411185
+}

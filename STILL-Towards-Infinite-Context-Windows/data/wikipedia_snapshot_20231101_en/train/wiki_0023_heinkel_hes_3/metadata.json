@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0023_heinkel_hes_3",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4115764",
+  "title": "Heinkel HeS 3",
+  "url": "https://en.wikipedia.org/wiki/Heinkel%20HeS%203",
+  "text_chars": 4139,
+  "exact_hash": "eda985363a77a6063ea002903ec8c715b9669ec704795fb70c57356351c0006b",
+  "source_score": 149284783533194094219327954629736641883995347307409138554065534669456526285
+}

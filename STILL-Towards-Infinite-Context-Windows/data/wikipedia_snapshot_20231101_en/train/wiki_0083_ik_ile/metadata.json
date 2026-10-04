@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0083_ik_ile",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4465710",
+  "title": "Ik\u0161\u0137ile",
+  "url": "https://en.wikipedia.org/wiki/Ik%C5%A1%C4%B7ile",
+  "text_chars": 8970,
+  "exact_hash": "d35b35750802d22e716b0c986f5aaceefbe87d21b55bc6b5eed64d86cb5d3e6c",
+  "source_score": 375530495430452305499982109280910700624860295525482004784933870399924207075
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0486_zoe_telford",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4544652",
+  "title": "Zoe Telford",
+  "url": "https://en.wikipedia.org/wiki/Zoe%20Telford",
+  "text_chars": 5307,
+  "exact_hash": "3422816ef0d613b9ffd34e30f3cdcfb368383ed1961b7c7b0b1cd2a07cbda34a",
+  "source_score": 1960916963847098359666860880477474426136761732027176787828196341542616811099
+}

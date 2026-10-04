@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0027_the_diamonds",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4264276",
+  "title": "The Diamonds",
+  "url": "https://en.wikipedia.org/wiki/The%20Diamonds",
+  "text_chars": 8781,
+  "exact_hash": "0f9ffaa11d63aeb94956ca9855fb2913a21b847a2d14855adffaf50d00ecd296",
+  "source_score": 154101750903082633254262939043457972980307354205064301652583111791385806777
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0121_dinton_wiltshire",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4580394",
+  "title": "Dinton, Wiltshire",
+  "url": "https://en.wikipedia.org/wiki/Dinton%2C%20Wiltshire",
+  "text_chars": 8518,
+  "exact_hash": "ed1484f9091daac97851b6028f6da9628f0fa88b1368aa93af1cb9d6f9fc8789",
+  "source_score": 560044998110309612168682947904709918277173573277465229480446824848920736088
+}

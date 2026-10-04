@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0463_thirty_meter_telescope",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4266335",
+  "title": "Thirty Meter Telescope",
+  "url": "https://en.wikipedia.org/wiki/Thirty%20Meter%20Telescope",
+  "text_chars": 25902,
+  "exact_hash": "6b75cb693e46c90c6a3d8a474bd6a9a6b2aaa19888c84d4046ea3d94d78a10f1",
+  "source_score": 1894488889612325996728903893182866106026280981366695656469726385740793502400
+}

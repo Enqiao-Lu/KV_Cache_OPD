@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0159_what_kate_did",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4366557",
+  "title": "What Kate Did",
+  "url": "https://en.wikipedia.org/wiki/What%20Kate%20Did",
+  "text_chars": 5256,
+  "exact_hash": "2d3d9cc7171740a50897df028fdd87e3e328c06b0391993f57c7c300f7f83a9c",
+  "source_score": 686635428605686096307509720105793150242082034203517450354202033358367969968
+}

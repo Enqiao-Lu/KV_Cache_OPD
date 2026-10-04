@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0302_perth_heat",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4420858",
+  "title": "Perth Heat",
+  "url": "https://en.wikipedia.org/wiki/Perth%20Heat",
+  "text_chars": 17537,
+  "exact_hash": "a6c3bb2e46b45bc3be83da8ac77bc111524a0887febb716fb08746491bc76be5",
+  "source_score": 1267609262397398354654671338606042233455982439125415771184530679398079830979
+}

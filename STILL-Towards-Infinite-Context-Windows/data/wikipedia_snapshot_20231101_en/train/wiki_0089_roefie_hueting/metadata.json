@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0089_roefie_hueting",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4276139",
+  "title": "Roefie Hueting",
+  "url": "https://en.wikipedia.org/wiki/Roefie%20Hueting",
+  "text_chars": 5950,
+  "exact_hash": "02488e6a5fe7b15e42304cbd009871f03b34d5559641145d7589246306acc121",
+  "source_score": 418952100758340340359135856639415553925092035685041153417573818183083802904
+}

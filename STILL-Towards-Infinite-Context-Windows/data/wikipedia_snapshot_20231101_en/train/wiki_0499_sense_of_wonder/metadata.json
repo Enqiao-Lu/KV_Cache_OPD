@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0499_sense_of_wonder",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4763634",
+  "title": "Sense of wonder",
+  "url": "https://en.wikipedia.org/wiki/Sense%20of%20wonder",
+  "text_chars": 7802,
+  "exact_hash": "d14ffa3d1ae9e25a0ab83d64f69b5ec46afc69d6c8a1bf3919830899763c8192",
+  "source_score": 1993659523662486527774738545824890103806061202569285899124385640261619545190
+}

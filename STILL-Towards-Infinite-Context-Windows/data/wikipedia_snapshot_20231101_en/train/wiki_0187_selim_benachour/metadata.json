@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0187_selim_benachour",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4725852",
+  "title": "Selim Benachour",
+  "url": "https://en.wikipedia.org/wiki/Selim%20Benachour",
+  "text_chars": 7484,
+  "exact_hash": "923b350e5be03de05faba38e7a383298cf6dfe563238ac4aac17fc92a9fb1c29",
+  "source_score": 760195548324802158480052173092685459356945796383261229213906176080068324201
+}

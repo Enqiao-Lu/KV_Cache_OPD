@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0171_session_hijacking",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4456726",
+  "title": "Session hijacking",
+  "url": "https://en.wikipedia.org/wiki/Session%20hijacking",
+  "text_chars": 8257,
+  "exact_hash": "0bd66a2e56c0bb457d583d46b00691bc4d484e94f9720e69aea77ee6cff68e20",
+  "source_score": 724566332276606036452660431006270725082800495736596753560461530241484009255
+}

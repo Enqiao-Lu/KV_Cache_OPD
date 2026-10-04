@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0485_the_last_kingdom",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4351433",
+  "title": "The Last Kingdom",
+  "url": "https://en.wikipedia.org/wiki/The%20Last%20Kingdom",
+  "text_chars": 6622,
+  "exact_hash": "e825983b402cd47bf173cef0875127b3d0beeb5e317a3737bf28df532c7a0d47",
+  "source_score": 1960584265987615244180816494716504533760668049533786019919664475778677762278
+}

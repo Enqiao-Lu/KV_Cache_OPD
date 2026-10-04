@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0009_molasses_act",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4205990",
+  "title": "Molasses Act",
+  "url": "https://en.wikipedia.org/wiki/Molasses%20Act",
+  "text_chars": 4185,
+  "exact_hash": "4d70c7dfb512165b7ea6cd69066d7d89f103af9bb1fa58fd4ced3349e797c00b",
+  "source_score": 109247201382160651995508420836584717982869779264668077013880056342183499385
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0110_solo_qu_date_en_silencio",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4515971",
+  "title": "Solo Qu\u00e9date En Silencio",
+  "url": "https://en.wikipedia.org/wiki/Solo%20Qu%C3%A9date%20En%20Silencio",
+  "text_chars": 4375,
+  "exact_hash": "864f7d32e8901f8b954305ee92e3691140e870d52738f57d757b451098599897",
+  "source_score": 520718162173262313724740171159297852393660656405509608981054910972176930669
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0242_nintendo_european_research_development",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4291327",
+  "title": "Nintendo European Research & Development",
+  "url": "https://en.wikipedia.org/wiki/Nintendo%20European%20Research%20%26%20Development",
+  "text_chars": 5057,
+  "exact_hash": "6dd93bbff8dd3acfbdce9347d1c355d06189f3fc40f50e600432762f735bb28e",
+  "source_score": 962469730087021154250425227464266210822140568313711109523558034803176610550
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0057_hilary_robinson",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4732889",
+  "title": "Hilary Robinson",
+  "url": "https://en.wikipedia.org/wiki/Hilary%20Robinson",
+  "text_chars": 12362,
+  "exact_hash": "a00f460cfa0ab4dbe7f2688bfdce3fa21aff1cea322938be0409548ae39cfd12",
+  "source_score": 279716187534371748869412330996619589452358777658070156955321018745790276275
+}

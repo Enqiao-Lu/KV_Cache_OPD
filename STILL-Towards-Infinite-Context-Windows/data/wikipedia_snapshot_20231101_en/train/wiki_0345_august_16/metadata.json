@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0345_august_16",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "1448",
+  "title": "August 16",
+  "url": "https://en.wikipedia.org/wiki/August%2016",
+  "text_chars": 29160,
+  "exact_hash": "aedfa75352a00fb2aa9e0fdb1ae484df26849f7a1ebb48c61967009ab60920b4",
+  "source_score": 1439271485153044611631054238047981919679040430732895477338169436223965748581
+}

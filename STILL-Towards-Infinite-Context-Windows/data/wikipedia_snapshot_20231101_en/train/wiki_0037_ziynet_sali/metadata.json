@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0037_ziynet_sali",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4404343",
+  "title": "Ziynet Sali",
+  "url": "https://en.wikipedia.org/wiki/Ziynet%20Sali",
+  "text_chars": 16962,
+  "exact_hash": "721cc34127c67210999fa21ff96ad96be90e911f837ad5b9f02abb5cc45e1f0d",
+  "source_score": 208111289601771009887390140546479497396935566264059576507429251830960943304
+}

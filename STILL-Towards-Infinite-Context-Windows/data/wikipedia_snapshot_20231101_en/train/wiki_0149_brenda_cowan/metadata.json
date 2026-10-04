@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0149_brenda_cowan",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4667066",
+  "title": "Brenda Cowan",
+  "url": "https://en.wikipedia.org/wiki/Brenda%20Cowan",
+  "text_chars": 4333,
+  "exact_hash": "f235f1e805a37db6311e1c21d6d45a3c9ca3ef1ae47ba233fcd5e80ba9f53254",
+  "source_score": 639447589111800730676745405491354782244439088253466622727717358071595350924
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0112_1899_in_baseball",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4492623",
+  "title": "1899 in baseball",
+  "url": "https://en.wikipedia.org/wiki/1899%20in%20baseball",
+  "text_chars": 7715,
+  "exact_hash": "dcfb970e8a2fb341588f64687515a43f984aec3b79f3f1ffcb61100bf9c4cc43",
+  "source_score": 523337712645957413673385811755045461771842777781120559324240079738825035714
+}

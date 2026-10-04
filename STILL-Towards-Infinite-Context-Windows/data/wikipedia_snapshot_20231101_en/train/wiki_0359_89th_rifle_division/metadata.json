@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0359_89th_rifle_division",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4527153",
+  "title": "89th Rifle Division",
+  "url": "https://en.wikipedia.org/wiki/89th%20Rifle%20Division",
+  "text_chars": 10215,
+  "exact_hash": "0ef1dfe4f0bd39bf2a25f4594dd208f0c470f88503ab4c4947a879e4a3435640",
+  "source_score": 1483722081256728744888240652634855893839121373186451460532903117078790346566
+}

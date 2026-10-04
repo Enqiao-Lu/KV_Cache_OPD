@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0206_cadena_ser",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4117834",
+  "title": "Cadena SER",
+  "url": "https://en.wikipedia.org/wiki/Cadena%20SER",
+  "text_chars": 5423,
+  "exact_hash": "b239858de538db73e43d1aeb285f08f39328ed14e9b6e70867c6efdc12069cf5",
+  "source_score": 823598448432489853421385966629601751185409540090640456141633129915551292835
+}

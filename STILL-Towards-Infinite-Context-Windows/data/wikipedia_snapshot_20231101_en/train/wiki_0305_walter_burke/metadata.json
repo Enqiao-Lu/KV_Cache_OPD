@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0305_walter_burke",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4309229",
+  "title": "Walter Burke",
+  "url": "https://en.wikipedia.org/wiki/Walter%20Burke",
+  "text_chars": 11773,
+  "exact_hash": "0f05edc75c6c79d792426ec9d13490b7571dd43af00c8e67a1b17b0afd339aec",
+  "source_score": 1290912716696654075357706488186208697245384541482403957860898070044347315466
+}

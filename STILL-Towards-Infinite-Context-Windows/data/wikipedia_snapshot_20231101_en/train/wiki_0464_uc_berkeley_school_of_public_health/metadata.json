@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0464_uc_berkeley_school_of_public_health",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4683165",
+  "title": "UC Berkeley School of Public Health",
+  "url": "https://en.wikipedia.org/wiki/UC%20Berkeley%20School%20of%20Public%20Health",
+  "text_chars": 6061,
+  "exact_hash": "86a78be5de46f614db367fb124b73ce6affa8bcb2b8cbb66c879d03f3161cd1b",
+  "source_score": 1897281320942431545926207064856565585825501286800098325550546639347974718787
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0275_carbodies",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4421351",
+  "title": "Carbodies",
+  "url": "https://en.wikipedia.org/wiki/Carbodies",
+  "text_chars": 7855,
+  "exact_hash": "fd94b8772c579afb067b9a7b329352ce7d0af44be016008f0913de523afccc3b",
+  "source_score": 1149216822707227291813313618519100897127859465085353679803813796451789482317
+}

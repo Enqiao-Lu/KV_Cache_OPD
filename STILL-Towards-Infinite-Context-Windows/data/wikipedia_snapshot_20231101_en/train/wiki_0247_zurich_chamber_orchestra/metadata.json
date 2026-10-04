@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0247_zurich_chamber_orchestra",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4574918",
+  "title": "Zurich Chamber Orchestra",
+  "url": "https://en.wikipedia.org/wiki/Zurich%20Chamber%20Orchestra",
+  "text_chars": 4847,
+  "exact_hash": "01cfc51d4b0f0b4b334bfa7b79111d299f91bccfb2b361af072510a7a80541c7",
+  "source_score": 983232578788182392794526686649145403826739788589100267514948422635453347500
+}

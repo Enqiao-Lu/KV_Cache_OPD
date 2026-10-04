@@ -1,0 +1,44 @@
+{
+  "num_shared_prompts": 200,
+  "full": {
+    "exact_match_rate": 0.125,
+    "semantic_match_rate": 0.79,
+    "avg_total_latency_ms": 317.6934263249859,
+    "avg_prefill_ms": 74.67654189094901
+  },
+  "truncation": {
+    "exact_match_rate": 0.015,
+    "semantic_match_rate": 0.165,
+    "avg_total_latency_ms": 282.63141370844096,
+    "avg_prefill_ms": 22.929221405647695
+  },
+  "still": {
+    "exact_match_rate": 0.0,
+    "semantic_match_rate": 0.035,
+    "avg_total_latency_ms": 358.38778824545443,
+    "avg_prefill_ms": 26.268773176707327
+  },
+  "cartridges": {
+    "exact_match_rate": 0.11,
+    "semantic_match_rate": 0.77,
+    "avg_total_latency_ms": 303.8391259288788,
+    "avg_prefill_ms": 28.89114287376404
+  },
+  "still_avg_compression_ratio": 5.3777734375,
+  "cartridges_avg_compression_ratio": 5.3777734375,
+  "still_reusable_training_seconds": 731.2886568959802,
+  "still_target_build_seconds_total": 2.226389548741281,
+  "still_target_build_seconds_mean": 0.11131947743706405,
+  "cartridges_target_build_seconds_total": 1036.7800268614665,
+  "cartridges_target_build_seconds_mean": 51.83900134307332,
+  "still_amortized_training_seconds": {
+    "1_corpus": 731.2886568959802,
+    "10_corpora": 73.12886568959803,
+    "100_corpora": 7.312886568959803
+  },
+  "gate": {
+    "semantic_floor_ratio": 0.045454545454545456,
+    "still_reaches_70pct_cartridges_semantic": false,
+    "still_target_build_lower_than_cartridges": true
+  }
+}

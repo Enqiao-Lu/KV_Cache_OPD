@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0155_bajaur_district",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4461891",
+  "title": "Bajaur District",
+  "url": "https://en.wikipedia.org/wiki/Bajaur%20District",
+  "text_chars": 17180,
+  "exact_hash": "b5af34639f8d70a3d49ed1bd6548a8ec318df63dd4c6c0e53209da9bfad08de9",
+  "source_score": 661021185567367103303570491371636036528442555023171047793366640216446081734
+}

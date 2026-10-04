@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0042_wtby_tv",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4438117",
+  "title": "WTBY-TV",
+  "url": "https://en.wikipedia.org/wiki/WTBY-TV",
+  "text_chars": 5943,
+  "exact_hash": "0beb0df05dd028bff6747ba5b699c40bb4f23c4a5204ddd29f657322993270ea",
+  "source_score": 225707395898349593059719987186717176557056537998766958151710237779608299339
+}

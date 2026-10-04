@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0243_martin_boyd",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4495715",
+  "title": "Martin Boyd",
+  "url": "https://en.wikipedia.org/wiki/Martin%20Boyd",
+  "text_chars": 21287,
+  "exact_hash": "1ccd88380bef4e27555569d6a58ced7c68d2e9c8b53bf14d47fed4ab12e2f8bb",
+  "source_score": 963646473614603761611368383578925763309596947142026167006411782282985409222
+}

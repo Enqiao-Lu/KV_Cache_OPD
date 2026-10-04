@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0011_codename_sailor_v",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4078320",
+  "title": "Codename: Sailor V",
+  "url": "https://en.wikipedia.org/wiki/Codename%3A%20Sailor%20V",
+  "text_chars": 6141,
+  "exact_hash": "a5faa68cc7aa8c353d618527abaadbeb4589622e4d55f4dd4800580062f94d33",
+  "source_score": 110500230064024059186095390844366696484392897129803786365581254580087951438
+}

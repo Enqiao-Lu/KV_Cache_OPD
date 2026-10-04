@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0390_pxr5",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4259127",
+  "title": "PXR5",
+  "url": "https://en.wikipedia.org/wiki/PXR5",
+  "text_chars": 5882,
+  "exact_hash": "a7e81617313331b85d845a64f40d85744cf28aa3e2931e46c1fee36207bbd55e",
+  "source_score": 1645405471742340166287650694962345300456943258061093711955906273088879498840
+}

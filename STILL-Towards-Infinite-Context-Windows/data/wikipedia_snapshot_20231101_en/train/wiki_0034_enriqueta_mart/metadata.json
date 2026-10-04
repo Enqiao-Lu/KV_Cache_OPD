@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0034_enriqueta_mart",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4065756",
+  "title": "Enriqueta Mart\u00ed",
+  "url": "https://en.wikipedia.org/wiki/Enriqueta%20Mart%C3%AD",
+  "text_chars": 22040,
+  "exact_hash": "b3f6ed84634d440174dc0dbc789cc94eb0fc931b9453aca7f6dc4537656c0b00",
+  "source_score": 193978022070306143649900697249655189575910584191410760288407188697363568740
+}

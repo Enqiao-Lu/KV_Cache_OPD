@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0229_mohammed_khalid",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4412245",
+  "title": "Mohammed Khalid",
+  "url": "https://en.wikipedia.org/wiki/Mohammed%20Khalid",
+  "text_chars": 4920,
+  "exact_hash": "fe68f975b70713627e7098ce2c7ae68a600972adda995ce8b5ef02bf4a06ef89",
+  "source_score": 895476027789816190424094696463285832495227415226741851615687026161718912163
+}

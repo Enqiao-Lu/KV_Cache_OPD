@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0455_no_20_squadron_raaf",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4671740",
+  "title": "No. 20 Squadron RAAF",
+  "url": "https://en.wikipedia.org/wiki/No.%2020%20Squadron%20RAAF",
+  "text_chars": 7781,
+  "exact_hash": "4c334a18d2cb0ee64aa955ed4857834373a5b0abbe71c818b19ef66d523f2080",
+  "source_score": 1882343821411793856514652304387331505132936549775611084747153006998151855404
+}

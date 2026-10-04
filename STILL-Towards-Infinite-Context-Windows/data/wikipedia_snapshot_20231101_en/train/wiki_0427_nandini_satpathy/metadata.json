@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0427_nandini_satpathy",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4424966",
+  "title": "Nandini Satpathy",
+  "url": "https://en.wikipedia.org/wiki/Nandini%20Satpathy",
+  "text_chars": 6724,
+  "exact_hash": "5bf20ad0ab08f092bfdc1d8b3bf97102f25d527d03ddd9e59e16af163712e4c8",
+  "source_score": 1806620980441977854014718156696632587132211126933466234895634570848811218165
+}

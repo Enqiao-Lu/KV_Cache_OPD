@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0076_articulator",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4661818",
+  "title": "Articulator",
+  "url": "https://en.wikipedia.org/wiki/Articulator",
+  "text_chars": 4364,
+  "exact_hash": "48585704db52415fab1e974507ea6204f7f474bb12b14a90cce28a04fb23b73f",
+  "source_score": 352250485997648608369103750979906612925865306837451220850341819985239698953
+}

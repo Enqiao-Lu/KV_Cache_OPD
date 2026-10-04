@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0326_james_thomas_1st_viscount_cilcennin",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4630651",
+  "title": "James Thomas, 1st Viscount Cilcennin",
+  "url": "https://en.wikipedia.org/wiki/James%20Thomas%2C%201st%20Viscount%20Cilcennin",
+  "text_chars": 4167,
+  "exact_hash": "3f686be5890856bbe0ad271081673f29644ee34af1d747535b03367a6a03fc6a",
+  "source_score": 1378520465427949807174745159379311974071441196168159085734563274159292586938
+}

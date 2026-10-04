@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0118_irving_azoff",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4402928",
+  "title": "Irving Azoff",
+  "url": "https://en.wikipedia.org/wiki/Irving%20Azoff",
+  "text_chars": 5631,
+  "exact_hash": "3d2225be7e179e3870492fe8ce6676f3e543e4ad0dd4361d833fc42cce2e6e1b",
+  "source_score": 550474759044640317252166724920928036886401525602917571995918855097666381214
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0013_1975_76_in_english_football",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4069786",
+  "title": "1975\u201376 in English football",
+  "url": "https://en.wikipedia.org/wiki/1975%E2%80%9376%20in%20English%20football",
+  "text_chars": 14217,
+  "exact_hash": "119702e2585ddb21fdd6616b5078d34ae7b3c2b4f4ccf6fd512201d6cbaa1324",
+  "source_score": 116473005230186754206484529707920359781678172180853249603179647512919052191
+}

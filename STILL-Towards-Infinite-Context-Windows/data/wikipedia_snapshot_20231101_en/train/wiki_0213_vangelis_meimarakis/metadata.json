@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0213_vangelis_meimarakis",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4069387",
+  "title": "Vangelis Meimarakis",
+  "url": "https://en.wikipedia.org/wiki/Vangelis%20Meimarakis",
+  "text_chars": 4729,
+  "exact_hash": "60668fd908cfc5813994f4cef94a03b1b8f6b11c8f62b0edec6b8f52a36a86e1",
+  "source_score": 850994150473175102638094454718559451839830371147079879115028861448891812387
+}

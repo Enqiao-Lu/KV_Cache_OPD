@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0238_hub_balochistan",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4419013",
+  "title": "Hub, Balochistan",
+  "url": "https://en.wikipedia.org/wiki/Hub%2C%20Balochistan",
+  "text_chars": 4565,
+  "exact_hash": "102c760a2bfb937c42c98b48c492ca8635034b9d15f7ce3e329f39128c600aa2",
+  "source_score": 935893791758833960987628496876568786264094215907339295462626742452408343879
+}

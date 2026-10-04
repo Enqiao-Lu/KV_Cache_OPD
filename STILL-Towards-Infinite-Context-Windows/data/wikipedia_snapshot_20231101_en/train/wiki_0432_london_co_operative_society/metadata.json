@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0432_london_co_operative_society",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4436477",
+  "title": "London Co-operative Society",
+  "url": "https://en.wikipedia.org/wiki/London%20Co-operative%20Society",
+  "text_chars": 5458,
+  "exact_hash": "5c14a461e47a9bcd9c88493fb762458ad6a64dcaf7553c628279ae35255eecee",
+  "source_score": 1825506066829618768295351859824484556149418621113050422275146944905787171457
+}

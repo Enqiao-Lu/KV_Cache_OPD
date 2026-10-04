@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0456_kamikaze_1937_aircraft",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4342017",
+  "title": "Kamikaze (1937 aircraft)",
+  "url": "https://en.wikipedia.org/wiki/Kamikaze%20%281937%20aircraft%29",
+  "text_chars": 4574,
+  "exact_hash": "91bb5fd31c784b5120986ac268dae52f7281a06a28398259f7a2c324ffdecd8b",
+  "source_score": 1883117807877847834230149904078248165156415403808441488048471811777406078689
+}

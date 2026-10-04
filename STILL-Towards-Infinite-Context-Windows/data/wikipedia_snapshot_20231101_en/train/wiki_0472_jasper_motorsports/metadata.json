@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0472_jasper_motorsports",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4142854",
+  "title": "Jasper Motorsports",
+  "url": "https://en.wikipedia.org/wiki/Jasper%20Motorsports",
+  "text_chars": 7379,
+  "exact_hash": "d0aa41f46d54ea5056775e30cbaeb84cc41e6b3c688c107467c9097172084241",
+  "source_score": 1914252476152496104664693647515547371940611417478260404951722298128152970302
+}

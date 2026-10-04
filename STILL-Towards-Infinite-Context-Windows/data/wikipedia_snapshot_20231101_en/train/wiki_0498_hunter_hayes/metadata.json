@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0498_hunter_hayes",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4202928",
+  "title": "Hunter Hayes",
+  "url": "https://en.wikipedia.org/wiki/Hunter%20Hayes",
+  "text_chars": 11064,
+  "exact_hash": "dbf7076ea35b08008d0ec92d03d8af5f4ba761d48fb28604e1dce64d1be6d8a1",
+  "source_score": 1992260015259883495356191257855136153341733867525135234549777365063100533926
+}

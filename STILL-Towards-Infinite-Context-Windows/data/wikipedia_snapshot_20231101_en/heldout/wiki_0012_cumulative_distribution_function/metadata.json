@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0012_cumulative_distribution_function",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "5793",
+  "title": "Cumulative distribution function",
+  "url": "https://en.wikipedia.org/wiki/Cumulative%20distribution%20function",
+  "text_chars": 11689,
+  "exact_hash": "8ca9ee2cf4afe156b433d4ae7d79f33e31d39af421ae1a0ccd5cffead5783b5d",
+  "source_score": 35686585180148995066750584423820541749147299312819878565089179628959781014
+}

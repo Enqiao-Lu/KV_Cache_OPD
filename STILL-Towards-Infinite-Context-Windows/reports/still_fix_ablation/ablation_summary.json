@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "label": "broken_baseline",
+      "source": "/mnt/ssd1/shreyansh/home_dir/STILL/outputs/wiki_snapshot_phase1/runs/phase1_still_only_v2/still_512/predictions.jsonl",
+      "row_count": 200,
+      "nonempty_cleaned_count": 25,
+      "nonempty_cleaned_rate": 0.125,
+      "nonempty_raw_count": 0,
+      "nonempty_raw_rate": 0.0,
+      "dominant_cleaned_prediction": "ipment",
+      "dominant_cleaned_prediction_share": 0.015,
+      "dominant_raw_prediction": "",
+      "dominant_raw_prediction_share": 0.0,
+      "mean_cleaned_token_repetition_ratio": 0.01,
+      "unexpected_cjk_prediction_rate": 0.0,
+      "summary_hash": "b79c830304758ce69b0a0982fb242d79fc85b9eb4efb26b51a68e614051cfe64"
+    },
+    {
+      "label": "on_policy_pre_qk",
+      "source": "/mnt/ssd1/shreyansh/home_dir/STILL/outputs/wiki_snapshot_phase1/runs/still_tiny_diagnostic_smoke_v1/diagnostic_summary.json",
+      "row_count": 5,
+      "nonempty_cleaned_count": 5,
+      "nonempty_cleaned_rate": 1.0,
+      "nonempty_raw_count": 5,
+      "nonempty_raw_rate": 1.0,
+      "dominant_cleaned_prediction": "Okay, I have the shortest exact phrase",
+      "dominant_cleaned_prediction_share": 0.4,
+      "dominant_raw_prediction": "Okay, I have the shortest exact phrase",
+      "dominant_raw_prediction_share": 0.4,
+      "mean_cleaned_token_repetition_ratio": 0.0,
+      "unexpected_cjk_prediction_rate": 0.0,
+      "summary_hash": "79805797f0ff896799956affcf1ea37f1bd4605553fb4c2283d7002458156838"
+    },
+    {
+      "label": "qk_and_beta_fixed",
+      "source": "/mnt/ssd1/shreyansh/home_dir/STILL/outputs/wiki_snapshot_phase1/runs/still_tiny_diagnostic_smoke_v2/diagnostic_summary.json",
+      "row_count": 5,
+      "nonempty_cleaned_count": 5,
+      "nonempty_cleaned_rate": 1.0,
+      "nonempty_raw_count": 5,
+      "nonempty_raw_rate": 1.0,
+      "dominant_cleaned_prediction": "Okay, I need to help you with",
+      "dominant_cleaned_prediction_share": 0.2,
+      "dominant_raw_prediction": "Okay, I need to help you with",
+      "dominant_raw_prediction_share": 0.2,
+      "mean_cleaned_token_repetition_ratio": 0.0,
+      "unexpected_cjk_prediction_rate": 0.0,
+      "summary_hash": "add3d81f0e64654cd19a5d98332413824136c7d60b42b66ac01ae302f0c5fe95"
+    }
+  ]
+}

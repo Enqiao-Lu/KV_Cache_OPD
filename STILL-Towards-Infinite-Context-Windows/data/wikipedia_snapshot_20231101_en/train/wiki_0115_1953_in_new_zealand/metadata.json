@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0115_1953_in_new_zealand",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4236309",
+  "title": "1953 in New Zealand",
+  "url": "https://en.wikipedia.org/wiki/1953%20in%20New%20Zealand",
+  "text_chars": 5186,
+  "exact_hash": "41eefc7c9453b4918c8a56190d167e38e2a249a9e916215425c09403edd947fc",
+  "source_score": 539217069138587249108546154065224201210955361364435582163354434829655895945
+}

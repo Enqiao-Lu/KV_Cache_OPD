@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0430_joffre_lakes_provincial_park",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4271684",
+  "title": "Joffre Lakes Provincial Park",
+  "url": "https://en.wikipedia.org/wiki/Joffre%20Lakes%20Provincial%20Park",
+  "text_chars": 5100,
+  "exact_hash": "850af43487b91df0888ce8c53709449809c362df4bbf892914abbf6b3626034c",
+  "source_score": 1822747176603064978816616596249148914517273595372433637153300441670636751579
+}

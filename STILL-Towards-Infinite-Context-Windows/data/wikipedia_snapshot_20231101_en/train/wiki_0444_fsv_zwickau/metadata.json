@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0444_fsv_zwickau",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4568269",
+  "title": "FSV Zwickau",
+  "url": "https://en.wikipedia.org/wiki/FSV%20Zwickau",
+  "text_chars": 8339,
+  "exact_hash": "78fc46258da5cc16b807b9b36c339454958b708fbc2fca1f02e9ad37ad2984fd",
+  "source_score": 1861828424663949729414996278022726233583385044278186608230618332804073572174
+}

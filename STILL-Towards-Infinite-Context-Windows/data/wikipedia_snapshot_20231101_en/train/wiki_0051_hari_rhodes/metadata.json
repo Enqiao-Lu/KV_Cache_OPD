@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0051_hari_rhodes",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4299838",
+  "title": "Hari Rhodes",
+  "url": "https://en.wikipedia.org/wiki/Hari%20Rhodes",
+  "text_chars": 5751,
+  "exact_hash": "9d4eb9f7412bcaa3b809036c7ded63c6f70c6120568e684b00d07d30c2ca1652",
+  "source_score": 254729833224188534973588999702538588989845884873051979382682354365828667115
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0231_bulla_seal",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4592545",
+  "title": "Bulla (seal)",
+  "url": "https://en.wikipedia.org/wiki/Bulla%20%28seal%29",
+  "text_chars": 11385,
+  "exact_hash": "02fdaaca2fb420f05f305165136840e101017aeaf39afbe44700bfafc16e2205",
+  "source_score": 899543776101589732389904810258597287502097450833255099044773505668113230871
+}

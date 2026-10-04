@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0015_senseless",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4186829",
+  "title": "Senseless",
+  "url": "https://en.wikipedia.org/wiki/Senseless",
+  "text_chars": 5778,
+  "exact_hash": "1b17ee98abe8474215f12a5ca4ac424fb7cdcd9eb152aef8f2cb31f2efb5ba82",
+  "source_score": 132779376773206965784825148812642483859875578647784323584853113003004741066
+}

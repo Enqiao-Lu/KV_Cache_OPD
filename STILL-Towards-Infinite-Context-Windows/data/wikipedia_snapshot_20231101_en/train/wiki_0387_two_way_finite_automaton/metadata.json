@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0387_two_way_finite_automaton",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4088117",
+  "title": "Two-way finite automaton",
+  "url": "https://en.wikipedia.org/wiki/Two-way%20finite%20automaton",
+  "text_chars": 5460,
+  "exact_hash": "0dd89443ab4bfa06a8585265306cc2d607c514695f05897b9a0744bb5dbd5a21",
+  "source_score": 1623575242894259859203767563038766298125996230689605294303246640888561018668
+}

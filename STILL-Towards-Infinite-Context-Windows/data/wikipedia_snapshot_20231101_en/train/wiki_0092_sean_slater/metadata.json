@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0092_sean_slater",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4049224",
+  "title": "Sean Slater",
+  "url": "https://en.wikipedia.org/wiki/Sean%20Slater",
+  "text_chars": 19578,
+  "exact_hash": "78cdb32b15a126fdd8ffe68a1c3c25990be5c6dfc9fa400f80e117ea038c3fdf",
+  "source_score": 432833455692512560242066113819451274866341928953447897245639596299565448751
+}

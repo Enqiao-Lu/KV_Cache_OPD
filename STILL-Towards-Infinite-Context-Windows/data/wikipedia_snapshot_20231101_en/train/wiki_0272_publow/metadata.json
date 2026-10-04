@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0272_publow",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4277387",
+  "title": "Publow",
+  "url": "https://en.wikipedia.org/wiki/Publow",
+  "text_chars": 6754,
+  "exact_hash": "33e2ddfc51ee6c1ee98942735da7f6476ec2bf2300dc0f88a1d098698815f0d6",
+  "source_score": 1116078539297047415855705081186357892756531318894283726966577561585254806059
+}

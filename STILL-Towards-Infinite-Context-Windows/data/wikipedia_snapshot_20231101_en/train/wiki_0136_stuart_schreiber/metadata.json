@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0136_stuart_schreiber",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4433942",
+  "title": "Stuart Schreiber",
+  "url": "https://en.wikipedia.org/wiki/Stuart%20Schreiber",
+  "text_chars": 12185,
+  "exact_hash": "6bca52fbc21b3a496a12d7752e680fd3f6b9c429c193f8dc7fb6d6fc9e2120f2",
+  "source_score": 603627974987671638050124107830449052761311561937022411192981278111085736341
+}

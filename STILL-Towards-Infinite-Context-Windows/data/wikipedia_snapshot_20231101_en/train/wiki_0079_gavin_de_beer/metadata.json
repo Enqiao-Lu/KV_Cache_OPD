@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0079_gavin_de_beer",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4495574",
+  "title": "Gavin de Beer",
+  "url": "https://en.wikipedia.org/wiki/Gavin%20de%20Beer",
+  "text_chars": 6582,
+  "exact_hash": "f72ae2457015a92c4257fbfeac7c3e1f1e0189ee3086da198694f35d487e732a",
+  "source_score": 359390626236690398583817078169953804332713241617284419543184835933785739410
+}

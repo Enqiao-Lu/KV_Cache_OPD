@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0106_claremont_riding_academy",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4100378",
+  "title": "Claremont Riding Academy",
+  "url": "https://en.wikipedia.org/wiki/Claremont%20Riding%20Academy",
+  "text_chars": 4291,
+  "exact_hash": "9980273d73e11124a3457e21000aa6b12b385815ae25c51f2a73bcbe7c104408",
+  "source_score": 499702542082517559314979708344508783362480500226018948647400799233339011953
+}

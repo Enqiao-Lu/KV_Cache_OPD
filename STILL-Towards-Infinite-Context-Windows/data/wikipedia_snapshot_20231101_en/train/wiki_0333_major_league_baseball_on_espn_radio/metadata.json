@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0333_major_league_baseball_on_espn_radio",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4281924",
+  "title": "Major League Baseball on ESPN Radio",
+  "url": "https://en.wikipedia.org/wiki/Major%20League%20Baseball%20on%20ESPN%20Radio",
+  "text_chars": 7359,
+  "exact_hash": "9f92bcca1741b7d61d8d11262de10177030bf64d3b2c3460d8485b722b33c262",
+  "source_score": 1394286138457287242492787327637256646668878564034526956716587053570473671615
+}

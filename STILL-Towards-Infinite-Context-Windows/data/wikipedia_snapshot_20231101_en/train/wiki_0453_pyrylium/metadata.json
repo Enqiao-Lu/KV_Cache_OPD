@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0453_pyrylium",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4196982",
+  "title": "Pyrylium",
+  "url": "https://en.wikipedia.org/wiki/Pyrylium",
+  "text_chars": 4833,
+  "exact_hash": "dfd74984c7e7293dad841db6415a8974708b1fd91e328de76992d4f21d685347",
+  "source_score": 1880940069629993327450685842147635753556865630861752714667574187042653909749
+}

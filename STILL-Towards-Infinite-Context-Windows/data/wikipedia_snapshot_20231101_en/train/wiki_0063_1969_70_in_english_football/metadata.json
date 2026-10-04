@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0063_1969_70_in_english_football",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4331541",
+  "title": "1969\u201370 in English football",
+  "url": "https://en.wikipedia.org/wiki/1969%E2%80%9370%20in%20English%20football",
+  "text_chars": 5704,
+  "exact_hash": "f9c6ff4be39a4e5d4d315ec026b789861d61f692e62b0e0139b2f96b6eecdfd9",
+  "source_score": 314895677851720357459826509758608108263465516559331924576325424666640598933
+}

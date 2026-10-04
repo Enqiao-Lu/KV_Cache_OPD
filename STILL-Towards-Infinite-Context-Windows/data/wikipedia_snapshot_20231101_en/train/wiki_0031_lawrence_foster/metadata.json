@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0031_lawrence_foster",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4187219",
+  "title": "Lawrence Foster",
+  "url": "https://en.wikipedia.org/wiki/Lawrence%20Foster",
+  "text_chars": 6648,
+  "exact_hash": "249ebc4cb3ac987a5bc3009256e8f2e0b3175d4fe3396e43b3da043175570c58",
+  "source_score": 170058988427101218538251745779605427060353256050758528208428268201362379946
+}

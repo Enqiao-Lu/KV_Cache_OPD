@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0348_manhasset_secondary_school",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4222505",
+  "title": "Manhasset Secondary School",
+  "url": "https://en.wikipedia.org/wiki/Manhasset%20Secondary%20School",
+  "text_chars": 15585,
+  "exact_hash": "2f9da5839b370a25a8e52e9d5b2fc3902879df6c2aa75a31f95abc58d3450e22",
+  "source_score": 1457171083232081796717210256743758152303532625182946103316175640012658297514
+}

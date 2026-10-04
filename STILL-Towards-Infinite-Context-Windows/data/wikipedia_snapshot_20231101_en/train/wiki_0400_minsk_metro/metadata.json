@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0400_minsk_metro",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4132610",
+  "title": "Minsk Metro",
+  "url": "https://en.wikipedia.org/wiki/Minsk%20Metro",
+  "text_chars": 5566,
+  "exact_hash": "ffc261b553cdce9f9a3aea7ca4c9e57d400b8948a4e9268b7cae2ea8b5773ced",
+  "source_score": 1688123918565874102858981692200037237593627313355228854077219284100298949170
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0406_k_toku_sat",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4423467",
+  "title": "K\u014dtoku Sat\u014d",
+  "url": "https://en.wikipedia.org/wiki/K%C5%8Dtoku%20Sat%C5%8D",
+  "text_chars": 6530,
+  "exact_hash": "960d9649cac4b69ea4a3906236e96ef8e41115f239c48e0255d01424eb1bfb36",
+  "source_score": 1714483098941755099432092626385938583150338547077716498367147028424630021555
+}

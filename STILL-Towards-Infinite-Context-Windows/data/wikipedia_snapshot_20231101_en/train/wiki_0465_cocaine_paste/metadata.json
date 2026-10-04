@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0465_cocaine_paste",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4644067",
+  "title": "Cocaine paste",
+  "url": "https://en.wikipedia.org/wiki/Cocaine%20paste",
+  "text_chars": 6504,
+  "exact_hash": "a76974ab4d124775284c140c67e827fd11a66b2f6c74f777642b49f0363e5832",
+  "source_score": 1898887738232057113168331858462920875296059423688427888625680971080836380189
+}

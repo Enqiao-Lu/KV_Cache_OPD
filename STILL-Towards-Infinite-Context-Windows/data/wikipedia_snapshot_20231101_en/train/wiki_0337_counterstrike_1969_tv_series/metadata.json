@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0337_counterstrike_1969_tv_series",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4522750",
+  "title": "Counterstrike (1969 TV series)",
+  "url": "https://en.wikipedia.org/wiki/Counterstrike%20%281969%20TV%20series%29",
+  "text_chars": 4585,
+  "exact_hash": "91c07defdc3da73f3a167527846974e6aecac994548aa362358f77103bf32f3e",
+  "source_score": 1407072974749203457666043900601188207792511251785516939599136455981701695658
+}

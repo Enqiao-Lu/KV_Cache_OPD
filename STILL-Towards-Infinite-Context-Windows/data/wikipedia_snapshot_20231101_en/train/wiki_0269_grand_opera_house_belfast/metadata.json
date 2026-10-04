@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0269_grand_opera_house_belfast",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4454296",
+  "title": "Grand Opera House, Belfast",
+  "url": "https://en.wikipedia.org/wiki/Grand%20Opera%20House%2C%20Belfast",
+  "text_chars": 4495,
+  "exact_hash": "a0754a55d0dc13975b5cf7e4cde264d58dbc9d7fc2c36b9a17edab73b0290f21",
+  "source_score": 1102862585917747983190489670986409996275807701020097425009511708239134411588
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0225_st_john_publications",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4626001",
+  "title": "St. John Publications",
+  "url": "https://en.wikipedia.org/wiki/St.%20John%20Publications",
+  "text_chars": 11918,
+  "exact_hash": "413e842d0400d15f18554e5135ae2dd99ec58c145fd3f055a4f0850aad683c80",
+  "source_score": 881015045865912242654957066288314908999529585749774742321434976857585521830
+}

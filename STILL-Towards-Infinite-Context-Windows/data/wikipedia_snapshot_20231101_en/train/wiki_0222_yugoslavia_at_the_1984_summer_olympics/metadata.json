@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0222_yugoslavia_at_the_1984_summer_olympics",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4353173",
+  "title": "Yugoslavia at the 1984 Summer Olympics",
+  "url": "https://en.wikipedia.org/wiki/Yugoslavia%20at%20the%201984%20Summer%20Olympics",
+  "text_chars": 7829,
+  "exact_hash": "44c0432ac08b7aa67fb28f6404a3967ad372fe4a15683d2ac7238aecacec6ee4",
+  "source_score": 875290407315902451086676395287938309772973913380151300296564946982226397357
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0294_trevor_daley",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4709419",
+  "title": "Trevor Daley",
+  "url": "https://en.wikipedia.org/wiki/Trevor%20Daley",
+  "text_chars": 4049,
+  "exact_hash": "9da29d255e674e0c5d02c56392c4ab06c546ffc6bc59c564e0c3decd60fd9576",
+  "source_score": 1252245311235763299151426112143781202250955241731578766523732944321378526949
+}

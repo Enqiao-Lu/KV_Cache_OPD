@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0143_londa_schiebinger",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4424066",
+  "title": "Londa Schiebinger",
+  "url": "https://en.wikipedia.org/wiki/Londa%20Schiebinger",
+  "text_chars": 26434,
+  "exact_hash": "96b2726e9c7ccb1c78dafd6e0fe022a9050b3edb3c08567c11aac490aff2763b",
+  "source_score": 613801441030297431530189163154164147066445213263011963342683304054858404053
+}

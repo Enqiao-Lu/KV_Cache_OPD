@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0391_illmind",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4314400",
+  "title": "Illmind",
+  "url": "https://en.wikipedia.org/wiki/Illmind",
+  "text_chars": 9581,
+  "exact_hash": "66b0ccb6be27b14893a12a040eab10c54f59770290d11af596cfeeb696f987fa",
+  "source_score": 1649318708529662191373122174188437353663583156291915118937780381527492191036
+}

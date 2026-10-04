@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0401_v_character",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4553266",
+  "title": "V (character)",
+  "url": "https://en.wikipedia.org/wiki/V%20%28character%29",
+  "text_chars": 10495,
+  "exact_hash": "b6770471c7ea78bfee015c16691a4fbc8baccc654485d2bedd119f06b0c29c05",
+  "source_score": 1703963509835899467675555844460376569068407081708347326454274846966151275103
+}

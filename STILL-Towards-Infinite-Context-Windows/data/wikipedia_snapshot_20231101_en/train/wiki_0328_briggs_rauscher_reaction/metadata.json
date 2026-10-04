@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0328_briggs_rauscher_reaction",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4159367",
+  "title": "Briggs\u2013Rauscher reaction",
+  "url": "https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher%20reaction",
+  "text_chars": 10956,
+  "exact_hash": "8874eb72b2b5cf525db4b9c8d95b5736c19c7665ff70c23d488a17848a59ad32",
+  "source_score": 1379050886558079792379637049533351011129717500489185768739557793490302377449
+}

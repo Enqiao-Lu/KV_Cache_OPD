@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0292_ngc_6302",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4117384",
+  "title": "NGC 6302",
+  "url": "https://en.wikipedia.org/wiki/NGC%206302",
+  "text_chars": 4389,
+  "exact_hash": "08b1f1311f77d90cffcac93fc0440a03a5afbd0862435829fd3f574ae0609aac",
+  "source_score": 1242997126265142261909519177679067302257573590321016290565481110034969992099
+}

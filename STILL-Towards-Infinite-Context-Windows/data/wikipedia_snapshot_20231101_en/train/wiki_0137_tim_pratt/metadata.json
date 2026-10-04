@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0137_tim_pratt",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4310920",
+  "title": "Tim Pratt",
+  "url": "https://en.wikipedia.org/wiki/Tim%20Pratt",
+  "text_chars": 4920,
+  "exact_hash": "afcecd1fe2720ac1e461fac673d8f17fef7d61635b1c11acf28a31b0ec9bced2",
+  "source_score": 605608361357293294273256067930605067162394955843784226293582970686562799627
+}

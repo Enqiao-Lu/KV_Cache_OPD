@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0339_sim_n_d_az",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4575021",
+  "title": "Sim\u00f3n D\u00edaz",
+  "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n%20D%C3%ADaz",
+  "text_chars": 4031,
+  "exact_hash": "d03defe1da402093b0517008b910e5227ac0f7700cea2664693b768d715d8f4b",
+  "source_score": 1413824211834165015726018735156334715674507405510259886085525062910269301459
+}

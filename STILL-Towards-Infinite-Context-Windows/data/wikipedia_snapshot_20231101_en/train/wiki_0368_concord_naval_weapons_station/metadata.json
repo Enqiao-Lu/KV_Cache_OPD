@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0368_concord_naval_weapons_station",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4390350",
+  "title": "Concord Naval Weapons Station",
+  "url": "https://en.wikipedia.org/wiki/Concord%20Naval%20Weapons%20Station",
+  "text_chars": 9289,
+  "exact_hash": "f040da7b756f80bc12204db422618b5b2e891adac3e9b38ad227f0a25bce51d1",
+  "source_score": 1535726045749778634322697729121897427077807712330067249131824092683501042527
+}

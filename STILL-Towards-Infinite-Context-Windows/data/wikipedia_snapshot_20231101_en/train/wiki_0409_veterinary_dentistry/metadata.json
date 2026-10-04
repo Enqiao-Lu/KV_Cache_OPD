@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0409_veterinary_dentistry",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4420263",
+  "title": "Veterinary dentistry",
+  "url": "https://en.wikipedia.org/wiki/Veterinary%20dentistry",
+  "text_chars": 22318,
+  "exact_hash": "3e2bbcd5773ee355b1c3e580b2b4f5aba4c7ca898b71ca9e77c0b40525abb329",
+  "source_score": 1734797188308897411428365729531017020394184276751674126458513155090038959763
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0184_fidelipac",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4515774",
+  "title": "Fidelipac",
+  "url": "https://en.wikipedia.org/wiki/Fidelipac",
+  "text_chars": 5410,
+  "exact_hash": "a9fd90a2a75c33f3d7796e4b5ec770be70733ce0eda5a04297d30a09fa27a153",
+  "source_score": 752785785221151358022809239770336024230217698368301100834435430256479933002
+}

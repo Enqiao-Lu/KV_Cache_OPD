@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0263_reading_legislature",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4062253",
+  "title": "Reading (legislature)",
+  "url": "https://en.wikipedia.org/wiki/Reading%20%28legislature%29",
+  "text_chars": 12243,
+  "exact_hash": "202a9c806c0b1413832a9a6d3964ff72e1f21a21fd3e85d8e3f0749f319fe3a5",
+  "source_score": 1048805276756696163964225039663550621367214241739750044380763919618997146344
+}

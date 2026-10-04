@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0208_collabnet",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4103072",
+  "title": "CollabNet",
+  "url": "https://en.wikipedia.org/wiki/CollabNet",
+  "text_chars": 4227,
+  "exact_hash": "c379539864105ed50663c6ec7931d7357c3ed0a6961a55fd2ae270fecd599cab",
+  "source_score": 825741648651535690365806122316112985840655557637145803286986031335511952024
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0179_johann_david_k_hler",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4183159",
+  "title": "Johann David K\u00f6hler",
+  "url": "https://en.wikipedia.org/wiki/Johann%20David%20K%C3%B6hler",
+  "text_chars": 5393,
+  "exact_hash": "92b54284a18d30409571ee42b90ddec2fc735b8c157b82c20ed925bed5e31f10",
+  "source_score": 743042337897232967980453996588202338103754314618256114504503219345940081596
+}

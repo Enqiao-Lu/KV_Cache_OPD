@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0312_mike_brey",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4392663",
+  "title": "Mike Brey",
+  "url": "https://en.wikipedia.org/wiki/Mike%20Brey",
+  "text_chars": 5257,
+  "exact_hash": "145c6f988ac392443d70053ada9f4af854c21150ba64874ca768210aaea94595",
+  "source_score": 1307301218505626290545795971678969230776208649691300100318760952740215213454
+}

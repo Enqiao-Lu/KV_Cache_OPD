@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0443_andronikos_i_komnenos",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "1762",
+  "title": "Andronikos I Komnenos",
+  "url": "https://en.wikipedia.org/wiki/Andronikos%20I%20Komnenos",
+  "text_chars": 14791,
+  "exact_hash": "c0bd4830d52a8396ea02ae1b9e9728949a1570437a73f0ad1dc984f6c242dd28",
+  "source_score": 1860666987962598913312170482186175521360879157376211682232943823713355444080
+}

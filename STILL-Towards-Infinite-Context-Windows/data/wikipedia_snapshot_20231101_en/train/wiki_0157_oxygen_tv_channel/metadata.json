@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0157_oxygen_tv_channel",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4316423",
+  "title": "Oxygen (TV channel)",
+  "url": "https://en.wikipedia.org/wiki/Oxygen%20%28TV%20channel%29",
+  "text_chars": 13578,
+  "exact_hash": "b74ae8b939ff1afe7f2ba2b611429223a905327ed945c3fd82586b8df0b64f31",
+  "source_score": 675703384862341446362444264160757572733647126228649570357132249031926364036
+}

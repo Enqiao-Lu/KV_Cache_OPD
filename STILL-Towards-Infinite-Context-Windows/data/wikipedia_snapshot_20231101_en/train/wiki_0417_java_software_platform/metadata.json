@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0417_java_software_platform",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4718446",
+  "title": "Java (software platform)",
+  "url": "https://en.wikipedia.org/wiki/Java%20%28software%20platform%29",
+  "text_chars": 39870,
+  "exact_hash": "837bb7c6f18acfc0ad5e03f2b3ccce35a201afdcfcdd487bfb70afea18b13169",
+  "source_score": 1756293561648473076429285884444359986992098621378444307784536775460312739779
+}

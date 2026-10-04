@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0180_rotter_incomplete_sentences_blank",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4574531",
+  "title": "Rotter Incomplete Sentences Blank",
+  "url": "https://en.wikipedia.org/wiki/Rotter%20Incomplete%20Sentences%20Blank",
+  "text_chars": 5494,
+  "exact_hash": "4b046d8bcba2faab7356e275ead3af165aec0f2e6e4e7c2771d9002e15bd5625",
+  "source_score": 743552608542335353721571515918637337326053002398634616589409540565954372765
+}

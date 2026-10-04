@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0459_poonch_district_india",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4455069",
+  "title": "Poonch district, India",
+  "url": "https://en.wikipedia.org/wiki/Poonch%20district%2C%20India",
+  "text_chars": 5225,
+  "exact_hash": "708f8e43ab103780a42d9bc687ebd815e66517b4f558e6badf85eb1af13a32eb",
+  "source_score": 1889468273240190983015381660433078268396792750410094296390264451386875674272
+}

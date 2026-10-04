@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0284_bb_t_classic",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4298598",
+  "title": "BB&T Classic",
+  "url": "https://en.wikipedia.org/wiki/BB%26T%20Classic",
+  "text_chars": 8040,
+  "exact_hash": "98a3c9507eb0a309794af39675734587b627022df927e0b28384899e3a45d81b",
+  "source_score": 1202318666414695596284190078363070938082555027355197866772363543911278470040
+}

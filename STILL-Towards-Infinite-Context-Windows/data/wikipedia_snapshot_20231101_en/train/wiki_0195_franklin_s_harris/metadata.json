@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0195_franklin_s_harris",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4300389",
+  "title": "Franklin S. Harris",
+  "url": "https://en.wikipedia.org/wiki/Franklin%20S.%20Harris",
+  "text_chars": 15738,
+  "exact_hash": "6f412d316c9603bb5a2ffb26adc77cddf0bd3d0620ec48629fc22d7fcbdb0896",
+  "source_score": 777246565084389107565549932472312480268524396599539816287579406357886569097
+}

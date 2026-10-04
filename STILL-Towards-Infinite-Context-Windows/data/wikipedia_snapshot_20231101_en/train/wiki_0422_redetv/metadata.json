@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0422_redetv",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4573068",
+  "title": "RedeTV!",
+  "url": "https://en.wikipedia.org/wiki/RedeTV%21",
+  "text_chars": 6494,
+  "exact_hash": "15d234677416f202f9ad951eff904484e52166f73d879f5d624f5ad2a795f332",
+  "source_score": 1790667266912324837192525741585636491601330937825737967815929460418404824823
+}

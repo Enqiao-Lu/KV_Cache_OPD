@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0088_w_cleon_skousen",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4358686",
+  "title": "W. Cleon Skousen",
+  "url": "https://en.wikipedia.org/wiki/W.%20Cleon%20Skousen",
+  "text_chars": 22873,
+  "exact_hash": "f4f830f847aebc1f96b2b448e020a7ef6692e619c0803a40b2c549936579682b",
+  "source_score": 407620303936896967091068381454981271173490949578229626648215913861945780060
+}

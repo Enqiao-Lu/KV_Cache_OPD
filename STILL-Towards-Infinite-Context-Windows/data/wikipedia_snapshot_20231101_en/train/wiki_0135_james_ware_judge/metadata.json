@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0135_james_ware_judge",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4399889",
+  "title": "James Ware (judge)",
+  "url": "https://en.wikipedia.org/wiki/James%20Ware%20%28judge%29",
+  "text_chars": 6674,
+  "exact_hash": "9ccd11ffbf1d3cb25461de9ca4848030dae760cdeb395188575a3c23e9fd0462",
+  "source_score": 600407339301144671800138058013769701427681740865521839826979332059346672604
+}

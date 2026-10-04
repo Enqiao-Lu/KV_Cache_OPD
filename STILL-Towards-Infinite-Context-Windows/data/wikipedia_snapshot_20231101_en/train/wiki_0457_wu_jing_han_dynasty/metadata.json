@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0457_wu_jing_han_dynasty",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4555025",
+  "title": "Wu Jing (Han dynasty)",
+  "url": "https://en.wikipedia.org/wiki/Wu%20Jing%20%28Han%20dynasty%29",
+  "text_chars": 4931,
+  "exact_hash": "8f4a3c74c14c932de05c73b94d24dd7fbffb4f37fe6eacc5f125c6eb5893aadf",
+  "source_score": 1886851670253254683652340616480921797496429392975478295519548321795844145920
+}

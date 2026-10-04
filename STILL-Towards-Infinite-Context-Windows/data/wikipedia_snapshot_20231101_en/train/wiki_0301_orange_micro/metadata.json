@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0301_orange_micro",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4629897",
+  "title": "Orange Micro",
+  "url": "https://en.wikipedia.org/wiki/Orange%20Micro",
+  "text_chars": 4231,
+  "exact_hash": "3cf719ee6dd64e5e239a416789f0b4854701965b473b2b2c166505e363b7c2b5",
+  "source_score": 1267014749645396780032347835677325984706748496943875839534551838858375858841
+}

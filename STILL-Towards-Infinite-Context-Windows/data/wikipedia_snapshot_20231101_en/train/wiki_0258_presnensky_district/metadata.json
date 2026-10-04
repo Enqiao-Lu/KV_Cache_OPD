@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0258_presnensky_district",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4402296",
+  "title": "Presnensky District",
+  "url": "https://en.wikipedia.org/wiki/Presnensky%20District",
+  "text_chars": 5021,
+  "exact_hash": "70e15fe7637f9659c887301c5564baae5bb22332bd537b5c591d375a1ea344bc",
+  "source_score": 1019621395739022309375487289182126427827524957038396947481295445141526808534
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0439_sam_cardon",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4191942",
+  "title": "Sam Cardon",
+  "url": "https://en.wikipedia.org/wiki/Sam%20Cardon",
+  "text_chars": 5123,
+  "exact_hash": "2fd841c47b61127ec99b91c8c96c4b21075d5876243d612bc2b6f80bcf794514",
+  "source_score": 1846486504253836772940199527388074354432409833599675963138589152890615882901
+}

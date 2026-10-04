@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0344_celebration_kool_the_gang_song",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4437316",
+  "title": "Celebration (Kool & the Gang song)",
+  "url": "https://en.wikipedia.org/wiki/Celebration%20%28Kool%20%26%20the%20Gang%20song%29",
+  "text_chars": 4303,
+  "exact_hash": "811bdddac7a5ba637f4275e4a336e6c3a410ed5c6ef51faf01f8b420908eb868",
+  "source_score": 1437786305689718971643683964387760006423264756235690379867080150045715275327
+}

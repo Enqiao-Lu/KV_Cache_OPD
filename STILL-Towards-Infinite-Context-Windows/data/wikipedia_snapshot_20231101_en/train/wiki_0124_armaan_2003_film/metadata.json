@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0124_armaan_2003_film",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4286797",
+  "title": "Armaan (2003 film)",
+  "url": "https://en.wikipedia.org/wiki/Armaan%20%282003%20film%29",
+  "text_chars": 14979,
+  "exact_hash": "f01d1196a1ca60979bed02e5aeedc4c41b668f0b90dd3f75ae4f3d4a9df82f92",
+  "source_score": 567928662789924557722368230994396059008458208208708161651343360690798389238
+}

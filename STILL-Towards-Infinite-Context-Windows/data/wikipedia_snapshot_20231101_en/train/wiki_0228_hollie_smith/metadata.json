@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0228_hollie_smith",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4065616",
+  "title": "Hollie Smith",
+  "url": "https://en.wikipedia.org/wiki/Hollie%20Smith",
+  "text_chars": 7432,
+  "exact_hash": "0cfd21d981d1e9655104613a1ddff6e61215c8b8d29e9f0617cb6fb9a9ae8b4f",
+  "source_score": 884817289798160952543229214211186796437838113595024147966709791652326791622
+}

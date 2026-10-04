@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0315_in_s_de_la_fressange",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4547452",
+  "title": "In\u00e8s de La Fressange",
+  "url": "https://en.wikipedia.org/wiki/In%C3%A8s%20de%20La%20Fressange",
+  "text_chars": 4970,
+  "exact_hash": "2fbaa05277e517fc1f55a15e9c5fdaa4027504b4e89b867bb535a1950c79ba77",
+  "source_score": 1312183098978849574373825898275631590647011910314933790262310978003131673553
+}

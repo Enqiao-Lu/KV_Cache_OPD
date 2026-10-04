@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0156_pepsi_chart",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4475866",
+  "title": "Pepsi Chart",
+  "url": "https://en.wikipedia.org/wiki/Pepsi%20Chart",
+  "text_chars": 10472,
+  "exact_hash": "42c1b46a57b1bab7f50f7acf504534be2c6ac43b3bb52ab750c6fe1de89d7f59",
+  "source_score": 665266473098170285446112400273778900436931312603926172076999129160601251387
+}

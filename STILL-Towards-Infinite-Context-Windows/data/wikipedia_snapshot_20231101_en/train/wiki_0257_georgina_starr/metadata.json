@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0257_georgina_starr",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4112141",
+  "title": "Georgina Starr",
+  "url": "https://en.wikipedia.org/wiki/Georgina%20Starr",
+  "text_chars": 10328,
+  "exact_hash": "a8f85ed09564faeba9c78cab19b9e493b7b01923e9b5637b744ddd7ce37e5e97",
+  "source_score": 1007976555263464402855364540635916798977789384798553392036427450771895195628
+}

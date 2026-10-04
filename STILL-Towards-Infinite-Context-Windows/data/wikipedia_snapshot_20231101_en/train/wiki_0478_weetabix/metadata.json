@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0478_weetabix",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4050061",
+  "title": "Weetabix",
+  "url": "https://en.wikipedia.org/wiki/Weetabix",
+  "text_chars": 5496,
+  "exact_hash": "9de3281e136bfbf2f6faac5a5a02c417401b6de365124a4e668a278a7fe55640",
+  "source_score": 1932294734766065816635670756440216970808871523926223825687786976426936564766
+}

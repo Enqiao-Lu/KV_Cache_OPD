@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0230_glynn_ross",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4232176",
+  "title": "Glynn Ross",
+  "url": "https://en.wikipedia.org/wiki/Glynn%20Ross",
+  "text_chars": 4680,
+  "exact_hash": "ec94d8f54fa4f8e2cedd2e1a71bfd945ea7171276df7d70394b741af6c47d1fb",
+  "source_score": 899461928704433084849444844004043744903721687984825094833182876337783633038
+}

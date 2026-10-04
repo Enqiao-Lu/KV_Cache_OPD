@@ -1,0 +1,15 @@
+# Local environments and generated files
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.ruff_cache/
+**/node_modules/
+**/wandb/
+*.py[cod]
+*.pt
+*.pth
+*.safetensors
+.env
+.env.*
+!.env.example
+.DS_Store

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0001_lang_campbell",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4435902",
+  "title": "Lang Campbell",
+  "url": "https://en.wikipedia.org/wiki/Lang%20Campbell",
+  "text_chars": 4666,
+  "exact_hash": "1456dffa6e20261d9a9d4359df829ec02b332c6bdf460207eb3b4ade4b9f8d3d",
+  "source_score": 2162075640795645483821137942415289517044670499602830317958812038229117082
+}

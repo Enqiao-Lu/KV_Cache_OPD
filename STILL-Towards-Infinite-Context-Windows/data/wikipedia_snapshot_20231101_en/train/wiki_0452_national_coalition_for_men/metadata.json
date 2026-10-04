@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0452_national_coalition_for_men",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4385227",
+  "title": "National Coalition for Men",
+  "url": "https://en.wikipedia.org/wiki/National%20Coalition%20for%20Men",
+  "text_chars": 6574,
+  "exact_hash": "194c930a8d7f0b0d42565684e43c0f40d12bdbcec6dc566c061e9c40c754b01f",
+  "source_score": 1878208856592685948728205433403491714847272114650598044851116956219671828156
+}

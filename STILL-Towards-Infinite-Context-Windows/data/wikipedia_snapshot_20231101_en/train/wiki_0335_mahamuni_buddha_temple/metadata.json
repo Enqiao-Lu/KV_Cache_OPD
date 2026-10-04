@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0335_mahamuni_buddha_temple",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4219632",
+  "title": "Mahamuni Buddha Temple",
+  "url": "https://en.wikipedia.org/wiki/Mahamuni%20Buddha%20Temple",
+  "text_chars": 13387,
+  "exact_hash": "4f72c4f4501cecfe8a03d70099243bc9aa6bd78dd65f0d806998dd30f6fdd803",
+  "source_score": 1400378693134390874476884548380280185222307105561407435454577119161467608402
+}

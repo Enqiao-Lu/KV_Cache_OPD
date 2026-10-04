@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0185_cochise_song",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4518419",
+  "title": "Cochise (song)",
+  "url": "https://en.wikipedia.org/wiki/Cochise%20%28song%29",
+  "text_chars": 5848,
+  "exact_hash": "7d0d5bdbb07632cdf9ead74ad353449f6693471bf810ca8619b1a375b32f8ca2",
+  "source_score": 758260803076035058992435315281154029146894241152426628106561691813280267865
+}

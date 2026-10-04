@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0108_list_of_english_words_of_ukrainian_origin",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4596556",
+  "title": "List of English words of Ukrainian origin",
+  "url": "https://en.wikipedia.org/wiki/List%20of%20English%20words%20of%20Ukrainian%20origin",
+  "text_chars": 5149,
+  "exact_hash": "6df6222328b2cf22cd20d109ee11c662f10205cdb3fa2158b4741785d5453c49",
+  "source_score": 509855442471423323110109883251880967092900171234083720883967296536731284252
+}

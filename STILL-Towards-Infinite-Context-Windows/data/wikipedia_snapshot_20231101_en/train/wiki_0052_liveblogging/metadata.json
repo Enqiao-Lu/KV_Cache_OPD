@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0052_liveblogging",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4136384",
+  "title": "Liveblogging",
+  "url": "https://en.wikipedia.org/wiki/Liveblogging",
+  "text_chars": 5350,
+  "exact_hash": "76df87f4c1d780112f675e33138e932b582d7e3e8cf41767990ae7b713ad3b9f",
+  "source_score": 260555912854235813088428843566909019977161080693910029837561495049794012411
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0318_richard_cholmondeley",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4381145",
+  "title": "Richard Cholmondeley",
+  "url": "https://en.wikipedia.org/wiki/Richard%20Cholmondeley",
+  "text_chars": 10423,
+  "exact_hash": "a677262200a4fa924a31e11b44768a573ff4d0a05feaf0e2a0849f7126c520f2",
+  "source_score": 1335107679738045954728938142751528834806614454601809812747334877256317767697
+}

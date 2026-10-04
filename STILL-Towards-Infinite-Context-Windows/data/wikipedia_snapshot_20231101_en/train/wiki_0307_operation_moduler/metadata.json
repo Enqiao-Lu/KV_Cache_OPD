@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0307_operation_moduler",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4092858",
+  "title": "Operation Moduler",
+  "url": "https://en.wikipedia.org/wiki/Operation%20Moduler",
+  "text_chars": 36184,
+  "exact_hash": "1fcb0e7740effdcd7213637ef32bfc6206d4b05d282344136836e0b3d642ed27",
+  "source_score": 1293086675948092766925289020020544363488957111528093735127656835559638030131
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0082_colt_model_1903_pocket_hammerless",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4269059",
+  "title": "Colt Model 1903 Pocket Hammerless",
+  "url": "https://en.wikipedia.org/wiki/Colt%20Model%201903%20Pocket%20Hammerless",
+  "text_chars": 6566,
+  "exact_hash": "1c3c42fa9ee6f17f80648289256b1ddedcc2be6fcea078fa968561cdda5e8a5b",
+  "source_score": 368850001104886051476631076640676043263585584887496607889581801485562327543
+}

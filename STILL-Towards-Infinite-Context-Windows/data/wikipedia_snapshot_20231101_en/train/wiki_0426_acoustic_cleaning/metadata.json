@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0426_acoustic_cleaning",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4117074",
+  "title": "Acoustic cleaning",
+  "url": "https://en.wikipedia.org/wiki/Acoustic%20cleaning",
+  "text_chars": 10776,
+  "exact_hash": "f514c79a26c27e82e58e4c5cc614de4b8f5a136e0cf95c2773f71b5c9aa27e66",
+  "source_score": 1805951272835429973992147860851977895427142929855350510942676125179369196689
+}

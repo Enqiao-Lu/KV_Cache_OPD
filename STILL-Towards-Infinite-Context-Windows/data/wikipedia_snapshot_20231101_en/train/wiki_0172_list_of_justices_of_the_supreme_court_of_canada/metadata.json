@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0172_list_of_justices_of_the_supreme_court_of_canada",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4147096",
+  "title": "List of justices of the Supreme Court of Canada",
+  "url": "https://en.wikipedia.org/wiki/List%20of%20justices%20of%20the%20Supreme%20Court%20of%20Canada",
+  "text_chars": 4748,
+  "exact_hash": "cbe6762982dc3b98adf2b9c3c4937883741ca16952e9758f905d7f33d8b685e1",
+  "source_score": 729067810335796833457951509967239972990281888086112913475032130155730385211
+}

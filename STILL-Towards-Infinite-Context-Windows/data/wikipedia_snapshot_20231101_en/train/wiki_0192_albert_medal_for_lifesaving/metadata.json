@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0192_albert_medal_for_lifesaving",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4555457",
+  "title": "Albert Medal for Lifesaving",
+  "url": "https://en.wikipedia.org/wiki/Albert%20Medal%20for%20Lifesaving",
+  "text_chars": 4183,
+  "exact_hash": "cbd1a15eb134e2d9482e263f7132fa962291904039d09847ef1eafa03bccaccc",
+  "source_score": 772843283605866555953468933808449444788876710650839294981459704828548631099
+}

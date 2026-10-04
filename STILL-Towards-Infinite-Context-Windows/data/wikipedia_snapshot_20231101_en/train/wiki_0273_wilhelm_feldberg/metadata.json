@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0273_wilhelm_feldberg",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4444260",
+  "title": "Wilhelm Feldberg",
+  "url": "https://en.wikipedia.org/wiki/Wilhelm%20Feldberg",
+  "text_chars": 5142,
+  "exact_hash": "a05e1e8081d08bdc69fafb711ae642fca9574b5e060ff5397028fcb2968e253b",
+  "source_score": 1132357490196520497047875790244608293486620574093694944795669816997905963196
+}

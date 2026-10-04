@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0325_treefall_gap",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4369570",
+  "title": "Treefall gap",
+  "url": "https://en.wikipedia.org/wiki/Treefall%20gap",
+  "text_chars": 11845,
+  "exact_hash": "9c148c6fcdfdc04dca3753c02c3659604be6bdbb8061cb5c39ce0cfec47fd5ea",
+  "source_score": 1378379504896374785516850553751832184738001371901469245913099256317231321158
+}

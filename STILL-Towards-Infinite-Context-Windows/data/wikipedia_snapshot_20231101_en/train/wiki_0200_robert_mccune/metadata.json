@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0200_robert_mccune",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4604319",
+  "title": "Robert McCune",
+  "url": "https://en.wikipedia.org/wiki/Robert%20McCune",
+  "text_chars": 6764,
+  "exact_hash": "6230054c3a145eff753f57dc10d5afc29cf5c708552a7c9e427a5dcf5e127714",
+  "source_score": 789792415339488117438531356363820748352737305996279754562925563472517487673
+}

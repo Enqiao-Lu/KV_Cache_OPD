@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0289_erik_guay",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4151925",
+  "title": "Erik Guay",
+  "url": "https://en.wikipedia.org/wiki/Erik%20Guay",
+  "text_chars": 4586,
+  "exact_hash": "44c24fd10c5bdf16467d90bd9c383a56e762d4206e5df7ef1e7e566e6a7bc872",
+  "source_score": 1219178094679611476917635775130300043361861188016765972025709361149797268840
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0020_texas_music_educators_association",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4093533",
+  "title": "Texas Music Educators Association",
+  "url": "https://en.wikipedia.org/wiki/Texas%20Music%20Educators%20Association",
+  "text_chars": 5898,
+  "exact_hash": "1d83abdbfe8da9d1c929923f9769f2a4a03fa8275bc24ea2ab07197600d1e657",
+  "source_score": 146488579724253491945563123412329963064095488043604085417609013284854925070
+}

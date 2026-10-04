@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0127_soubey",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4464279",
+  "title": "Soubey",
+  "url": "https://en.wikipedia.org/wiki/Soubey",
+  "text_chars": 6401,
+  "exact_hash": "1b263224e87f87341217f0acb16db5e2b72a7dd51ea2e1d0c1bc5871ec8f1499",
+  "source_score": 572298635193101052379528909211974107315102797125475965285093155654212618324
+}

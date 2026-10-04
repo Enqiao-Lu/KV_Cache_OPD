@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0476_rory_o_more",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4409293",
+  "title": "Rory O'More",
+  "url": "https://en.wikipedia.org/wiki/Rory%20O%27More",
+  "text_chars": 8987,
+  "exact_hash": "49f6153a239bae483afd854e1c576c2b98bd5785a924015495c89180726f699d",
+  "source_score": 1930492690726930678219410942369694256885103062775089957574119970563791157930
+}

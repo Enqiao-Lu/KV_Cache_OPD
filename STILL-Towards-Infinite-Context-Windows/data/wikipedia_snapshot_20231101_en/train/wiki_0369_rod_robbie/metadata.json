@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0369_rod_robbie",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4380747",
+  "title": "Rod Robbie",
+  "url": "https://en.wikipedia.org/wiki/Rod%20Robbie",
+  "text_chars": 9903,
+  "exact_hash": "d6609bda0cd21401698f09536774205ee865c0fe8729bfbd326025dc30c4e7fe",
+  "source_score": 1537211491441792173483073104252112107514944425099364389818628754727803887587
+}

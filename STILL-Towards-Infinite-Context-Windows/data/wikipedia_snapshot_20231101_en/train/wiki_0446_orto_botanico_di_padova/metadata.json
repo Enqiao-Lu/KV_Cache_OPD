@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0446_orto_botanico_di_padova",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4364365",
+  "title": "Orto botanico di Padova",
+  "url": "https://en.wikipedia.org/wiki/Orto%20botanico%20di%20Padova",
+  "text_chars": 7506,
+  "exact_hash": "c4abdddb1b449c246bf1783ff6216dc8766b33ca6380aeefe0beb2be112ca55f",
+  "source_score": 1864423257365762570768972727683817866221181090086272757561137123878236190632
+}

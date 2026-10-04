@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0151_ajay_rochester",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4171252",
+  "title": "Ajay Rochester",
+  "url": "https://en.wikipedia.org/wiki/Ajay%20Rochester",
+  "text_chars": 5392,
+  "exact_hash": "57e68c69786081f64eb3605378dcc848714297f5df9771f646753d570d5cb908",
+  "source_score": 645013112365858551539062160878427014055118411316514241657397533398681922884
+}

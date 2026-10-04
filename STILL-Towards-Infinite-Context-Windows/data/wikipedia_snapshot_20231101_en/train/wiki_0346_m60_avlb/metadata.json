@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0346_m60_avlb",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4528566",
+  "title": "M60 AVLB",
+  "url": "https://en.wikipedia.org/wiki/M60%20AVLB",
+  "text_chars": 10706,
+  "exact_hash": "b55d0f72c350e25565efdfc14c73ab1c98563bad9408f1ee95769d7a039696ed",
+  "source_score": 1443053780582593622105763134748038572270945247190387425529393659202079156426
+}

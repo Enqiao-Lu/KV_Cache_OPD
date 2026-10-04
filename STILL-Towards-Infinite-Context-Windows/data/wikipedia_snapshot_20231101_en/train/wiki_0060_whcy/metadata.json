@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0060_whcy",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4536716",
+  "title": "WHCY",
+  "url": "https://en.wikipedia.org/wiki/WHCY",
+  "text_chars": 12408,
+  "exact_hash": "f76b164a0e1a29c9a6edd478a717096790ee9074058faf21114375b96117b1ac",
+  "source_score": 296584147534651182241398318915978361569993071065026599579914542551936781615
+}

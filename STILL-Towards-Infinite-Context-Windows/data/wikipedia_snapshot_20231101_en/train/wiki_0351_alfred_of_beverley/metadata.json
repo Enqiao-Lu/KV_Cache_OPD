@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0351_alfred_of_beverley",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "1702",
+  "title": "Alfred of Beverley",
+  "url": "https://en.wikipedia.org/wiki/Alfred%20of%20Beverley",
+  "text_chars": 17982,
+  "exact_hash": "140d1ccb9464cf79c23892f2c3d7d5becb2092ad67379f30314fb6553e086d32",
+  "source_score": 1463132093244761673442027501936864563004029320826043318024564601103210805078
+}

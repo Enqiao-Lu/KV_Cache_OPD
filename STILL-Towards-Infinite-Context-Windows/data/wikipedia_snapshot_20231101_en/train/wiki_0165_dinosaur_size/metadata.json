@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0165_dinosaur_size",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4085430",
+  "title": "Dinosaur size",
+  "url": "https://en.wikipedia.org/wiki/Dinosaur%20size",
+  "text_chars": 10973,
+  "exact_hash": "6db9d4b7cbf929c6c505524068d0a8ec98822fd5e107a6b6ecf40de0ff3dceb5",
+  "source_score": 707078535977356659961363485903929582850414691407187469838897929636194835939
+}

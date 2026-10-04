@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0467_air_show",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "2790",
+  "title": "Air show",
+  "url": "https://en.wikipedia.org/wiki/Air%20show",
+  "text_chars": 8814,
+  "exact_hash": "1a7787e2764ac0221f7142d9ccfab65d08b1ce2e3d3992fa98d83c615f834af0",
+  "source_score": 1901289917326884311946438137204023212532435032253484006441670495394511834041
+}

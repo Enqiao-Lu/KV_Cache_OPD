@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0038_andrew_barr",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4645391",
+  "title": "Andrew Barr",
+  "url": "https://en.wikipedia.org/wiki/Andrew%20Barr",
+  "text_chars": 9494,
+  "exact_hash": "d2d2e7fa8d704926505775c6d91d86573bdc0196804450e413df3722e713145a",
+  "source_score": 216707149366262010213043339301726372959162688676974500204214523979192235224
+}

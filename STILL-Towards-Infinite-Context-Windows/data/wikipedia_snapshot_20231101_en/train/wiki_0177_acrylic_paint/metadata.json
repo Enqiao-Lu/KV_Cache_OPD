@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0177_acrylic_paint",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "2838",
+  "title": "Acrylic paint",
+  "url": "https://en.wikipedia.org/wiki/Acrylic%20paint",
+  "text_chars": 18148,
+  "exact_hash": "83c5de6ad06846c9874bb38b84fd38e8e94567c6604829b8a6431b5829075595",
+  "source_score": 736998130909540049795454541817984339021726434020041057987030390230368988417
+}

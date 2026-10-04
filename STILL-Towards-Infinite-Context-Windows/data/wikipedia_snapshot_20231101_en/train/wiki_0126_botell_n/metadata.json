@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0126_botell_n",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4358939",
+  "title": "Botell\u00f3n",
+  "url": "https://en.wikipedia.org/wiki/Botell%C3%B3n",
+  "text_chars": 7545,
+  "exact_hash": "73d9df82e76b0ec6ba1c4124228910a8eda159edba6e29b8193f1a4d721f8a3b",
+  "source_score": 572272550170399460584344271623743055688465881877545543159045520891713273405
+}

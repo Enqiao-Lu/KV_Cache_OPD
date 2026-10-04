@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0174_hormonal_contraception",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4482285",
+  "title": "Hormonal contraception",
+  "url": "https://en.wikipedia.org/wiki/Hormonal%20contraception",
+  "text_chars": 24603,
+  "exact_hash": "e4b622c89781999cf7376b3b658927c007122a0e51312955e4eac4cd90bb19bf",
+  "source_score": 732746506823653049050769484498608120232858248114320736648077240251309504628
+}

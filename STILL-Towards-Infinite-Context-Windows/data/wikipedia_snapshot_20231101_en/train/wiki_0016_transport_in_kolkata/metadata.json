@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0016_transport_in_kolkata",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4488483",
+  "title": "Transport in Kolkata",
+  "url": "https://en.wikipedia.org/wiki/Transport%20in%20Kolkata",
+  "text_chars": 17146,
+  "exact_hash": "d89101d167631657fb280913cc7a71146f366221486aa8ee4a6bae609a94a711",
+  "source_score": 133796646569186595327465253009849951544247888730101967810181583966466289316
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0218_mount_saint_benedict",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4423205",
+  "title": "Mount Saint Benedict",
+  "url": "https://en.wikipedia.org/wiki/Mount%20Saint%20Benedict",
+  "text_chars": 4861,
+  "exact_hash": "810a7de2219788b6fd306ab9dd95b99edca6db3059bd60429017f21f35819246",
+  "source_score": 861132581334480886108730671121376224635748043454311423328406642569964754936
+}

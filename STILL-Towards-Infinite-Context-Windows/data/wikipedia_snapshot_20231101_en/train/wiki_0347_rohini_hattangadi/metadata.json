@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0347_rohini_hattangadi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4750907",
+  "title": "Rohini Hattangadi",
+  "url": "https://en.wikipedia.org/wiki/Rohini%20Hattangadi",
+  "text_chars": 9817,
+  "exact_hash": "1c94d6fdce1162088435375a7e19878fe15bcaf1b53fe03e2acdf4b49ac150ef",
+  "source_score": 1456135236730649964610333688281902668133406755000706318525249631700867812417
+}

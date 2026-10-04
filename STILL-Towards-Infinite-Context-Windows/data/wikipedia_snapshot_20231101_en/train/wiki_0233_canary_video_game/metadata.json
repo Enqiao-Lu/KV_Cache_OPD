@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0233_canary_video_game",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4591823",
+  "title": "Canary (video game)",
+  "url": "https://en.wikipedia.org/wiki/Canary%20%28video%20game%29",
+  "text_chars": 4171,
+  "exact_hash": "d3b42a8a69594cb3a8aae24717b9c14e6fad749e9e12c4125fecf08a1a005697",
+  "source_score": 906402168273401149491459694014864321285448562883397362207480706165544021741
+}

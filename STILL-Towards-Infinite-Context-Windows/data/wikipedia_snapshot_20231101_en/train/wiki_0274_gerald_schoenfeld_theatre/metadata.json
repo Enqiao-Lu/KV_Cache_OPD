@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0274_gerald_schoenfeld_theatre",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4401184",
+  "title": "Gerald Schoenfeld Theatre",
+  "url": "https://en.wikipedia.org/wiki/Gerald%20Schoenfeld%20Theatre",
+  "text_chars": 33979,
+  "exact_hash": "fc8eb628ffa5bb649586361a4b4867cc815ac950bec89c578d345e2cb2e8ae50",
+  "source_score": 1141416533978107598995943553959316672922030556853370297993833550280443136504
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0064_beverly_johnson",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4635146",
+  "title": "Beverly Johnson",
+  "url": "https://en.wikipedia.org/wiki/Beverly%20Johnson",
+  "text_chars": 5383,
+  "exact_hash": "34845aa1953747c04007275e260528ac460d3596867676a5c9b7853f058ee1b1",
+  "source_score": 316821121215329240697614591688033590834358163695832656699206401080827685078
+}

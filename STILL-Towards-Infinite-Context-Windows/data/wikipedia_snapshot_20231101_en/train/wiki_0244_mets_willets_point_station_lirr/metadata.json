@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0244_mets_willets_point_station_lirr",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4165309",
+  "title": "Mets\u2013Willets Point station (LIRR)",
+  "url": "https://en.wikipedia.org/wiki/Mets%E2%80%93Willets%20Point%20station%20%28LIRR%29",
+  "text_chars": 6176,
+  "exact_hash": "2f6929bac40b331ed6e7859c1a5be985ebaceb2f5f60d1f86e6828eac6c7bae6",
+  "source_score": 969196392502169274772308181160377659139392024353899440955315120334584765195
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0018_howard_ferguson_composer",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4261901",
+  "title": "Howard Ferguson (composer)",
+  "url": "https://en.wikipedia.org/wiki/Howard%20Ferguson%20%28composer%29",
+  "text_chars": 8750,
+  "exact_hash": "ad64b5b2a4b50be0e55ed859545eb6bb8151d77ae9fa243e17813eeb1753a19d",
+  "source_score": 141269834942544467106292359144740905086106137374488458718048870001485372076
+}

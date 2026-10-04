@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0480_thomas_kalmaku",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4559198",
+  "title": "Thomas Kalmaku",
+  "url": "https://en.wikipedia.org/wiki/Thomas%20Kalmaku",
+  "text_chars": 4151,
+  "exact_hash": "e703ec04b3c05b56bc5fad58a219d1122c9a6c731e5d29b4eb423ed2244ceab5",
+  "source_score": 1935404392230659676122608364613743478068488409550524499077651750162628048075
+}

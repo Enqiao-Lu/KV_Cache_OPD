@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0435_legion_of_doom_hacker_group",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4141692",
+  "title": "Legion of Doom (hacker group)",
+  "url": "https://en.wikipedia.org/wiki/Legion%20of%20Doom%20%28hacker%20group%29",
+  "text_chars": 5231,
+  "exact_hash": "526681e7b11081b2479615c5f482d08c2fa79efa2be57dee1196a1909e969fe3",
+  "source_score": 1829403198980970055220675115487817447887995849384131983362953030939378301800
+}

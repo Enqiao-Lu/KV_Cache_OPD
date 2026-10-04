@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0197_haplogroup_a_mtdna",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4145413",
+  "title": "Haplogroup A (mtDNA)",
+  "url": "https://en.wikipedia.org/wiki/Haplogroup%20A%20%28mtDNA%29",
+  "text_chars": 13734,
+  "exact_hash": "457290d4b71a297bc8e236f542e397527b1275b1155857d9adac597978abae9c",
+  "source_score": 778765530567379438950540192303636634947881723373596416857835824025711207362
+}

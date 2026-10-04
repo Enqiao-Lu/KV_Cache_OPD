@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0209_st_louis_union_station",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4188497",
+  "title": "St. Louis Union Station",
+  "url": "https://en.wikipedia.org/wiki/St.%20Louis%20Union%20Station",
+  "text_chars": 9605,
+  "exact_hash": "ef7f0f283810682aaef41bde406ad4525d27cd32c89fbaa0fcd6386f67358725",
+  "source_score": 826129159049675002350464276182630719299257315906321962620306384403939582851
+}

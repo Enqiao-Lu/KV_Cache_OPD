@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0264_murong_sheng",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4495191",
+  "title": "Murong Sheng",
+  "url": "https://en.wikipedia.org/wiki/Murong%20Sheng",
+  "text_chars": 14140,
+  "exact_hash": "3f73a51ce56245f447226ff65ccd4201ca21a53a700303c34a0a185fa4681844",
+  "source_score": 1062108684251589463282839735837517644450618221834034484327395516545268900879
+}

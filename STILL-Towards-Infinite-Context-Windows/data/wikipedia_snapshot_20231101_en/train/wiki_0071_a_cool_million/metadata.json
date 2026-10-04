@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0071_a_cool_million",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4267719",
+  "title": "A Cool Million",
+  "url": "https://en.wikipedia.org/wiki/A%20Cool%20Million",
+  "text_chars": 4164,
+  "exact_hash": "8352895d03c1cd1e9099c74d9242095ceb78dcc897f414d72a6b5bb9973cf427",
+  "source_score": 339740254353230203975641911143159413345367413088355958071841390963467031770
+}

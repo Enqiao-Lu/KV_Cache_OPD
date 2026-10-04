@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0248_james_marr_biologist",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4353566",
+  "title": "James Marr (biologist)",
+  "url": "https://en.wikipedia.org/wiki/James%20Marr%20%28biologist%29",
+  "text_chars": 4159,
+  "exact_hash": "e3ce0ddfcf79eecc1ab25990634eed275ba0d26b00ab0111c0ef3bb2793b1e4b",
+  "source_score": 987052131129662590455025811544654735673778334702649454458131122048877829178
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0161_matthew_sklar",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4689097",
+  "title": "Matthew Sklar",
+  "url": "https://en.wikipedia.org/wiki/Matthew%20Sklar",
+  "text_chars": 6452,
+  "exact_hash": "109482aa2d7de6c28747817c56638dd52e3410fc79052bd19b02741e9ef8c83b",
+  "source_score": 692177674268872292054654162203693762939881049608314810352493074494153760020
+}

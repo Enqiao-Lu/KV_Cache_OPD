@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0440_batman_robin_film",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4729",
+  "title": "Batman & Robin (film)",
+  "url": "https://en.wikipedia.org/wiki/Batman%20%26%20Robin%20%28film%29",
+  "text_chars": 31708,
+  "exact_hash": "43bc577ad2d6fd3a498972a8d786efd3ed15652262d754c085eecc845e2c65c5",
+  "source_score": 1851086997658595476390489409656520820841868779695291362561590904808921169874
+}

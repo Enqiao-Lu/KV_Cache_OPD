@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0375_baku_metro",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4379005",
+  "title": "Baku Metro",
+  "url": "https://en.wikipedia.org/wiki/Baku%20Metro",
+  "text_chars": 12818,
+  "exact_hash": "94240e25c24c6fbd4b12e06a77397a5dffe8247a54bfde33aa86ac479cea98ee",
+  "source_score": 1561060467618494573451830171161651831448724765709495527341083096956075184795
+}

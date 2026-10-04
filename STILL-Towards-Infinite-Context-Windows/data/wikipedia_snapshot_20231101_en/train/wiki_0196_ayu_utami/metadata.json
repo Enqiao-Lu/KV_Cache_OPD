@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0196_ayu_utami",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4552831",
+  "title": "Ayu Utami",
+  "url": "https://en.wikipedia.org/wiki/Ayu%20Utami",
+  "text_chars": 7065,
+  "exact_hash": "977f4e4c804c9255a2644bddbb4870964076337046a56bb0d832b072ded62f3b",
+  "source_score": 778554721381591726523914702704901090764230178992272304979891989975133610494
+}

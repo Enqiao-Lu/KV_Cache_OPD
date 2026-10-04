@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0004_army_of_the_republic_of_bosnia_and_herzegovina",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4675739",
+  "title": "Army of the Republic of Bosnia and Herzegovina",
+  "url": "https://en.wikipedia.org/wiki/Army%20of%20the%20Republic%20of%20Bosnia%20and%20Herzegovina",
+  "text_chars": 9557,
+  "exact_hash": "b76855d22025963cea982420345d5d3c3e83c97e9adec143608e5ffb4e5085f2",
+  "source_score": 86100433216047538871078059201443485185839904783000165518024184690039723525
+}

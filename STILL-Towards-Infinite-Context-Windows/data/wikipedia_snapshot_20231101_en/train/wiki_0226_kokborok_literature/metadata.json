@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0226_kokborok_literature",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4634361",
+  "title": "Kokborok literature",
+  "url": "https://en.wikipedia.org/wiki/Kokborok%20literature",
+  "text_chars": 16366,
+  "exact_hash": "0b4275b5a4832dbaccfdfea30d395de83e3f4cb0f035c291be3b96470ff33afa",
+  "source_score": 881862262017622527747660396959504363017557154498293270555692855049164727472
+}

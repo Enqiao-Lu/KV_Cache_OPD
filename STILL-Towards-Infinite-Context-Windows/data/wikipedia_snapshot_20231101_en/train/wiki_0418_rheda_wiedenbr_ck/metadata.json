@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0418_rheda_wiedenbr_ck",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4052603",
+  "title": "Rheda-Wiedenbr\u00fcck",
+  "url": "https://en.wikipedia.org/wiki/Rheda-Wiedenbr%C3%BCck",
+  "text_chars": 9022,
+  "exact_hash": "68e4efa61f6de3eb3ac0ad1693340b6e6cbc688f9bbfccb1886e611e4f7277b3",
+  "source_score": 1773803044680984157023136620642554188938179286959510404663555178760143891012
+}

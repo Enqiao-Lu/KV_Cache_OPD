@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0320_tornado_outbreak_of_april_2_3_1956",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4609519",
+  "title": "Tornado outbreak of April 2\u20133, 1956",
+  "url": "https://en.wikipedia.org/wiki/Tornado%20outbreak%20of%20April%202%E2%80%933%2C%201956",
+  "text_chars": 7967,
+  "exact_hash": "c0d7063359813ed26484d6d0a2d2ffe14c092817582f004c6b9b097a76561f65",
+  "source_score": 1360632527925131230310173755694672553267135058642554933594555805490824707112
+}

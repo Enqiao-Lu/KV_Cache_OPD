@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0373_bina_rai",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4611930",
+  "title": "Bina Rai",
+  "url": "https://en.wikipedia.org/wiki/Bina%20Rai",
+  "text_chars": 4886,
+  "exact_hash": "135adfe9187bb0c1c7aa6f024ff09b8d1b46967fe396c639214a4bacdf8c8870",
+  "source_score": 1548874051178429091472529911050899797121117882144562798516404664152425285413
+}

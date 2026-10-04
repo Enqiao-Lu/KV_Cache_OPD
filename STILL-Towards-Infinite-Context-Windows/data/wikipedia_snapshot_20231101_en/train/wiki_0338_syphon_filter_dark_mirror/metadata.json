@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0338_syphon_filter_dark_mirror",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4651278",
+  "title": "Syphon Filter: Dark Mirror",
+  "url": "https://en.wikipedia.org/wiki/Syphon%20Filter%3A%20Dark%20Mirror",
+  "text_chars": 10614,
+  "exact_hash": "6d8b0fe53962d0508b7830cd3dac38965493bc3799af5cb1a87d1c628290a994",
+  "source_score": 1407976985305623753820833784761974530683112792717295055554407161097632046500
+}

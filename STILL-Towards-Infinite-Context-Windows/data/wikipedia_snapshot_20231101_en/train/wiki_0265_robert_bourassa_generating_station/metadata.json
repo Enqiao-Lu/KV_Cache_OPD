@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0265_robert_bourassa_generating_station",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4671584",
+  "title": "Robert-Bourassa generating station",
+  "url": "https://en.wikipedia.org/wiki/Robert-Bourassa%20generating%20station",
+  "text_chars": 11957,
+  "exact_hash": "4535c32f2157f69d3f415eb46efda4ab8395ec8b9992452430a91cfd30351bd7",
+  "source_score": 1062392206978750890407930134269771794948712537944915679196972071021536142714
+}

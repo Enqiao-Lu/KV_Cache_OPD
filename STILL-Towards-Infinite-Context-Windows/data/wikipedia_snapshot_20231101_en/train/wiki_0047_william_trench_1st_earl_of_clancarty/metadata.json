@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0047_william_trench_1st_earl_of_clancarty",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4312543",
+  "title": "William Trench, 1st Earl of Clancarty",
+  "url": "https://en.wikipedia.org/wiki/William%20Trench%2C%201st%20Earl%20of%20Clancarty",
+  "text_chars": 4313,
+  "exact_hash": "93ebc9c47b7f59a8030d636e8b8902ef89d0dbd110998f4df932af1c162b129c",
+  "source_score": 240983821405709473625584181676411917864343663651023813637280196371484607674
+}

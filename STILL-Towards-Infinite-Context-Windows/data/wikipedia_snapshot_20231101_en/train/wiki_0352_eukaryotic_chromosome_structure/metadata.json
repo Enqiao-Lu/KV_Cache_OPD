@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0352_eukaryotic_chromosome_structure",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4718833",
+  "title": "Eukaryotic chromosome structure",
+  "url": "https://en.wikipedia.org/wiki/Eukaryotic%20chromosome%20structure",
+  "text_chars": 4910,
+  "exact_hash": "ffc1fe4cc2374f185cec319c2aa52cffb3c515702c691996b3cb273f03a42d3a",
+  "source_score": 1464623609608414537948006384669793519970426197238561712174740378700708489698
+}

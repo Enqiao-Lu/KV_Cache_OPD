@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0056_associative_property",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "1335",
+  "title": "Associative property",
+  "url": "https://en.wikipedia.org/wiki/Associative%20property",
+  "text_chars": 8907,
+  "exact_hash": "40b750a9d3121961bbc8b090e13325d7354ceeca1b405bb54e8d983529070ce9",
+  "source_score": 274165297368501806265767006189309614247333581569537054763428700908698450510
+}

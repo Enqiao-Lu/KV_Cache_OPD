@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0223_plunket_shield",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4682804",
+  "title": "Plunket Shield",
+  "url": "https://en.wikipedia.org/wiki/Plunket%20Shield",
+  "text_chars": 5337,
+  "exact_hash": "579dcde6b26bb635be25040867261b5bd53612a6c5c6b386a579ad71bb3e534c",
+  "source_score": 877520964046553017266921021237095102608103391356996924762324434714048236755
+}

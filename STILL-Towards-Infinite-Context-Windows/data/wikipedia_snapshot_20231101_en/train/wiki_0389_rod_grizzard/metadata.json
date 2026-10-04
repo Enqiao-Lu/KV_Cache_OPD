@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0389_rod_grizzard",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4750132",
+  "title": "Rod Grizzard",
+  "url": "https://en.wikipedia.org/wiki/Rod%20Grizzard",
+  "text_chars": 4580,
+  "exact_hash": "3d215d942fc5269bd09ae2ddb86c70e7694c25a87c3d03bab993d6098394e2d2",
+  "source_score": 1625645179363520691712625738228795946127502372479811085486061454112475041469
+}

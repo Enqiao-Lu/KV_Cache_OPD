@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0204_mark_murphy_american_football_executive",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4450228",
+  "title": "Mark Murphy (American football executive)",
+  "url": "https://en.wikipedia.org/wiki/Mark%20Murphy%20%28American%20football%20executive%29",
+  "text_chars": 19271,
+  "exact_hash": "266f1971fa3e81bea9793c6890200a6eb2e5ba640c0e23307150fa4be4b69326",
+  "source_score": 814530743815887472392092304922522983840571299834870044180249789534734919102
+}

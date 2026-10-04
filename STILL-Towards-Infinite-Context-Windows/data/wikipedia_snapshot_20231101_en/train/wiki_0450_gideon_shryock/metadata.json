@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0450_gideon_shryock",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4082147",
+  "title": "Gideon Shryock",
+  "url": "https://en.wikipedia.org/wiki/Gideon%20Shryock",
+  "text_chars": 8042,
+  "exact_hash": "c235941a05a267284c72f477b1f71addc9c08994f46f52c36a2d832d6876b87e",
+  "source_score": 1873167424099682882585754653631682793021614593513464204507669660583687142080
+}

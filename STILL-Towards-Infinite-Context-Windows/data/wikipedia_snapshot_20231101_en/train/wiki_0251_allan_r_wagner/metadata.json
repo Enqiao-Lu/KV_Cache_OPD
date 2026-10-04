@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0251_allan_r_wagner",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4560856",
+  "title": "Allan R. Wagner",
+  "url": "https://en.wikipedia.org/wiki/Allan%20R.%20Wagner",
+  "text_chars": 5965,
+  "exact_hash": "f05706cd577645fc2541fc324b27bbde3d9cf7d9b84b39e02d675426934d719c",
+  "source_score": 999535438041831244212239646967776061663673415142687991466365845373784768981
+}

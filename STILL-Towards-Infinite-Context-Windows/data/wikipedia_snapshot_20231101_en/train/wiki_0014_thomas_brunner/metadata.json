@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0014_thomas_brunner",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4226634",
+  "title": "Thomas Brunner",
+  "url": "https://en.wikipedia.org/wiki/Thomas%20Brunner",
+  "text_chars": 18755,
+  "exact_hash": "19b28432ab6b4059da081b76e1f1e14ec547b88e0b0b66347920f89203571f0f",
+  "source_score": 128680320600561379444145780968477762788154835767012301152433396659329528104
+}

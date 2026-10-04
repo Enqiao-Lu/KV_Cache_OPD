@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0113_loudspeaker_enclosure",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4335254",
+  "title": "Loudspeaker enclosure",
+  "url": "https://en.wikipedia.org/wiki/Loudspeaker%20enclosure",
+  "text_chars": 30422,
+  "exact_hash": "0cf95267071d2ad1837d2dcd4fadc4a71f03a1bc9bc58f55886ac424a825fa4e",
+  "source_score": 525163861223680965268833039091363495594688966064002287491449198821046614403
+}

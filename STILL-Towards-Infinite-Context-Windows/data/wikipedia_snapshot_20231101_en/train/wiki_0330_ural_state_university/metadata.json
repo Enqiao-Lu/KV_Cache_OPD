@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0330_ural_state_university",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4453847",
+  "title": "Ural State University",
+  "url": "https://en.wikipedia.org/wiki/Ural%20State%20University",
+  "text_chars": 6757,
+  "exact_hash": "4a1930349f962f45c85903ee986b9953a455907fbd97ee03a95dd0de2938839d",
+  "source_score": 1387510112309044081172463988737262845901590369026292066365507157296023923984
+}

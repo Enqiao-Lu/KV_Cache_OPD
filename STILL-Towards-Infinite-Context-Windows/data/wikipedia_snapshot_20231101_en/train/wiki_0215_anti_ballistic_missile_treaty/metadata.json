@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0215_anti_ballistic_missile_treaty",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "2975",
+  "title": "Anti-Ballistic Missile Treaty",
+  "url": "https://en.wikipedia.org/wiki/Anti-Ballistic%20Missile%20Treaty",
+  "text_chars": 14170,
+  "exact_hash": "a9f53efbdd86b4389ead8febc64f5787bc0c5616325d6b9fec0af4397596ba40",
+  "source_score": 853269080455453481039067332877672385911904257957118392122185714636855259280
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0385_luthrodes_pandava",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4612890",
+  "title": "Luthrodes pandava",
+  "url": "https://en.wikipedia.org/wiki/Luthrodes%20pandava",
+  "text_chars": 6652,
+  "exact_hash": "ec93f4c6a9ca73dac98be5fd7af200723a095011a80dddc2b52a690f2dd697e7",
+  "source_score": 1609884490108050550035207543157428097678538688406135526333799905073463935381
+}

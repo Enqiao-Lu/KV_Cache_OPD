@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0232_zombi_3",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4618142",
+  "title": "Zombi 3",
+  "url": "https://en.wikipedia.org/wiki/Zombi%203",
+  "text_chars": 10763,
+  "exact_hash": "8ca05a48f80311849905f2a02e9faea903e6c6c6ccdcac98f40ef8364b181c84",
+  "source_score": 899878271921888663546671436812357068758670526420870969696720626172588416938
+}

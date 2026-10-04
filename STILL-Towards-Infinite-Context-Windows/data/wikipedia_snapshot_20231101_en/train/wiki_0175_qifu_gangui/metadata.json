@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0175_qifu_gangui",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4420799",
+  "title": "Qifu Gangui",
+  "url": "https://en.wikipedia.org/wiki/Qifu%20Gangui",
+  "text_chars": 13863,
+  "exact_hash": "a7f5c4be4b8e79a25005ce5e60b5eeb805d1fb1c3bcc6ccd25a74478b81c505d",
+  "source_score": 735782863428591754665914778710851065861754498410525728416370378873169697987
+}

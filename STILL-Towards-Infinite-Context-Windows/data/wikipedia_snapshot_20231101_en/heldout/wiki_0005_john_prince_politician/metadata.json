@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0005_john_prince_politician",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4605658",
+  "title": "John Prince (politician)",
+  "url": "https://en.wikipedia.org/wiki/John%20Prince%20%28politician%29",
+  "text_chars": 7084,
+  "exact_hash": "7dfde1e799c3a943c1d8ad1923ae9d7012b12d0f16c7f0547f02dbda7f18b9aa",
+  "source_score": 18268095947287187674667155093295388513383441291104645032975170929730487336
+}

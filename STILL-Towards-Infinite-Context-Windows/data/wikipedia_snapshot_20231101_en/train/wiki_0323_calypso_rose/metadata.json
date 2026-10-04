@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0323_calypso_rose",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4354841",
+  "title": "Calypso Rose",
+  "url": "https://en.wikipedia.org/wiki/Calypso%20Rose",
+  "text_chars": 13834,
+  "exact_hash": "1b278e4af2b2d154c7f8fae62215fe104a4734876fbbfbb9497bc7681756116d",
+  "source_score": 1369146809928332723542264520929111205433532264342823686864241562182237320233
+}

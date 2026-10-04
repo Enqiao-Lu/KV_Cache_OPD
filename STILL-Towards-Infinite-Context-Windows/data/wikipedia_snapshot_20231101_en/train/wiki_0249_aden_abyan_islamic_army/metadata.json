@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0249_aden_abyan_islamic_army",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4055099",
+  "title": "Aden-Abyan Islamic Army",
+  "url": "https://en.wikipedia.org/wiki/Aden-Abyan%20Islamic%20Army",
+  "text_chars": 4924,
+  "exact_hash": "932800d0f8be301bf6e84838546e649b6f4dd5d5168861f378ea0b79a969f48c",
+  "source_score": 999013355253913041117649070313034056187400436096647415516737037869290641794
+}

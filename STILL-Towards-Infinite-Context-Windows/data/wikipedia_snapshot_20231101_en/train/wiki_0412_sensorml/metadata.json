@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0412_sensorml",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4318691",
+  "title": "SensorML",
+  "url": "https://en.wikipedia.org/wiki/SensorML",
+  "text_chars": 8526,
+  "exact_hash": "8b43a177e4edbb32f70409ee46f3e573121bf7154778e91eac5c8f1904eb00bb",
+  "source_score": 1740230692239750262741323008145953720475317048250382245535759907601732538997
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0085_newburgh_beacon_ferry",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4557588",
+  "title": "Newburgh\u2013Beacon Ferry",
+  "url": "https://en.wikipedia.org/wiki/Newburgh%E2%80%93Beacon%20Ferry",
+  "text_chars": 9918,
+  "exact_hash": "ba6d77f1a7fd9a33c6eccf67bae2cad066e16980f69f03a3003a934d79c48189",
+  "source_score": 399901944362293954007513215174643154592006386715579969740250433434834701999
+}

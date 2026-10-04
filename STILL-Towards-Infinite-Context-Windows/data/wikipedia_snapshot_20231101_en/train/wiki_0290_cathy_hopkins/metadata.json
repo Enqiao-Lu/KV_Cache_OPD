@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0290_cathy_hopkins",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4286237",
+  "title": "Cathy Hopkins",
+  "url": "https://en.wikipedia.org/wiki/Cathy%20Hopkins",
+  "text_chars": 4271,
+  "exact_hash": "c5d82f964290b8cf8592058af018d2a440fdec1a61c31086a993c34918265a7b",
+  "source_score": 1220634188611898184305789825400143428431439613931026019713168573456941284175
+}

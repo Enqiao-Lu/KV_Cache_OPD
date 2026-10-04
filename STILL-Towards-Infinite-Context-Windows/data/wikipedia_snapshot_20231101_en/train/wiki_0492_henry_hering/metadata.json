@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0492_henry_hering",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4087221",
+  "title": "Henry Hering",
+  "url": "https://en.wikipedia.org/wiki/Henry%20Hering",
+  "text_chars": 4446,
+  "exact_hash": "e3e95331e43c937de410c1b0ad4db415d33c24d7dbd6b0269d08e10508a07c7b",
+  "source_score": 1972879239995332286361562576827252803459292789329079867336559165326438788813
+}

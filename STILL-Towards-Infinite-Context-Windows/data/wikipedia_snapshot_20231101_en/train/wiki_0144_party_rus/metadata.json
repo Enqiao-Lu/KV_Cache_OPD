@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0144_party_rus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4605809",
+  "title": "Party \"Rus\"",
+  "url": "https://en.wikipedia.org/wiki/Party%20%22Rus%22",
+  "text_chars": 4301,
+  "exact_hash": "7ecac5238a775847c23bd9f927cf154ac4c140d09b46dc39f5074ac849600b62",
+  "source_score": 622810533539546190675082607020320043479996906905685504664460175754596687261
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0054_axiology",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "3143",
+  "title": "Axiology",
+  "url": "https://en.wikipedia.org/wiki/Axiology",
+  "text_chars": 15922,
+  "exact_hash": "852fc985e950b86475de58699112bf2734791cf15d6f30ca2a6b319e5037e917",
+  "source_score": 266195109768395102915658449778767424542248394115106106745047397637957999970
+}

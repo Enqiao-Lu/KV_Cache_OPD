@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0360_mapusaurus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4580764",
+  "title": "Mapusaurus",
+  "url": "https://en.wikipedia.org/wiki/Mapusaurus",
+  "text_chars": 6777,
+  "exact_hash": "c9e1f668711b177ddf767cbdfd7dec9d2d28941a9e998b72e2e66614026c58db",
+  "source_score": 1484799842347068302965541762062745271638023100386421299608810705084450630777
+}

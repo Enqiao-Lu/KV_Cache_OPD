@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0066_henry_b_walthall",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4130571",
+  "title": "Henry B. Walthall",
+  "url": "https://en.wikipedia.org/wiki/Henry%20B.%20Walthall",
+  "text_chars": 5378,
+  "exact_hash": "6d489427cbc5695e67f10b6c95964b4af9abbcfdc482dc3fe9abf98c2aecc02f",
+  "source_score": 318886489779397683475285804601559033667221590006596668573826052357660007740
+}

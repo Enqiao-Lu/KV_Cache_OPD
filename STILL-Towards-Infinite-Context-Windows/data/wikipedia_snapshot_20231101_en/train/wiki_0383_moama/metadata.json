@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0383_moama",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4648383",
+  "title": "Moama",
+  "url": "https://en.wikipedia.org/wiki/Moama",
+  "text_chars": 7484,
+  "exact_hash": "b8cf6f8cec1b9fa596b81590c02bad0aeda3f00e6f2dce2f9abb6ab5aa850385",
+  "source_score": 1603999185949414226598083232335797834351617025457643115227424255213891735723
+}

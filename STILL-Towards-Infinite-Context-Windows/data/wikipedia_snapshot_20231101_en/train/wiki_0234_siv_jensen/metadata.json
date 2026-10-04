@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0234_siv_jensen",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4703510",
+  "title": "Siv Jensen",
+  "url": "https://en.wikipedia.org/wiki/Siv%20Jensen",
+  "text_chars": 14023,
+  "exact_hash": "38680a3831216d466f907239430595988512041dffb8af6cd3eafb57f4244288",
+  "source_score": 909841088412811561221683269103117064850048307116745120328095086398463286844
+}

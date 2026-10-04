@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0496_pacific_division_nhl",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4529108",
+  "title": "Pacific Division (NHL)",
+  "url": "https://en.wikipedia.org/wiki/Pacific%20Division%20%28NHL%29",
+  "text_chars": 6453,
+  "exact_hash": "3d4a87ac1f84a77b28a9e8d557cdca90c1a062a10e269c68803aa85fd7e36f4a",
+  "source_score": 1986642623676723062890339940377983522260849541373304770512402498395909631817
+}

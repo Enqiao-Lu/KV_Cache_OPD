@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0270_electronic_common_technical_document",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4161179",
+  "title": "Electronic common technical document",
+  "url": "https://en.wikipedia.org/wiki/Electronic%20common%20technical%20document",
+  "text_chars": 6396,
+  "exact_hash": "e324d87abb5e73f0abdd0451be32378b1a16ae2a1af1b3213ed876dd357fa77a",
+  "source_score": 1104897719948080945412196442732339523896143984895013536778934299143245514469
+}

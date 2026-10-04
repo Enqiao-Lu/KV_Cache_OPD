@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0381_evey_hammond",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4566771",
+  "title": "Evey Hammond",
+  "url": "https://en.wikipedia.org/wiki/Evey%20Hammond",
+  "text_chars": 8557,
+  "exact_hash": "a2212b4723fa2658b50541d318e6df59cdff343b7c0f1f107d2a303d8df3e0f4",
+  "source_score": 1572331523479899141003723670939736237248871858460840851477605443105730069924
+}

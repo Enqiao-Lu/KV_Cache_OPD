@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0266_mixed_use_development",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4429175",
+  "title": "Mixed-use development",
+  "url": "https://en.wikipedia.org/wiki/Mixed-use%20development",
+  "text_chars": 16673,
+  "exact_hash": "9fb27dadccf825638929df690ce7f2ca8f2b8680ab8180bc00d98ce771d111b0",
+  "source_score": 1079071442582791881587929362411017487339363245828764167755067819678953839657
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0009_earth_s_rotation",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4396171",
+  "title": "Earth's rotation",
+  "url": "https://en.wikipedia.org/wiki/Earth%27s%20rotation",
+  "text_chars": 19660,
+  "exact_hash": "10c64aee88c221b62767d44d3120d23b83d1da87038998bd492a234d89f4cea1",
+  "source_score": 28605338647741576713080256721228572674709646632324802808330947062619164446
+}

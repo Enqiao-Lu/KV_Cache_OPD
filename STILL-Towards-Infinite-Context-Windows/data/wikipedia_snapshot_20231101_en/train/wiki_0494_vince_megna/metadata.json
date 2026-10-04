@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0494_vince_megna",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4729706",
+  "title": "Vince Megna",
+  "url": "https://en.wikipedia.org/wiki/Vince%20Megna",
+  "text_chars": 7238,
+  "exact_hash": "92b3306bc4a2f1f0ed41a0bbedebcfe61a944120da8aabb596b9768433cd3530",
+  "source_score": 1978952375153589309804691590167095637075806995866206575332661435716826635243
+}

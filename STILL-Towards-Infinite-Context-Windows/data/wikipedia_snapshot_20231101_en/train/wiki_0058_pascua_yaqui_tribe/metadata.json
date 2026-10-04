@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0058_pascua_yaqui_tribe",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4054022",
+  "title": "Pascua Yaqui Tribe",
+  "url": "https://en.wikipedia.org/wiki/Pascua%20Yaqui%20Tribe",
+  "text_chars": 16597,
+  "exact_hash": "05ea6c6740b8f672bc4eac4d82d29c96961a7e37deafb3bf5708b9ae8dba7163",
+  "source_score": 290897156454650595317329305210099304813873961611549310494667861180848793995
+}

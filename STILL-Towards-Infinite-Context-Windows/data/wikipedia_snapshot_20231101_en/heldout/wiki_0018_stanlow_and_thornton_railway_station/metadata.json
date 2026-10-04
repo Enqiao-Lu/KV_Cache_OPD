@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0018_stanlow_and_thornton_railway_station",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4149399",
+  "title": "Stanlow and Thornton railway station",
+  "url": "https://en.wikipedia.org/wiki/Stanlow%20and%20Thornton%20railway%20station",
+  "text_chars": 4884,
+  "exact_hash": "286be48e39f59625cdd1e6812eb8482e2ef637146fa4d2fb5a14cd861aff6502",
+  "source_score": 57878308982111018395224126884122783421903736468245490308135962446480725346
+}

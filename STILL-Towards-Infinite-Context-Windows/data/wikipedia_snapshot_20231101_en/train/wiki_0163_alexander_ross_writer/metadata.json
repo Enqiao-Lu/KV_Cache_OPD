@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0163_alexander_ross_writer",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4306086",
+  "title": "Alexander Ross (writer)",
+  "url": "https://en.wikipedia.org/wiki/Alexander%20Ross%20%28writer%29",
+  "text_chars": 5965,
+  "exact_hash": "c965da3c899ec349f4cabf787ee938df9b2043e29630efef9cf1f419b3d8978f",
+  "source_score": 704160246994268606834235687634668051456617175473244198925884368462752284964
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0078_nab_marconi_radio_awards",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4305542",
+  "title": "NAB Marconi Radio Awards",
+  "url": "https://en.wikipedia.org/wiki/NAB%20Marconi%20Radio%20Awards",
+  "text_chars": 32686,
+  "exact_hash": "9b09ff32a4b925ead6ca4c722815cca3ad1728a89a70ffdf445c1af2a89260d3",
+  "source_score": 355726992595987403686174351662985668127556654578366738797597269434887822223
+}

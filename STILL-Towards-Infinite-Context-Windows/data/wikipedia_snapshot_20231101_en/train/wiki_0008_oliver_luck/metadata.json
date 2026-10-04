@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0008_oliver_luck",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4270986",
+  "title": "Oliver Luck",
+  "url": "https://en.wikipedia.org/wiki/Oliver%20Luck",
+  "text_chars": 10646,
+  "exact_hash": "7c253cc687402e19db50e42b31fd06058829bcceda1ec86abcfbc949bb2245af",
+  "source_score": 107386083130894943467817382795936924021897883947749546529952866784239683151
+}

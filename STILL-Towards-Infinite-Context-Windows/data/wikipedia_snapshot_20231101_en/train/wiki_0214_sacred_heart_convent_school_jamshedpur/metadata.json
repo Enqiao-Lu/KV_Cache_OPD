@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0214_sacred_heart_convent_school_jamshedpur",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4129911",
+  "title": "Sacred Heart Convent School (Jamshedpur)",
+  "url": "https://en.wikipedia.org/wiki/Sacred%20Heart%20Convent%20School%20%28Jamshedpur%29",
+  "text_chars": 5266,
+  "exact_hash": "c990474c4586521b58f8cd52b6e164ad21cc314861b4b6c4d497aa09f90ceb3b",
+  "source_score": 851206382109858797680451833617581700918785835293096450361633362847892297775
+}

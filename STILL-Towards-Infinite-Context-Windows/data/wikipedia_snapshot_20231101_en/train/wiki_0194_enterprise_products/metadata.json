@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0194_enterprise_products",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4326660",
+  "title": "Enterprise Products",
+  "url": "https://en.wikipedia.org/wiki/Enterprise%20Products",
+  "text_chars": 5381,
+  "exact_hash": "b9295f7e429e099703395f1be3ebe5b86167786c64d27b54c97965bd6b1a8c96",
+  "source_score": 776874005286468698612549755316389259364199461176733598093029410564391968256
+}

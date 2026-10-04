@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0304_brion_gysin",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4188",
+  "title": "Brion Gysin",
+  "url": "https://en.wikipedia.org/wiki/Brion%20Gysin",
+  "text_chars": 14433,
+  "exact_hash": "c173deb693f069a7cf0ded1f0c4d7c9e14e1af5c11f3fbdc15e50ee661a44d45",
+  "source_score": 1289960885141615970331973674509389373759866097746306102010273375672335083458
+}

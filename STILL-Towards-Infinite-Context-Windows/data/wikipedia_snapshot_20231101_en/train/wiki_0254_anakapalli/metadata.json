@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0254_anakapalli",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4672260",
+  "title": "Anakapalli",
+  "url": "https://en.wikipedia.org/wiki/Anakapalli",
+  "text_chars": 7924,
+  "exact_hash": "5d093cf254874e6654c819981a7862912eedf1cf82052335ba9173fd4f4a2218",
+  "source_score": 1006167057219207597627415551575777103563428531429870073034370285297787932542
+}

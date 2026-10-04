@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0500_wdfx_tv",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4598970",
+  "title": "WDFX-TV",
+  "url": "https://en.wikipedia.org/wiki/WDFX-TV",
+  "text_chars": 4827,
+  "exact_hash": "2f1658d497aad9e1fb523c1f5a692645a0b015938e20bd84e957f5d6b57393b9",
+  "source_score": 2002500917577132264428930574028554766901502850157307763090920374267482373141
+}

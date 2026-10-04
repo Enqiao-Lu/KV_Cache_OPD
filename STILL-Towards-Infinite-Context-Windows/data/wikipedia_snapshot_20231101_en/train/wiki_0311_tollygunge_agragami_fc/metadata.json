@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0311_tollygunge_agragami_fc",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4147637",
+  "title": "Tollygunge Agragami FC",
+  "url": "https://en.wikipedia.org/wiki/Tollygunge%20Agragami%20FC",
+  "text_chars": 6749,
+  "exact_hash": "d132b90f6acd3f7e5ecec90c7c3b40c661a2e8bc73125415600904bba73af119",
+  "source_score": 1304979550979417467272847783946920698704432198517199435994815144001051909064
+}

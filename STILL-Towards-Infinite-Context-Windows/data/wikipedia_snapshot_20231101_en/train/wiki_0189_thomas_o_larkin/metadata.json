@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0189_thomas_o_larkin",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4517771",
+  "title": "Thomas O. Larkin",
+  "url": "https://en.wikipedia.org/wiki/Thomas%20O.%20Larkin",
+  "text_chars": 19131,
+  "exact_hash": "9e20323b5f19f4eb6ab1405c165e080b8f004c8558eca96906cd037ebe7d1081",
+  "source_score": 762276263517784462051336908569255521662908963365389036437660108901754902867
+}

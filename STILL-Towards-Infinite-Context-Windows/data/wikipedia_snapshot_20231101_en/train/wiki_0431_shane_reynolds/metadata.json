@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0431_shane_reynolds",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4526365",
+  "title": "Shane Reynolds",
+  "url": "https://en.wikipedia.org/wiki/Shane%20Reynolds",
+  "text_chars": 7524,
+  "exact_hash": "31d64fee85ab0ef8da6f78c0c527b789ba21afc6c6a74c9eaadda291189b04d8",
+  "source_score": 1823168465059072342610425230587952661692646564428183946971744259614468466169
+}

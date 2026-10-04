@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0119_1969_in_new_zealand",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4243245",
+  "title": "1969 in New Zealand",
+  "url": "https://en.wikipedia.org/wiki/1969%20in%20New%20Zealand",
+  "text_chars": 5955,
+  "exact_hash": "fda3004cad1a94b2162629c98aad27bb8944e89e163200450b753e9f933924b0",
+  "source_score": 551801840865334036915526824593150927123557975445141237310992310736308387715
+}

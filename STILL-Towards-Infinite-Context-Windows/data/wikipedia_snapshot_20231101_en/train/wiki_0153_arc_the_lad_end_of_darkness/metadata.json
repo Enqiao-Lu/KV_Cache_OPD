@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0153_arc_the_lad_end_of_darkness",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4279129",
+  "title": "Arc the Lad: End of Darkness",
+  "url": "https://en.wikipedia.org/wiki/Arc%20the%20Lad%3A%20End%20of%20Darkness",
+  "text_chars": 9965,
+  "exact_hash": "ee14c1c73dac61df2871317e870bc728f25d5ecfc2c08478137163e8892def95",
+  "source_score": 655212722524137598443412680635377016307996175928068740260897669028249470157
+}

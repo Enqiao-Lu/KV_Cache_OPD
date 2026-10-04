@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0341_chinese_garden_of_friendship",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4474675",
+  "title": "Chinese Garden of Friendship",
+  "url": "https://en.wikipedia.org/wiki/Chinese%20Garden%20of%20Friendship",
+  "text_chars": 20991,
+  "exact_hash": "59eac677c936729e19461cf951fb3824bd5feb59877398fb1736fda898870cff",
+  "source_score": 1427203663357560689177700884844963040670243699701810166568830011735813448102
+}

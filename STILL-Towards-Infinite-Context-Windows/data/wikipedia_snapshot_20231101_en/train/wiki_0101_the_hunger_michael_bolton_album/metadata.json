@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0101_the_hunger_michael_bolton_album",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4071230",
+  "title": "The Hunger (Michael Bolton album)",
+  "url": "https://en.wikipedia.org/wiki/The%20Hunger%20%28Michael%20Bolton%20album%29",
+  "text_chars": 6235,
+  "exact_hash": "4455e81b7f30c1efa34f5ce49af5057defe2c7f3485e5f99b551e871138b31e7",
+  "source_score": 490365786423187212572661217997540624873139570165347715612764948313916646942
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0458_anti_parliamentary_communist_federation",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4417608",
+  "title": "Anti-Parliamentary Communist Federation",
+  "url": "https://en.wikipedia.org/wiki/Anti-Parliamentary%20Communist%20Federation",
+  "text_chars": 28894,
+  "exact_hash": "f438b680df2e47a6be4bf3e4cedc6c1f1e15b618829ef67941ae6650d7f88e8e",
+  "source_score": 1887909017861790970470769911191672465817592053530763903913438515178561766822
+}

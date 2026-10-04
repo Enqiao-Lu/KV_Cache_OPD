@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0259_common_hawk_cuckoo",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4059886",
+  "title": "Common hawk-cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Common%20hawk-cuckoo",
+  "text_chars": 5997,
+  "exact_hash": "0085afee65c6562415b3cd59ee80f5ca2a5da0c6a734abb13f2731df74cec2e4",
+  "source_score": 1020051321676159121626860901683150988721640393975829446306325330831925314482
+}

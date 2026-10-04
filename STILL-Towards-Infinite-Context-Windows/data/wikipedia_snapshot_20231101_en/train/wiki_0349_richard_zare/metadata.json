@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0349_richard_zare",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4454307",
+  "title": "Richard Zare",
+  "url": "https://en.wikipedia.org/wiki/Richard%20Zare",
+  "text_chars": 9212,
+  "exact_hash": "9c8329f13d7c2b3792c42e91dbfc5482268b2f4bce8d961219b573b1d7a2b8ef",
+  "source_score": 1457678303303436198864838749575554030698825978412510935927542718288297325856
+}

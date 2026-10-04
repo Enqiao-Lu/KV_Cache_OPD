@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0091_cuisine_of_philadelphia",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4237050",
+  "title": "Cuisine of Philadelphia",
+  "url": "https://en.wikipedia.org/wiki/Cuisine%20of%20Philadelphia",
+  "text_chars": 17531,
+  "exact_hash": "3c790d7822ec7f396c9a29acef10bc4d19e23a904a7950726b0c9356cd8f7aa1",
+  "source_score": 432422828382271251903143410223223430366199738510829640630039821414078208118
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0474_compiler",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "5739",
+  "title": "Compiler",
+  "url": "https://en.wikipedia.org/wiki/Compiler",
+  "text_chars": 37532,
+  "exact_hash": "4b17278a3a246e6a53f9d8c55aba95a89a294f74f16c0e358251a91cc7143409",
+  "source_score": 1928675992118918649681789617559726776035096339923807660387336925941701385548
+}

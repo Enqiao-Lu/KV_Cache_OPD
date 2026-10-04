@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0013_the_barnacle_historic_state_park",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4257589",
+  "title": "The Barnacle Historic State Park",
+  "url": "https://en.wikipedia.org/wiki/The%20Barnacle%20Historic%20State%20Park",
+  "text_chars": 8039,
+  "exact_hash": "7e9e206e898de64fd7f2ed831a72041c145a923638c02b0fcf2a3f9085efe8f3",
+  "source_score": 39738616055713831273342940629033962432394809367682169562989132115256523052
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0473_johnny_dickshot",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4148210",
+  "title": "Johnny Dickshot",
+  "url": "https://en.wikipedia.org/wiki/Johnny%20Dickshot",
+  "text_chars": 12139,
+  "exact_hash": "5b0fa3891ae8b6dcde7fef9163b2fad00031c49ffe6aa3b728a27e4d8fe39f19",
+  "source_score": 1918265850187109288545922797871113956936972577573675660941453566163721457690
+}

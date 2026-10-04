@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0072_aurora_tigers",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4357975",
+  "title": "Aurora Tigers",
+  "url": "https://en.wikipedia.org/wiki/Aurora%20Tigers",
+  "text_chars": 12784,
+  "exact_hash": "6c9398e5a2ba7d17bb1f013d10548edab6362d8b818744c5afb36162a0f88a61",
+  "source_score": 341530767137383602270362923964515823986362614603532564198913777427139309060
+}

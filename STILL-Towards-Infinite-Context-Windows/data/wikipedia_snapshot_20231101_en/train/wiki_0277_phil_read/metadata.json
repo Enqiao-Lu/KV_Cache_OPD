@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0277_phil_read",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4745377",
+  "title": "Phil Read",
+  "url": "https://en.wikipedia.org/wiki/Phil%20Read",
+  "text_chars": 11048,
+  "exact_hash": "758771389bfad6db9e73f3aebab98c1d21ba186a3504de4a9c71c39bcde7845b",
+  "source_score": 1159858610543888076452748470342322675308403668261050420147061830142364941149
+}

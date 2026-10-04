@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0147_larry_eigner",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4654782",
+  "title": "Larry Eigner",
+  "url": "https://en.wikipedia.org/wiki/Larry%20Eigner",
+  "text_chars": 5959,
+  "exact_hash": "7ecc237868255cb38e2b609ffb6605faba6fdff39ce8d68366a533de53b7e671",
+  "source_score": 631415712202829010448231712729727215293801811637666471524906015964579228222
+}

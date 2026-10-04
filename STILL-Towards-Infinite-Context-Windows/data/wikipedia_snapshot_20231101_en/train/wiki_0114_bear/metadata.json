@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0114_bear",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4400",
+  "title": "Bear",
+  "url": "https://en.wikipedia.org/wiki/Bear",
+  "text_chars": 35461,
+  "exact_hash": "d384467bda8ecf05c58229f36a6158eb621be17de6b0c777891585e9d6b088b6",
+  "source_score": 533799413892764197733518172674620157371236668197730281280059645407258681601
+}

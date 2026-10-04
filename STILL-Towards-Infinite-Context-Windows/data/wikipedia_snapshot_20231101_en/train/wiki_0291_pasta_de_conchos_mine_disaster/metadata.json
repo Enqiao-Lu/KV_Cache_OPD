@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0291_pasta_de_conchos_mine_disaster",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4196593",
+  "title": "Pasta de Conchos mine disaster",
+  "url": "https://en.wikipedia.org/wiki/Pasta%20de%20Conchos%20mine%20disaster",
+  "text_chars": 5899,
+  "exact_hash": "a49721028df77a2ac19c769628ba347da3c83c6d0e238b806bf9a5e3bd3f7d41",
+  "source_score": 1236753859533847185118068522367683973920557887230141525215669333834546416259
+}

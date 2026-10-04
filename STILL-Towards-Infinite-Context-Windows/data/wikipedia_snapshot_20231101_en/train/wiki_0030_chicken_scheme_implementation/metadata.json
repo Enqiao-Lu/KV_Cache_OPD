@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0030_chicken_scheme_implementation",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4397102",
+  "title": "Chicken (Scheme implementation)",
+  "url": "https://en.wikipedia.org/wiki/Chicken%20%28Scheme%20implementation%29",
+  "text_chars": 9154,
+  "exact_hash": "58b328faedca72c5adab4e06ce4c583aaf39bd5672b20a1588288e710464da81",
+  "source_score": 169769100342058839913752994028921953568545751494336148602234751506479726807
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0097_genetically_modified_maize",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4514",
+  "title": "Genetically modified maize",
+  "url": "https://en.wikipedia.org/wiki/Genetically%20modified%20maize",
+  "text_chars": 17929,
+  "exact_hash": "a8126de6b4a25d8f1c5a176a8adac9922138658092901fec2bc62e484ae1e7f5",
+  "source_score": 449070779483006075356769947370448112301124366860015124513448937229151256663
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0111_ak_aabat",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4099271",
+  "title": "Ak\u00e7aabat",
+  "url": "https://en.wikipedia.org/wiki/Ak%C3%A7aabat",
+  "text_chars": 7894,
+  "exact_hash": "8d59590b69f521340ed48a0673906699daff90cd300034c3bbe8a0adbc572b99",
+  "source_score": 522643322816442830254109197818306659949471183556431695750945643981374380827
+}

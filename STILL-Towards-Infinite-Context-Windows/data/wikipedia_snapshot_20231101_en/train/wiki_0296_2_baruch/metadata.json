@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0296_2_baruch",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4334987",
+  "title": "2 Baruch",
+  "url": "https://en.wikipedia.org/wiki/2%20Baruch",
+  "text_chars": 10431,
+  "exact_hash": "ef38cf742f7a23443aa9b2693287d9a65fecf8aa95bf6a1d1982a65fd0682b2c",
+  "source_score": 1260268053227191122952174678697009747535665092147217042607062989517601615545
+}

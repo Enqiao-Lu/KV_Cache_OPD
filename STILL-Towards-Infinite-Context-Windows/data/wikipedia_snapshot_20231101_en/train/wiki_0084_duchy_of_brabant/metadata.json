@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0084_duchy_of_brabant",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4589770",
+  "title": "Duchy of Brabant",
+  "url": "https://en.wikipedia.org/wiki/Duchy%20of%20Brabant",
+  "text_chars": 15617,
+  "exact_hash": "1ccbb5ec95a0132097671b446495be812f59607c0f760e083bead3507e78c2e2",
+  "source_score": 375903527771206420007315071370390042629314581553014415102983890961653058832
+}

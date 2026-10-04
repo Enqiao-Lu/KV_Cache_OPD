@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0026_crowland_abbey",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4333747",
+  "title": "Crowland Abbey",
+  "url": "https://en.wikipedia.org/wiki/Crowland%20Abbey",
+  "text_chars": 5241,
+  "exact_hash": "d934af4474e5184e22ef1d3b8752d06195da2fe450592277deca1827758d4805",
+  "source_score": 153912852213202731840126658353414723442631569643138289447928021012788292996
+}

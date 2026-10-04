@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0370_charles_h_bennett_illustrator",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4129078",
+  "title": "Charles H. Bennett (illustrator)",
+  "url": "https://en.wikipedia.org/wiki/Charles%20H.%20Bennett%20%28illustrator%29",
+  "text_chars": 22938,
+  "exact_hash": "14f09db11a219436b4393a598984bb60e938e71912f4d615958db9f5febca4cf",
+  "source_score": 1540075123218543480094976936373005595246697941513600753198439754411996617291
+}

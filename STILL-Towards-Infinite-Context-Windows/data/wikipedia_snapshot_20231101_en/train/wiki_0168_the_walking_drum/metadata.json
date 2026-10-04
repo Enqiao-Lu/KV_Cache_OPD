@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0168_the_walking_drum",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4098609",
+  "title": "The Walking Drum",
+  "url": "https://en.wikipedia.org/wiki/The%20Walking%20Drum",
+  "text_chars": 15544,
+  "exact_hash": "9e927f5b6707c888563298e4e2ecd5ad1e5e1b9ebcf7a6b8d2187240c0b452b6",
+  "source_score": 709556166208304902309963308806394630903346550525220350929653298758926187597
+}

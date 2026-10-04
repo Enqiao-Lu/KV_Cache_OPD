@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0029_angela_vincent",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "3089",
+  "title": "Angela Vincent",
+  "url": "https://en.wikipedia.org/wiki/Angela%20Vincent",
+  "text_chars": 4598,
+  "exact_hash": "cb94b06453deaec3729422173da3aa6e25f225af9ba37825a0414d3d7c8527ce",
+  "source_score": 168024685841747835302569266962679710211981926186348640786369085398485972152
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0005_eden_mohila_college",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4362437",
+  "title": "Eden Mohila College",
+  "url": "https://en.wikipedia.org/wiki/Eden%20Mohila%20College",
+  "text_chars": 6501,
+  "exact_hash": "260713d5bf632bdc8b0b749501a2d8a5c53cba82557f7ae1ed7e91082a613085",
+  "source_score": 89054659312692596398864269223323713801312962423902550787419978773925010633
+}

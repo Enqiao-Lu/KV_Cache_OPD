@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0199_borden_chase",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4363365",
+  "title": "Borden Chase",
+  "url": "https://en.wikipedia.org/wiki/Borden%20Chase",
+  "text_chars": 8271,
+  "exact_hash": "fd5586a983a4ba3e94a4523ebd660ebf83b0e85c705273c8c745522d56c2c5b6",
+  "source_score": 782746237041319201009997161521049312042025584167134874769401437471302530681
+}

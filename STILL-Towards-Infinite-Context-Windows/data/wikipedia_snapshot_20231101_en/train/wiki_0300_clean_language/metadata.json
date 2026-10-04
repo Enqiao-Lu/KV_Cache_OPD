@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0300_clean_language",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4721118",
+  "title": "Clean language",
+  "url": "https://en.wikipedia.org/wiki/Clean%20language",
+  "text_chars": 9182,
+  "exact_hash": "856e80747e0b5be844be4cc9e489b7f228ebceced4812e3c3cbc62a12af913f0",
+  "source_score": 1264551946549369154766249255752503723679919436520958065403557724626128671400
+}

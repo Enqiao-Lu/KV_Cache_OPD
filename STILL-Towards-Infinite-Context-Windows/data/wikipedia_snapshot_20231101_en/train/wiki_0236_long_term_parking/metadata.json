@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0236_long_term_parking",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4517307",
+  "title": "Long Term Parking",
+  "url": "https://en.wikipedia.org/wiki/Long%20Term%20Parking",
+  "text_chars": 9687,
+  "exact_hash": "a775990fc072b920a316ce1e14650df5534ddc3ac2901e230d49243f312999dc",
+  "source_score": 929463061640824882019707785947467557280387134404953580548664459843316841942
+}

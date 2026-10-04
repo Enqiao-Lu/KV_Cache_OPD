@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0306_putney_magpies",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4451193",
+  "title": "Putney Magpies",
+  "url": "https://en.wikipedia.org/wiki/Putney%20Magpies",
+  "text_chars": 4024,
+  "exact_hash": "bf2aec18a34ad63f1054d23a11a33e71917479a21e6e88a7dc1c0ae3df73013b",
+  "source_score": 1292121086577118848616889921441677433013348094820044280454173366711978128161
+}

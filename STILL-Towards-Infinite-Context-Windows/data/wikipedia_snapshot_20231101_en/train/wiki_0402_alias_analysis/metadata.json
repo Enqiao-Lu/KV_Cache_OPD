@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0402_alias_analysis",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4466328",
+  "title": "Alias analysis",
+  "url": "https://en.wikipedia.org/wiki/Alias%20analysis",
+  "text_chars": 4760,
+  "exact_hash": "789aa6f8d68c3d532ce62cd06e62a93a4693d61746a5c2f83f316b9bcdabaafd",
+  "source_score": 1708411439433311848978159661472304788995213937414079751550738969365645609823
+}

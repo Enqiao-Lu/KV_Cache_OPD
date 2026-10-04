@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0449_james_perch",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4722151",
+  "title": "James Perch",
+  "url": "https://en.wikipedia.org/wiki/James%20Perch",
+  "text_chars": 4104,
+  "exact_hash": "39b7d6edf8e0af8ea6f2d2678b491217460b7f83a9b7cc3bb19d46bc1e4ab11e",
+  "source_score": 1868480771923387518191943331265673483194604313603453751266232959621911029683
+}

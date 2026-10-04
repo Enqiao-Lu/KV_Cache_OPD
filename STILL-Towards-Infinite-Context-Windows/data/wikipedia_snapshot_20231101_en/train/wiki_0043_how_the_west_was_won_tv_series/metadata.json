@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0043_how_the_west_was_won_tv_series",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4234054",
+  "title": "How the West Was Won (TV series)",
+  "url": "https://en.wikipedia.org/wiki/How%20the%20West%20Was%20Won%20%28TV%20series%29",
+  "text_chars": 8106,
+  "exact_hash": "024a54338dc031916083ee070e730f2cebfdc1172fc7c3be931a4ea8b4eb7235",
+  "source_score": 228185432821292946257718287287742015432211935801246289416263146957507019894
+}

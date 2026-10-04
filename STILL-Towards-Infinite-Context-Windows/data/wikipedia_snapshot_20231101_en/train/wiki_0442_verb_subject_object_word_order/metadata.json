@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0442_verb_subject_object_word_order",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4768787",
+  "title": "Verb\u2013subject\u2013object word order",
+  "url": "https://en.wikipedia.org/wiki/Verb%E2%80%93subject%E2%80%93object%20word%20order",
+  "text_chars": 4403,
+  "exact_hash": "ee12740ded67f7ac43e9c09c539a9c004f89c57c3fd7e9b27ecbc81cbdfef2a8",
+  "source_score": 1858832457900923364110787577464582758993333494737599619372599294853080355271
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0462_nottingham_city_transport",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4401095",
+  "title": "Nottingham City Transport",
+  "url": "https://en.wikipedia.org/wiki/Nottingham%20City%20Transport",
+  "text_chars": 16877,
+  "exact_hash": "2ed075452f3ee1c84bd973d65585a797c7daded029f94fdc2952f007c01a5e15",
+  "source_score": 1892443461093498305218656245500256321868514745790020792676393805739452372670
+}

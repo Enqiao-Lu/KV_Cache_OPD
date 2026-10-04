@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0036_acci_n_mutante",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4579403",
+  "title": "Acci\u00f3n mutante",
+  "url": "https://en.wikipedia.org/wiki/Acci%C3%B3n%20mutante",
+  "text_chars": 4625,
+  "exact_hash": "fc1d9567a0bad9cd0ed098c1d635917866badfdcb0ca613e971764ccbf559e5b",
+  "source_score": 202115296438912116221729379328666426278514947605959049152278123375938088570
+}

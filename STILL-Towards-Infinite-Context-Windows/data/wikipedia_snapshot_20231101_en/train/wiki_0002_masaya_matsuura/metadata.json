@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0002_masaya_matsuura",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4179854",
+  "title": "Masaya Matsuura",
+  "url": "https://en.wikipedia.org/wiki/Masaya%20Matsuura",
+  "text_chars": 5001,
+  "exact_hash": "6e623f404c6cc5264067a761da43739c76ecec75ea609730c23ad23e4690c212",
+  "source_score": 80380588555785738028268008442097062648265154790063753947795945991455500290
+}

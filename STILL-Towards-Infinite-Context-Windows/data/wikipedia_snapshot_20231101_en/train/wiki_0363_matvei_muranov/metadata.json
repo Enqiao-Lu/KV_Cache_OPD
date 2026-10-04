@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0363_matvei_muranov",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4323416",
+  "title": "Matvei Muranov",
+  "url": "https://en.wikipedia.org/wiki/Matvei%20Muranov",
+  "text_chars": 6142,
+  "exact_hash": "5915758082238418d782318c7a573ed96d9c534b08d52c69bc76d33018b4697d",
+  "source_score": 1516677583405275801911390897088845900242824672968105489015900678663325464633
+}

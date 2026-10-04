@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0105_james_anderson_freemason",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4083906",
+  "title": "James Anderson (Freemason)",
+  "url": "https://en.wikipedia.org/wiki/James%20Anderson%20%28Freemason%29",
+  "text_chars": 6752,
+  "exact_hash": "c84d01e6d29f275e930ab3146a606263a3f039927b5029a7f622c2054405928f",
+  "source_score": 498701695551462510163082781720971232692312762367008970176978972321892102232
+}

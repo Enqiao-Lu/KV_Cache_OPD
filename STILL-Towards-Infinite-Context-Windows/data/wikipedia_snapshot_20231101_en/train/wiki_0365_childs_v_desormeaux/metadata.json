@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0365_childs_v_desormeaux",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4276920",
+  "title": "Childs v Desormeaux",
+  "url": "https://en.wikipedia.org/wiki/Childs%20v%20Desormeaux",
+  "text_chars": 5386,
+  "exact_hash": "9b2986cdbcbd25ff046b24302a8ee41520515f17def5fc00e1823491a205c2e9",
+  "source_score": 1532543073153555155243494191737129904759150612764570790476033071044249652410
+}

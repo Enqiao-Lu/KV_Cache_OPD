@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0364_list_of_jazz_fusion_musicians",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4624999",
+  "title": "List of jazz fusion musicians",
+  "url": "https://en.wikipedia.org/wiki/List%20of%20jazz%20fusion%20musicians",
+  "text_chars": 5695,
+  "exact_hash": "77a71b8d54db9c8aea0ad1f42be727b120a0134a3eda548f3a40f227f03df978",
+  "source_score": 1523270158791046381710639220230237454427756919232357881764691011292885446886
+}

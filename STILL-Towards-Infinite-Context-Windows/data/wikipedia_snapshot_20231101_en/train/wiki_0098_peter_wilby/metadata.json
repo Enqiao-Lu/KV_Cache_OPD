@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0098_peter_wilby",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4481522",
+  "title": "Peter Wilby",
+  "url": "https://en.wikipedia.org/wiki/Peter%20Wilby",
+  "text_chars": 4930,
+  "exact_hash": "d04c0d0f1e43d84a3d8e3691a2a5e655461506596ee3be0fc84b8e347e8410e2",
+  "source_score": 470081963155482694992537527636980774720134796634450182875745201301623708877
+}

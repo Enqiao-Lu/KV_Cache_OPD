@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0445_apostolic_church_of_south_africa_apostle_unity",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4170852",
+  "title": "Apostolic Church of South Africa \u2013 Apostle Unity",
+  "url": "https://en.wikipedia.org/wiki/Apostolic%20Church%20of%20South%20Africa%20%E2%80%93%20Apostle%20Unity",
+  "text_chars": 5283,
+  "exact_hash": "6e04f1e179d4d8e57b3b5680bfd329e2dabc6eab6be7ddc83f9f789418df35c8",
+  "source_score": 1863567826744664811102196667476052961160014696690775461400610178994693335027
+}

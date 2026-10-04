@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0014_phi_sigma_alpha",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4532434",
+  "title": "Phi Sigma Alpha",
+  "url": "https://en.wikipedia.org/wiki/Phi%20Sigma%20Alpha",
+  "text_chars": 14114,
+  "exact_hash": "4be16cb31e48c8f25dd262f05de7ae38760baa96f8801250a30ad6419ff9802e",
+  "source_score": 43939109177850426907100942158121554783469092030262112086937966727295619805
+}

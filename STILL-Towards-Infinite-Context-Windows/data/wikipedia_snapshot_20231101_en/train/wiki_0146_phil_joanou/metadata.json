@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0146_phil_joanou",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4360054",
+  "title": "Phil Joanou",
+  "url": "https://en.wikipedia.org/wiki/Phil%20Joanou",
+  "text_chars": 9264,
+  "exact_hash": "142ba41134a1d73f7da4394e9579b148812be8ffff2a2e48d6840e1a2487ac34",
+  "source_score": 629650464835899195527079128999447912618497889784735801980264165196079467693
+}

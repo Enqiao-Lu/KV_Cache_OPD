@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0410_dan_harmon",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4749267",
+  "title": "Dan Harmon",
+  "url": "https://en.wikipedia.org/wiki/Dan%20Harmon",
+  "text_chars": 15943,
+  "exact_hash": "4af9cd4d1b3c767d6ec606ce400554748946e0b93a2d9af891223300a325de13",
+  "source_score": 1734800916277208800726744951174429949459727728503257379243608802478938521019
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0482_brooks_peninsula_provincial_park",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4181016",
+  "title": "Brooks Peninsula Provincial Park",
+  "url": "https://en.wikipedia.org/wiki/Brooks%20Peninsula%20Provincial%20Park",
+  "text_chars": 4039,
+  "exact_hash": "eb156abb75aabdacf713acc7dcd5ad9f0a7f747ba6004125712f70fd081f41e4",
+  "source_score": 1944387385622158781982263689535319077532736588151845389107911702496216682228
+}

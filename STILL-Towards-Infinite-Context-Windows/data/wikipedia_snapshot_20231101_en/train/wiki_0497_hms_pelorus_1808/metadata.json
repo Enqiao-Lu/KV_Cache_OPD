@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0497_hms_pelorus_1808",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4155329",
+  "title": "HMS Pelorus (1808)",
+  "url": "https://en.wikipedia.org/wiki/HMS%20Pelorus%20%281808%29",
+  "text_chars": 12239,
+  "exact_hash": "2b1cfe795a211aa29359cab17560d824fd9d2ed7f013471347a14e16f2298b22",
+  "source_score": 1987724927248195544140220175441650658169211978685457716083106643255700626715
+}

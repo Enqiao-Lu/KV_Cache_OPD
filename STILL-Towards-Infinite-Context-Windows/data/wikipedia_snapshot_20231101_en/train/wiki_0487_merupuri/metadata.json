@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0487_merupuri",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4133951",
+  "title": "MeruPuri",
+  "url": "https://en.wikipedia.org/wiki/MeruPuri",
+  "text_chars": 12847,
+  "exact_hash": "dd121a77706441ba0df86d99437ee6534beabd1c0aa72e2b82335b014a6d842a",
+  "source_score": 1961236262643301210474694022554657885342416154704398140980952282998907727861
+}

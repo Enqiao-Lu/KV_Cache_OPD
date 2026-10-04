@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0437_doctorin_the_tardis",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4695714",
+  "title": "Doctorin' the Tardis",
+  "url": "https://en.wikipedia.org/wiki/Doctorin%27%20the%20Tardis",
+  "text_chars": 8591,
+  "exact_hash": "bed955f326959efe7c014758eb773c210612e16fdf1fd97ef3a5455cbfc9288a",
+  "source_score": 1836215034914356186397665907228854482770329548096231070068670025218396257166
+}

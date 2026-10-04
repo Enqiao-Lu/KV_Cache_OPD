@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0145_princess_comet",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4398085",
+  "title": "Princess Comet",
+  "url": "https://en.wikipedia.org/wiki/Princess%20Comet",
+  "text_chars": 4248,
+  "exact_hash": "da7f02db54d0f919fdb12e8cc464b362f36692dec421463d56b01e489565fa44",
+  "source_score": 623609990742425688259824751041902534200724775784373769449796373495717160535
+}

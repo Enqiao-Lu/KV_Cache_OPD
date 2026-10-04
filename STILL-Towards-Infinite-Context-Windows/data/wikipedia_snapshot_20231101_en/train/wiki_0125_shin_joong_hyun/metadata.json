@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0125_shin_joong_hyun",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4327545",
+  "title": "Shin Joong-hyun",
+  "url": "https://en.wikipedia.org/wiki/Shin%20Joong-hyun",
+  "text_chars": 9221,
+  "exact_hash": "5816353756c9affd2967700c919be0d73732e229c15282be3e875985b0d72888",
+  "source_score": 571798517813258384497024618685769214682162512642998767011299141056945018006
+}

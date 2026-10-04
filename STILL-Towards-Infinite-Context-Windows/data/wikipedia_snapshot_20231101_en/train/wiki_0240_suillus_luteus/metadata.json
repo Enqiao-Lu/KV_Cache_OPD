@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0240_suillus_luteus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4243425",
+  "title": "Suillus luteus",
+  "url": "https://en.wikipedia.org/wiki/Suillus%20luteus",
+  "text_chars": 17617,
+  "exact_hash": "367b4daed8bbc05f24045b0cff2b80efb85e33deab0ac5db650b001c2e962302",
+  "source_score": 943677263334277247606075659629029056987958721029310040076110307875477030913
+}

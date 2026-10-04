@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0035_appletalk",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "2115",
+  "title": "AppleTalk",
+  "url": "https://en.wikipedia.org/wiki/AppleTalk",
+  "text_chars": 33547,
+  "exact_hash": "1bdb52600c9bda1ff5cd2ad68d32fa3a5245b398bd87e06c94a590d6757ba2b5",
+  "source_score": 195983745031694053203632461204389288244701084589065612229893173926263549821
+}

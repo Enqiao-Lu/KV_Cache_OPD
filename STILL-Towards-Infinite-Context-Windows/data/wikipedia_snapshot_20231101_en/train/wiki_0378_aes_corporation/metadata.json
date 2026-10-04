@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0378_aes_corporation",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4766109",
+  "title": "AES Corporation",
+  "url": "https://en.wikipedia.org/wiki/AES%20Corporation",
+  "text_chars": 14229,
+  "exact_hash": "1cacc3aa2f8453240502b16e6551f605e500794714625970c3aae494d7c1a3a8",
+  "source_score": 1567145718061761666151167473593904209062900085369609758934490253696531419853
+}

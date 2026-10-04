@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0019_lonestar_legacy",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4399546",
+  "title": "Lonestar Legacy",
+  "url": "https://en.wikipedia.org/wiki/Lonestar%20Legacy",
+  "text_chars": 4892,
+  "exact_hash": "c8588900cef512474ca13608d31070963637fbdd264312aa486c3114370bf291",
+  "source_score": 64364686401244559073895980957487050951501572968842997439538623245089277967
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0493_tautology_logic",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4495335",
+  "title": "Tautology (logic)",
+  "url": "https://en.wikipedia.org/wiki/Tautology%20%28logic%29",
+  "text_chars": 15244,
+  "exact_hash": "c63432e09623899b34e7a27cbf97b44a231906397f9b898e60dc05a95d34cec3",
+  "source_score": 1974392634928110288577041601495156215167873282061627643849256646815155269903
+}

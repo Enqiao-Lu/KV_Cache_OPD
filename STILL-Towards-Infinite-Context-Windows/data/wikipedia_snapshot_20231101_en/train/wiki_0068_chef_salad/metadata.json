@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0068_chef_salad",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4153705",
+  "title": "Chef salad",
+  "url": "https://en.wikipedia.org/wiki/Chef%20salad",
+  "text_chars": 4207,
+  "exact_hash": "fb25e6a2418496a48d816ad386f923069254222239fe63ad97d486a3b7214c74",
+  "source_score": 329253196510487169399124439002245635677834311285188379806872681475651369473
+}

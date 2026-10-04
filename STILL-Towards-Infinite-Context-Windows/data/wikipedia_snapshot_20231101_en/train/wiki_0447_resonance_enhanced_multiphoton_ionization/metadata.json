@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0447_resonance_enhanced_multiphoton_ionization",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4268240",
+  "title": "Resonance-enhanced multiphoton ionization",
+  "url": "https://en.wikipedia.org/wiki/Resonance-enhanced%20multiphoton%20ionization",
+  "text_chars": 6138,
+  "exact_hash": "d7b75dce1537ebc04e67ebeb3f243e2252127cd781b079590835be90844ce3a5",
+  "source_score": 1864797575175129101645663721941603828793027427998332917719444806022800388996
+}

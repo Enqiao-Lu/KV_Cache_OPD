@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0358_tioga_state_forest",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4483559",
+  "title": "Tioga State Forest",
+  "url": "https://en.wikipedia.org/wiki/Tioga%20State%20Forest",
+  "text_chars": 4563,
+  "exact_hash": "0dc63ce457433fd27530037090341bdc2f0ff270d174a434e98fa7d7a565d2f3",
+  "source_score": 1483168978330631890306860061849334664560098074753735480561291637592329998242
+}

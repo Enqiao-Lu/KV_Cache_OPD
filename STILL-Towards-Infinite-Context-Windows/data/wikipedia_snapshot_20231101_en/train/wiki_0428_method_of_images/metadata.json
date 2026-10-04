@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0428_method_of_images",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4684937",
+  "title": "Method of images",
+  "url": "https://en.wikipedia.org/wiki/Method%20of%20images",
+  "text_chars": 6076,
+  "exact_hash": "aa0cb7b9d6ebf531a6e7e261d189cc252c174da6dc3eb7e469b9c6b96b0fb1b2",
+  "source_score": 1820233924006310400646751006816161437005084329373257048703663197641218104888
+}

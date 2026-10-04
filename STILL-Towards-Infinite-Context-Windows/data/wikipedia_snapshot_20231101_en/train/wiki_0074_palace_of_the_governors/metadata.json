@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0074_palace_of_the_governors",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4055316",
+  "title": "Palace of the Governors",
+  "url": "https://en.wikipedia.org/wiki/Palace%20of%20the%20Governors",
+  "text_chars": 4562,
+  "exact_hash": "001346347f7629859449a6691bc78af01b8b5dd0e632fde3aeaa4d8320ce747d",
+  "source_score": 344854760516787769581825977823220407993367641271439300152138528803980042439
+}

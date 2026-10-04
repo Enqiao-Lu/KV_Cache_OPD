@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0282_list_of_espn_major_league_baseball_broadcasters",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4063707",
+  "title": "List of ESPN Major League Baseball broadcasters",
+  "url": "https://en.wikipedia.org/wiki/List%20of%20ESPN%20Major%20League%20Baseball%20broadcasters",
+  "text_chars": 12025,
+  "exact_hash": "55edcd0de7bd2b1fb893e46576d17b14380d87d02ad5d4503c2cf04b7752cb26",
+  "source_score": 1193442085542622521558004324011689857353188353532886114366021213812235341624
+}

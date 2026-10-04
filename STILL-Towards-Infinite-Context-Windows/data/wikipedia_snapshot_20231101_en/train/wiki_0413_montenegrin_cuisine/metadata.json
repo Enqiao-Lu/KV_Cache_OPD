@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0413_montenegrin_cuisine",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4635280",
+  "title": "Montenegrin cuisine",
+  "url": "https://en.wikipedia.org/wiki/Montenegrin%20cuisine",
+  "text_chars": 6944,
+  "exact_hash": "670e8b3005dd83ba3b058205cd1990e1d6e4d962b39851579e19fbe58830445b",
+  "source_score": 1742840189707471131004323556699948473016861185712280556185419673757274107615
+}

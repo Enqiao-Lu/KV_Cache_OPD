@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0367_promenade_concert",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4717709",
+  "title": "Promenade concert",
+  "url": "https://en.wikipedia.org/wiki/Promenade%20concert",
+  "text_chars": 6731,
+  "exact_hash": "5d25844e4b2bf0cae3116b27e6242f17755154da3f6a07cec07ce3e9ddf86943",
+  "source_score": 1534847089151437324828748133610284067078058848465752117436850440053002422906
+}

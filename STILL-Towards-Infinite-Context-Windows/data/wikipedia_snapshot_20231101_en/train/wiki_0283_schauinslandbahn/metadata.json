@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0283_schauinslandbahn",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4164397",
+  "title": "Schauinslandbahn",
+  "url": "https://en.wikipedia.org/wiki/Schauinslandbahn",
+  "text_chars": 4081,
+  "exact_hash": "2683ae1634e5b273e65949dc73a1332f774841de9576c35557953ab164ad9d30",
+  "source_score": 1200586427271423862084809932718757601242904681791059880515970830795886226507
+}

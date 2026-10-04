@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0227_list_of_irish_classical_composers",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4602824",
+  "title": "List of Irish classical composers",
+  "url": "https://en.wikipedia.org/wiki/List%20of%20Irish%20classical%20composers",
+  "text_chars": 7001,
+  "exact_hash": "6a76754def645bbf9e4199e2b49dba11751769e1914f8fb9dd62b2583ff61b34",
+  "source_score": 884667253589804254710279656272708893688320357430055153790392640722029533529
+}

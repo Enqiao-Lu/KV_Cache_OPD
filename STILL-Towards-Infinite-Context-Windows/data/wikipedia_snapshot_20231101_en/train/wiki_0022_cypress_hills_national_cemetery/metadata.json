@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0022_cypress_hills_national_cemetery",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4676482",
+  "title": "Cypress Hills National Cemetery",
+  "url": "https://en.wikipedia.org/wiki/Cypress%20Hills%20National%20Cemetery",
+  "text_chars": 11110,
+  "exact_hash": "f4f682e34c115cf23486a70386b9ffe13b0a3ca0f7b4c2a34c75db209b3f65c4",
+  "source_score": 147559385708272060997712762603490723203314870952896192406809316607350431551
+}

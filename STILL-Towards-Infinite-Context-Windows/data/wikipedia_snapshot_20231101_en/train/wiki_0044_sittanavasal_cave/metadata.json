@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0044_sittanavasal_cave",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4410385",
+  "title": "Sittanavasal Cave",
+  "url": "https://en.wikipedia.org/wiki/Sittanavasal%20Cave",
+  "text_chars": 12027,
+  "exact_hash": "2125b2cca9e350925315583069f132f08c3565802326a616c0eddcb290928533",
+  "source_score": 230606370831161085687934972930600800158492818231138123061239704898548554319
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0388_70th_infantry_division_united_kingdom",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4468060",
+  "title": "70th Infantry Division (United Kingdom)",
+  "url": "https://en.wikipedia.org/wiki/70th%20Infantry%20Division%20%28United%20Kingdom%29",
+  "text_chars": 31557,
+  "exact_hash": "3ef2ede0d28da1a4188aef51656b13b282c8e2163e8e63da5ea7da3623ab8122",
+  "source_score": 1623842585152171702849607760276935039772305385548201273242677187157468594151
+}

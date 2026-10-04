@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0329_strathfoyle",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4049569",
+  "title": "Strathfoyle",
+  "url": "https://en.wikipedia.org/wiki/Strathfoyle",
+  "text_chars": 6511,
+  "exact_hash": "8080f500c4d580dfe33851485c67a297a347a652ccfdd780bc49ccec639254dd",
+  "source_score": 1385132264511640771720798251158818372216221490769916032338582893325504317643
+}

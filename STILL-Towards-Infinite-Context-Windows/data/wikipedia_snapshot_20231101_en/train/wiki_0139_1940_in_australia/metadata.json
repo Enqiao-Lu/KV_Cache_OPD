@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0139_1940_in_australia",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4547415",
+  "title": "1940 in Australia",
+  "url": "https://en.wikipedia.org/wiki/1940%20in%20Australia",
+  "text_chars": 6185,
+  "exact_hash": "10b3c72c47b73788139287a86548e5d8126c9e2943e8a6422cdf3788a6f4ba8c",
+  "source_score": 610051122762807942761647836326177505221680528566939911440036827538686573927
+}

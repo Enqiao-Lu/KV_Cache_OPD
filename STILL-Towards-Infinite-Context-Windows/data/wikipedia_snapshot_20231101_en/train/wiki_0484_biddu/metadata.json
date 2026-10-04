@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0484_biddu",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4509636",
+  "title": "Biddu",
+  "url": "https://en.wikipedia.org/wiki/Biddu",
+  "text_chars": 17872,
+  "exact_hash": "c7c3f83080fcce870291c8fb20c597e61a3113eb34c511f9ab253fb1787657f6",
+  "source_score": 1958381683659766368774874546612992473304009614068822505447059523824450022506
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0454_recession_of_1958",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4623537",
+  "title": "Recession of 1958",
+  "url": "https://en.wikipedia.org/wiki/Recession%20of%201958",
+  "text_chars": 5811,
+  "exact_hash": "2805c53ea2d5b1cc67a1f4cc7fd6255a4de06753239a5efe433842c63239ce5e",
+  "source_score": 1881899253499971098583133954900549803972359901304353673716256361436519067255
+}

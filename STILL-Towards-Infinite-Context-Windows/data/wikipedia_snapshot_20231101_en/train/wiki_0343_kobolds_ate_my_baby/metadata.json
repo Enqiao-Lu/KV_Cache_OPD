@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0343_kobolds_ate_my_baby",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4469385",
+  "title": "Kobolds Ate My Baby!",
+  "url": "https://en.wikipedia.org/wiki/Kobolds%20Ate%20My%20Baby%21",
+  "text_chars": 4313,
+  "exact_hash": "31a535ac1fdc3b981d4ca089bffb5316087f15cbab284fd9008a4dd6bcda4a96",
+  "source_score": 1434720483780694492284994033702371250064776285026164507238975856722042800974
+}

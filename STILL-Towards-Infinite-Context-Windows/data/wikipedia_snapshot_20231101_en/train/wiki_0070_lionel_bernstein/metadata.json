@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0070_lionel_bernstein",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4733612",
+  "title": "Lionel Bernstein",
+  "url": "https://en.wikipedia.org/wiki/Lionel%20Bernstein",
+  "text_chars": 9537,
+  "exact_hash": "212685a7682656f632ada23a05893bf294544c77f7e1a5079f490477957b27f2",
+  "source_score": 335178743476651049729182770813042625073501054668706558586220356358468154518
+}

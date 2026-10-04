@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0133_william_s_graves",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4111911",
+  "title": "William S. Graves",
+  "url": "https://en.wikipedia.org/wiki/William%20S.%20Graves",
+  "text_chars": 5778,
+  "exact_hash": "e45cbbb0fd675ca42a99fa43e0c50c7ed28d80f0601b12a85b0fa213076055d5",
+  "source_score": 587203146625018262612007140732055960243212144731752964915982403777175611592
+}

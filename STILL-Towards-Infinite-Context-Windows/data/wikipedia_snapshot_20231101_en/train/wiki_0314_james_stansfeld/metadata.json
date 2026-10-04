@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0314_james_stansfeld",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4273287",
+  "title": "James Stansfeld",
+  "url": "https://en.wikipedia.org/wiki/James%20Stansfeld",
+  "text_chars": 5758,
+  "exact_hash": "dced3ce36059c6c58d3329b68fe547362a55ac77424f9c9655caff527ccdbfae",
+  "source_score": 1311143291909839466892334926997323906324590486111141143140170566690296471724
+}

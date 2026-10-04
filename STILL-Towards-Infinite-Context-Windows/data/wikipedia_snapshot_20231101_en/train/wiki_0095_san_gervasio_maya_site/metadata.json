@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0095_san_gervasio_maya_site",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4609589",
+  "title": "San Gervasio (Maya site)",
+  "url": "https://en.wikipedia.org/wiki/San%20Gervasio%20%28Maya%20site%29",
+  "text_chars": 8025,
+  "exact_hash": "309b06c7a8ab9c6356adb8da3d4c415a3a301d4a81b159296655b3fb07ec2a11",
+  "source_score": 445859773814215109678720586674165677907557647597129571631590297324900348393
+}

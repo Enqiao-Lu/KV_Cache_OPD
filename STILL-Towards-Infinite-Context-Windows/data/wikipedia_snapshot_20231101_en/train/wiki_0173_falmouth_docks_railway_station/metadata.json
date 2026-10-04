@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0173_falmouth_docks_railway_station",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4068970",
+  "title": "Falmouth Docks railway station",
+  "url": "https://en.wikipedia.org/wiki/Falmouth%20Docks%20railway%20station",
+  "text_chars": 4874,
+  "exact_hash": "764bca3e0a27be5b596307067452ea0663c116e264cc926f73f4aefd021b54b9",
+  "source_score": 729623705945323227876227665138327241819692005084044405965040829799436393118
+}

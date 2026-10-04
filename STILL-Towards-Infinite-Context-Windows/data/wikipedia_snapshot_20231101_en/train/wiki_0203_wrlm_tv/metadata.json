@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0203_wrlm_tv",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4452042",
+  "title": "WRLM (TV)",
+  "url": "https://en.wikipedia.org/wiki/WRLM%20%28TV%29",
+  "text_chars": 4922,
+  "exact_hash": "5f3ae27a5f5213fd38dd8474f62a6bd8b73ab0d98a5baceaad4e21bad54d46d7",
+  "source_score": 806859104047301754049132576131880955751643047772318469027465729199020037420
+}

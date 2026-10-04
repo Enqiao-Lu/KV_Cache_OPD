@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0353_jugantar",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4141818",
+  "title": "Jugantar",
+  "url": "https://en.wikipedia.org/wiki/Jugantar",
+  "text_chars": 7225,
+  "exact_hash": "09d6f60e1da2d293349277a408007d2dad9c94da90bd2bb8bd09d5cb30cf3771",
+  "source_score": 1466469547278414465452031100899941278777204789617406582930333020306958807275
+}

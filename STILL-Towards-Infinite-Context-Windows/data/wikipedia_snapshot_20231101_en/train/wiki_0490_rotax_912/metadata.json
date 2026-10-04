@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0490_rotax_912",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4627435",
+  "title": "Rotax 912",
+  "url": "https://en.wikipedia.org/wiki/Rotax%20912",
+  "text_chars": 7504,
+  "exact_hash": "da851d42d906ba065cc5d890135f95088370782a8c0554cec94b7e634f0c6c3c",
+  "source_score": 1969901672684775378825661603684459990462152378600571810561149875929249269842
+}

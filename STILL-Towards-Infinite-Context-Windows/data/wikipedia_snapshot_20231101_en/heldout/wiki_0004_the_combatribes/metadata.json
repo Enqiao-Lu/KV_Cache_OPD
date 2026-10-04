@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0004_the_combatribes",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4574350",
+  "title": "The Combatribes",
+  "url": "https://en.wikipedia.org/wiki/The%20Combatribes",
+  "text_chars": 6687,
+  "exact_hash": "78235597ef1cc653c21e9393c1c6dd3c83d7f349b4682cff2f099586c44578c1",
+  "source_score": 14625144954426298324498151179163520073738996928684227574472219144052255957
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0425_reconstruction_and_development_programme",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4635090",
+  "title": "Reconstruction and Development Programme",
+  "url": "https://en.wikipedia.org/wiki/Reconstruction%20and%20Development%20Programme",
+  "text_chars": 6940,
+  "exact_hash": "a0f13d5a82a71f9d85a1150a18f7e5ac1f09d69e6c59b8fdea037e84803d871e",
+  "source_score": 1802248373899322778469407434254448424631636639763709230490932780966510342693
+}

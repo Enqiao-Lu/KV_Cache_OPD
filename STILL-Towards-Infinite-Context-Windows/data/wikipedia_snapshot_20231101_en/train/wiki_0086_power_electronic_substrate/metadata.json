@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0086_power_electronic_substrate",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4671692",
+  "title": "Power electronic substrate",
+  "url": "https://en.wikipedia.org/wiki/Power%20electronic%20substrate",
+  "text_chars": 5117,
+  "exact_hash": "80411139a36d652fd63d2faa76649bd2f5f5764a8739acf5519cc0cb6105776f",
+  "source_score": 404390351537027724220483504378221196979258019461248287181948092772872817240
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0160_khatyn_massacre",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4415731",
+  "title": "Khatyn massacre",
+  "url": "https://en.wikipedia.org/wiki/Khatyn%20massacre",
+  "text_chars": 7675,
+  "exact_hash": "2bbb392e29b581cbdc7ceeda2ceca695e180b4a5033947650ee3784f65e40697",
+  "source_score": 691624593902896983186470987071226808921321021018339914338998603303333895375
+}

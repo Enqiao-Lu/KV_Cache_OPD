@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0065_wagg",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4419123",
+  "title": "WAGG",
+  "url": "https://en.wikipedia.org/wiki/WAGG",
+  "text_chars": 5259,
+  "exact_hash": "873442ff0cf605e39ed3bd292d37c7132f1fa97e68ae385c882d913eb2c33f1d",
+  "source_score": 318500519538036894264985076695710130013100116801909027606282551101176732412
+}

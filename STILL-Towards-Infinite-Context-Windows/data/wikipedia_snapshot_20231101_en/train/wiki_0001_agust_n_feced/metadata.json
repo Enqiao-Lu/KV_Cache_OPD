@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0001_agust_n_feced",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4487915",
+  "title": "Agust\u00edn Feced",
+  "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn%20Feced",
+  "text_chars": 6489,
+  "exact_hash": "827bfc5e1c0d50bd4237150b53284b626a8fcecdd0f4ceb05d8dddebaf3feccc",
+  "source_score": 64482140392542921397913272946985018489168679943956550217070780651772545812
+}

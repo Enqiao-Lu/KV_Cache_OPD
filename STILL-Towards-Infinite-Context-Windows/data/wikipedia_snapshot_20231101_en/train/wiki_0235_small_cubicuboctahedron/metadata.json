@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0235_small_cubicuboctahedron",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4157031",
+  "title": "Small cubicuboctahedron",
+  "url": "https://en.wikipedia.org/wiki/Small%20cubicuboctahedron",
+  "text_chars": 4052,
+  "exact_hash": "a9f504ad4bd90d130875c17b760a759c1290e2732eca5215fde2a383ff9e4c07",
+  "source_score": 915301015098756107478822450973721523606280995677695403623397220939021820605
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0408_samuel_m_ralston",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4300935",
+  "title": "Samuel M. Ralston",
+  "url": "https://en.wikipedia.org/wiki/Samuel%20M.%20Ralston",
+  "text_chars": 14355,
+  "exact_hash": "b60ca0739f38f7a91854eb0ee4f1695e253aa885be8a1240bf36ced78d0d4513",
+  "source_score": 1731057002300044851533329747251675723146966154207151465073474070861723177354
+}

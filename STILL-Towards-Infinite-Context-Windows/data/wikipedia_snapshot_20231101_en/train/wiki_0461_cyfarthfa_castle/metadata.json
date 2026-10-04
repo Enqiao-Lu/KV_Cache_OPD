@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0461_cyfarthfa_castle",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4744849",
+  "title": "Cyfarthfa Castle",
+  "url": "https://en.wikipedia.org/wiki/Cyfarthfa%20Castle",
+  "text_chars": 5482,
+  "exact_hash": "d37e989e11eb03f5a5e263175c40365593c2212995348ae888f95639074b9927",
+  "source_score": 1891396134306666012124894723530739408006013523385540735046334669484184125085
+}

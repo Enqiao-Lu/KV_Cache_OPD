@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0132_bulgarian_state_railways",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4150591",
+  "title": "Bulgarian State Railways",
+  "url": "https://en.wikipedia.org/wiki/Bulgarian%20State%20Railways",
+  "text_chars": 4649,
+  "exact_hash": "c4135f79bd2dd3e86c9e3bbe9cf1fd235b4f68e6ddf85850cd512251442324bf",
+  "source_score": 586327416167716082594610523762277622124145191650350538404490799800789142608
+}

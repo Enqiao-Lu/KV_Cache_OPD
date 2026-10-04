@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0469_frances_farmer_will_have_her_revenge_on_seattle",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4646664",
+  "title": "Frances Farmer Will Have Her Revenge on Seattle",
+  "url": "https://en.wikipedia.org/wiki/Frances%20Farmer%20Will%20Have%20Her%20Revenge%20on%20Seattle",
+  "text_chars": 9179,
+  "exact_hash": "fe91c439b7ad27ecc32267c8b9c7e5d9635516646587c09255a438cea592db37",
+  "source_score": 1904668963636625239259847183898800664904944615603689201790013692569357533313
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0299_empire_state_express",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4305886",
+  "title": "Empire State Express",
+  "url": "https://en.wikipedia.org/wiki/Empire%20State%20Express",
+  "text_chars": 9096,
+  "exact_hash": "18f39f6b07bdc52d2e9e0d977d0d4c0281487f142cb507613235c404b0387255",
+  "source_score": 1262766452073157709374251662635033046050769897245005521688922146905133242398
+}

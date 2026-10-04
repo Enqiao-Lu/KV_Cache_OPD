@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0169_taylor_jacobs",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4558413",
+  "title": "Taylor Jacobs",
+  "url": "https://en.wikipedia.org/wiki/Taylor%20Jacobs",
+  "text_chars": 4113,
+  "exact_hash": "c8ced18898d8fdfad334757f3f1f7ef1c5cfc3fbec28b0238f565412492a708a",
+  "source_score": 714853377496267690807607855550754810255288582598382795154060109623669708189
+}

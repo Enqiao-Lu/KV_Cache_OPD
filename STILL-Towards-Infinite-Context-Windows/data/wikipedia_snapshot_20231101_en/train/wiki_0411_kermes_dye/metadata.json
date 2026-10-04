@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0411_kermes_dye",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4439836",
+  "title": "Kermes (dye)",
+  "url": "https://en.wikipedia.org/wiki/Kermes%20%28dye%29",
+  "text_chars": 8159,
+  "exact_hash": "af3bde308cc1e94e6be2458a0467fa979d4dad23893ba8cd0eefca4d82b78372",
+  "source_score": 1739676380592166024749084863852485945599599749810805058565541445203115660442
+}

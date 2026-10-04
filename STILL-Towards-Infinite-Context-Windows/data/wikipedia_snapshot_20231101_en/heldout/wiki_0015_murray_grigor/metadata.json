@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0015_murray_grigor",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4780080",
+  "title": "Murray Grigor",
+  "url": "https://en.wikipedia.org/wiki/Murray%20Grigor",
+  "text_chars": 5428,
+  "exact_hash": "1520d3c8ebd25265093a1b0229491e2cf65667682a4597ba32964270f80f641f",
+  "source_score": 49724416545855857293501249814327977678741161062501618046932021403195767817
+}

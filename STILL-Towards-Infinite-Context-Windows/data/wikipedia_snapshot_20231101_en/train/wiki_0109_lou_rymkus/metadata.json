@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0109_lou_rymkus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4593249",
+  "title": "Lou Rymkus",
+  "url": "https://en.wikipedia.org/wiki/Lou%20Rymkus",
+  "text_chars": 14380,
+  "exact_hash": "149e9a7cd4dec8cb3b4ef74c9cf59b1feb07328e8522554e5ed913ab247fb930",
+  "source_score": 518514951749721842145911018062650342191329355451148907589974303424287505925
+}

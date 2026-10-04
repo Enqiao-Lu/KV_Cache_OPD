@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0006_northland_center",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4581495",
+  "title": "Northland Center",
+  "url": "https://en.wikipedia.org/wiki/Northland%20Center",
+  "text_chars": 9195,
+  "exact_hash": "59c4f30afc006729131f753f2b3b1b5a167cc177710a8ba5a6233b98a522233e",
+  "source_score": 89767831220139197009390618085997575430396401662146843336027740231327708690
+}

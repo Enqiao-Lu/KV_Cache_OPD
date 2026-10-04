@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0116_no_2_road_bridge",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4539122",
+  "title": "No. 2 Road Bridge",
+  "url": "https://en.wikipedia.org/wiki/No.%202%20Road%20Bridge",
+  "text_chars": 4881,
+  "exact_hash": "a5ebe6663f0b00eafacb5844abd2dcf953ae19d4d2fdd1ee9069cd56f9fd1a02",
+  "source_score": 541355549994616786488044683908710894269971633501903729495168386980669527744
+}

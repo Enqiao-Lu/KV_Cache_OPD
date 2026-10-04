@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0045_1957_in_new_zealand",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4236728",
+  "title": "1957 in New Zealand",
+  "url": "https://en.wikipedia.org/wiki/1957%20in%20New%20Zealand",
+  "text_chars": 5611,
+  "exact_hash": "8fc03b08ea3d9635823f4e7f78cc9c0a30754b927f16dfa973b9b3d19e2e8333",
+  "source_score": 234789320603251402382210049575749696663795827538265112364700224079293682425
+}

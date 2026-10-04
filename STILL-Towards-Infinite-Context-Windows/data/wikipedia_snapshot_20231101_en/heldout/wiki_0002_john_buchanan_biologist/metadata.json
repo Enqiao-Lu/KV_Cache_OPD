@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0002_john_buchanan_biologist",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4508082",
+  "title": "John Buchanan (biologist)",
+  "url": "https://en.wikipedia.org/wiki/John%20Buchanan%20%28biologist%29",
+  "text_chars": 4017,
+  "exact_hash": "8a540179aa28999cb7dfba68e91e1799da4d93ca709036d34bb9fa62598f9841",
+  "source_score": 10143851959503039935365055831271385813121710465061634078057852343562754207
+}

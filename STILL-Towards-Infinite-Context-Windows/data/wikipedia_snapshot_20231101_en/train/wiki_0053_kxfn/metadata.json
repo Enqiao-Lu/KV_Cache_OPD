@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0053_kxfn",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4339850",
+  "title": "KXFN",
+  "url": "https://en.wikipedia.org/wiki/KXFN",
+  "text_chars": 6174,
+  "exact_hash": "1475e9ebaa27c1d298d6a22384338da76d998653578d83189cf9ba8ecda47081",
+  "source_score": 261832197876707790276107853920039018763112900036559864111705337241803611679
+}

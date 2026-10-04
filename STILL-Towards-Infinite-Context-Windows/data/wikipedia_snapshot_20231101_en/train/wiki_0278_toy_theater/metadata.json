@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0278_toy_theater",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4468597",
+  "title": "Toy theater",
+  "url": "https://en.wikipedia.org/wiki/Toy%20theater",
+  "text_chars": 9180,
+  "exact_hash": "423b2418d3467bbb47d2050d4a1eb454ef73561dbac27dedf876252cd1ec1757",
+  "source_score": 1166757552125029569234537766129190350334190180965427665318696373932019745923
+}

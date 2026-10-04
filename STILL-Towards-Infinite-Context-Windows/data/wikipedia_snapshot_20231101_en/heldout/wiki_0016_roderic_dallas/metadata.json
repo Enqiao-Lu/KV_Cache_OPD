@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0016_roderic_dallas",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4459575",
+  "title": "Roderic Dallas",
+  "url": "https://en.wikipedia.org/wiki/Roderic%20Dallas",
+  "text_chars": 18285,
+  "exact_hash": "6efe28780343404a21be546e92fc33960da88fc7990a5cb55ec0e97de70e5f13",
+  "source_score": 51146472188111225709058264956682414683435793835130750639546813921781387686
+}

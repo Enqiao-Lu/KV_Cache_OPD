@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0250_albert_duke_of_prussia",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "1514",
+  "title": "Albert, Duke of Prussia",
+  "url": "https://en.wikipedia.org/wiki/Albert%2C%20Duke%20of%20Prussia",
+  "text_chars": 12796,
+  "exact_hash": "54ac57eee52245eaabb375d14e6cf2910bf10e6fa56c0b326ca6eb4ed057ef4a",
+  "source_score": 999036585887423743484912898814207501767419601389885460555062369690079122241
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0245_titicaca_grebe",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4204269",
+  "title": "Titicaca grebe",
+  "url": "https://en.wikipedia.org/wiki/Titicaca%20grebe",
+  "text_chars": 8001,
+  "exact_hash": "aace695021a321701ff8c534cb1ebdf6fda9995d435684513e1621248e371eb3",
+  "source_score": 978526425590863349414979945125471323408143905126122278655469941531324895321
+}

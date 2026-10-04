@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0316_lucy_wangui_kabuu",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4477602",
+  "title": "Lucy Wangui Kabuu",
+  "url": "https://en.wikipedia.org/wiki/Lucy%20Wangui%20Kabuu",
+  "text_chars": 5913,
+  "exact_hash": "4121d30df08847b109fe041e6d85eb80067d0376706e19e06ae04b616b98b5d6",
+  "source_score": 1330894204880774144479604808237798485071853880033284328762156791309015569534
+}

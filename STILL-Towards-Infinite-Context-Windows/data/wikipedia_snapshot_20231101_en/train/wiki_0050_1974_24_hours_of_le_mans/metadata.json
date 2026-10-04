@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0050_1974_24_hours_of_le_mans",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4711120",
+  "title": "1974 24 Hours of Le Mans",
+  "url": "https://en.wikipedia.org/wiki/1974%2024%20Hours%20of%20Le%20Mans",
+  "text_chars": 20197,
+  "exact_hash": "b62da1c67e187f59dafbebc900d83ef9148e8531b5ac5d45116913db61068c59",
+  "source_score": 248942952792122971625931699595621596621095852075209200174871877899972701925
+}

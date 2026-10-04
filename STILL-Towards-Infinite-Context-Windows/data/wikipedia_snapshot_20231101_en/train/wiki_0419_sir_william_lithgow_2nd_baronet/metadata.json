@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0419_sir_william_lithgow_2nd_baronet",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4459679",
+  "title": "Sir William Lithgow, 2nd Baronet",
+  "url": "https://en.wikipedia.org/wiki/Sir%20William%20Lithgow%2C%202nd%20Baronet",
+  "text_chars": 4269,
+  "exact_hash": "0f04657d239940423881d4e2d1ab222ccac7aff96d4367a783f67332a65d06d4",
+  "source_score": 1774403888969748956270967825076911103532748739111414939925343199778744454634
+}

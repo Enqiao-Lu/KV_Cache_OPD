@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0414_time_independent_escape_sequence",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4674501",
+  "title": "Time Independent Escape Sequence",
+  "url": "https://en.wikipedia.org/wiki/Time%20Independent%20Escape%20Sequence",
+  "text_chars": 8170,
+  "exact_hash": "452195fe5ddb528f8e9a936326353894b52d2eb1e369fc06633de39d14884727",
+  "source_score": 1745466815831016862435081235661246094768561360075497171949965954185985181390
+}

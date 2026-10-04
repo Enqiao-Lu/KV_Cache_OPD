@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0099_2006_british_academy_television_awards",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4512120",
+  "title": "2006 British Academy Television Awards",
+  "url": "https://en.wikipedia.org/wiki/2006%20British%20Academy%20Television%20Awards",
+  "text_chars": 5969,
+  "exact_hash": "82e4b6393dcaa2b2125b7e019f4e79ef95ae176bfd50ff4e1feb8556220f98ec",
+  "source_score": 472172887815045699153753067550980851355097062217683945560277171728904273286
+}

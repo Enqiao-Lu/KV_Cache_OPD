@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0398_weber_cup",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4482181",
+  "title": "Weber Cup",
+  "url": "https://en.wikipedia.org/wiki/Weber%20Cup",
+  "text_chars": 8574,
+  "exact_hash": "e6e331e413672a1044077ef1e4a82a00500ffedd38ff6693fa6253174db8cd36",
+  "source_score": 1683323746264210677345936084623632420323974848474407239356354964081322090687
+}

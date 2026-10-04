@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0491_charles_hill_diplomat",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4231820",
+  "title": "Charles Hill (diplomat)",
+  "url": "https://en.wikipedia.org/wiki/Charles%20Hill%20%28diplomat%29",
+  "text_chars": 5433,
+  "exact_hash": "a4364969bcb507efa98f416d12aa2bccaed4a7b1eacafa1dd5d849874fb00510",
+  "source_score": 1972454801432295857577943407185416476364209767918510267565144527606684023045
+}

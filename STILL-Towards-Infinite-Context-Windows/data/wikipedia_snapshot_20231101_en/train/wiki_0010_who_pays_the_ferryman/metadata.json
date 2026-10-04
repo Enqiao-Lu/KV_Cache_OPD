@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0010_who_pays_the_ferryman",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4298474",
+  "title": "Who Pays the Ferryman?",
+  "url": "https://en.wikipedia.org/wiki/Who%20Pays%20the%20Ferryman%3F",
+  "text_chars": 4812,
+  "exact_hash": "0567c5e8fcbb366513b5db694ad89591cd6e95ac8b300f30b9be6b6375d9abd8",
+  "source_score": 110359891555518816840753870263602918475015911720477820285716763277670141875
+}

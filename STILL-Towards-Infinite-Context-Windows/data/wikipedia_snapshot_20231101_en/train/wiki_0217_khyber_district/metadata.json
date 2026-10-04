@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0217_khyber_district",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4196471",
+  "title": "Khyber District",
+  "url": "https://en.wikipedia.org/wiki/Khyber%20District",
+  "text_chars": 4809,
+  "exact_hash": "7aef4c9876038d1a3b76bbd38c540ee94b36a41ac4a900213297c2eba02389e9",
+  "source_score": 857205196634629159818489426116061969676939159122137696988245925129420291393
+}

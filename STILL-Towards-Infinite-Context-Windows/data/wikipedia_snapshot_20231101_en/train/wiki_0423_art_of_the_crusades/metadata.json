@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0423_art_of_the_crusades",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4658853",
+  "title": "Art of the Crusades",
+  "url": "https://en.wikipedia.org/wiki/Art%20of%20the%20Crusades",
+  "text_chars": 10913,
+  "exact_hash": "feb39df2dccadae1a4f805d7d202cf420a462ae0872d6d6607cd69649bdacdd1",
+  "source_score": 1796061434171128291911521302418621264599670283834417440623385914495297751815
+}

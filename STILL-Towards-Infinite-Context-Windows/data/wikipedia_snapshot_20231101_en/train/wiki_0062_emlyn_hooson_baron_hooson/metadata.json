@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0062_emlyn_hooson_baron_hooson",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4261560",
+  "title": "Emlyn Hooson, Baron Hooson",
+  "url": "https://en.wikipedia.org/wiki/Emlyn%20Hooson%2C%20Baron%20Hooson",
+  "text_chars": 6115,
+  "exact_hash": "64313881db79691a06975120123881b8e89669b217adff732ef2f621b905564d",
+  "source_score": 306159574509705283092274326494443800250931346434600107159638921323155778156
+}

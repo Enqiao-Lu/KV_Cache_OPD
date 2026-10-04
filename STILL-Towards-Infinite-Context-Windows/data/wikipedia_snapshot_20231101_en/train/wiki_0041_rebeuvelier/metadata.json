@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0041_rebeuvelier",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4464240",
+  "title": "Rebeuvelier",
+  "url": "https://en.wikipedia.org/wiki/Rebeuvelier",
+  "text_chars": 6570,
+  "exact_hash": "9abdb3df175f53bdce690fd8f4e67a7f7786266e68739be9db5656317c24c683",
+  "source_score": 219349394996292665053817865135687257500611185569692359340993401161342368198
+}

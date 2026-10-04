@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0067_pig_hoo_o_o_o_ey",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4477282",
+  "title": "Pig-hoo-o-o-o-ey",
+  "url": "https://en.wikipedia.org/wiki/Pig-hoo-o-o-o-ey",
+  "text_chars": 4665,
+  "exact_hash": "0524dcaf3b5b98d5a8745dc8cfd6b99c426194b67e42958ea5fa101bab3f75c0",
+  "source_score": 327097310321788481327324318465567647227856258956925508754613115414035299254
+}

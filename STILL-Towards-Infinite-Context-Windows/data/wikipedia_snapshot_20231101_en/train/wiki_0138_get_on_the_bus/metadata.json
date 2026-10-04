@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0138_get_on_the_bus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4770345",
+  "title": "Get on the Bus",
+  "url": "https://en.wikipedia.org/wiki/Get%20on%20the%20Bus",
+  "text_chars": 7842,
+  "exact_hash": "57b4bebe717a39bc79556df7327d6b9620729eec313838f4d97dc363b0c4fd52",
+  "source_score": 606008668288570890075294911884367749516243440240564396527044820585412515242
+}

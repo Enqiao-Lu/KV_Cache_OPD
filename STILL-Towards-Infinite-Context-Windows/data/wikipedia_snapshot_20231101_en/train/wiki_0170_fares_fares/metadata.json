@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0170_fares_fares",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4706913",
+  "title": "Fares Fares",
+  "url": "https://en.wikipedia.org/wiki/Fares%20Fares",
+  "text_chars": 4522,
+  "exact_hash": "01c243d0413db5832b92513a4cdd0941e372b500f71408c6fd2d60dff30f46af",
+  "source_score": 716423172376537969611146328568105322806786257493854146320332859850292632980
+}

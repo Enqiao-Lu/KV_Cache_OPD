@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0386_albemarle_bertie_9th_earl_of_lindsey",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4626878",
+  "title": "Albemarle Bertie, 9th Earl of Lindsey",
+  "url": "https://en.wikipedia.org/wiki/Albemarle%20Bertie%2C%209th%20Earl%20of%20Lindsey",
+  "text_chars": 5796,
+  "exact_hash": "84955fb3289f1c744960d07cd7b1ea42547935a1351adf8d3aefc3e7df584300",
+  "source_score": 1613249897430268524648045909350427384571722732195789563108710822808946885722
+}

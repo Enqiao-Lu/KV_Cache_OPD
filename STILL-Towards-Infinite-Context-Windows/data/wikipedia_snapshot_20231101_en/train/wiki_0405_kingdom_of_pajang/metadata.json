@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0405_kingdom_of_pajang",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4236689",
+  "title": "Kingdom of Pajang",
+  "url": "https://en.wikipedia.org/wiki/Kingdom%20of%20Pajang",
+  "text_chars": 4793,
+  "exact_hash": "6a1e9d49d0d148b39f5a2319c3c50b753af3431c59f245d0e25fc3c008d5c82c",
+  "source_score": 1712643615904053138265638150139231919910822882959691775777383156127300050215
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0331_portugal_at_the_1952_summer_olympics",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4423505",
+  "title": "Portugal at the 1952 Summer Olympics",
+  "url": "https://en.wikipedia.org/wiki/Portugal%20at%20the%201952%20Summer%20Olympics",
+  "text_chars": 6840,
+  "exact_hash": "1ee56abdd841bf4b108ce842855618b4114b38b66f8e25a4197c2c9f39f1e0bf",
+  "source_score": 1387748003035629194956330064583442896944388710281090850114658225584615315845
+}

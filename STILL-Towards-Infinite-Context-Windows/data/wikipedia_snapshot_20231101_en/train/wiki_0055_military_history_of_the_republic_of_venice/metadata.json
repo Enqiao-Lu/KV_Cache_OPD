@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0055_military_history_of_the_republic_of_venice",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4356125",
+  "title": "Military history of the Republic of Venice",
+  "url": "https://en.wikipedia.org/wiki/Military%20history%20of%20the%20Republic%20of%20Venice",
+  "text_chars": 20440,
+  "exact_hash": "9f3c7bb26a59c96f055c57797b4a147698678f7cb973a7a96448966e2207b4f3",
+  "source_score": 266802316699770642416528041685833693052535513473871487547253746477807994762
+}

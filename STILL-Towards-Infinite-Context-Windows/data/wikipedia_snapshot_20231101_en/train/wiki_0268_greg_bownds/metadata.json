@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0268_greg_bownds",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4659985",
+  "title": "Greg Bownds",
+  "url": "https://en.wikipedia.org/wiki/Greg%20Bownds",
+  "text_chars": 7850,
+  "exact_hash": "bd01a15ad567d2db96b2ef0a9c2ce0bb10afd7aa04da8662b7f72f02570b675f",
+  "source_score": 1085102419309781975490872167913444094858672329642369795383587817804421426076
+}

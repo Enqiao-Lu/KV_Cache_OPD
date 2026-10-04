@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0285_foothill_boulevard_southern_california",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4186119",
+  "title": "Foothill Boulevard (Southern California)",
+  "url": "https://en.wikipedia.org/wiki/Foothill%20Boulevard%20%28Southern%20California%29",
+  "text_chars": 8082,
+  "exact_hash": "e202384e739234aa7c139d1be1299c75cd68b31405ce16423f7b9c95af41108a",
+  "source_score": 1202869593364910280886006916236432446263226179562751769728365093957066347874
+}

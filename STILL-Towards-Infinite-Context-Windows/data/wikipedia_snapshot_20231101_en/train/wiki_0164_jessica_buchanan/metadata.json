@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0164_jessica_buchanan",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4479651",
+  "title": "Jessica Buchanan",
+  "url": "https://en.wikipedia.org/wiki/Jessica%20Buchanan",
+  "text_chars": 34067,
+  "exact_hash": "6baa1c5f868f77b5c779955eb17988969bc738a2e5cee18fd30d25afa29b88cf",
+  "source_score": 704714116329217063586296668295915643649551449170781574448221348165798798483
+}

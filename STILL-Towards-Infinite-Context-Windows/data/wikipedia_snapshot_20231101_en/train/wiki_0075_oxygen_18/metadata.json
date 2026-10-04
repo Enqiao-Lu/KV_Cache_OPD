@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0075_oxygen_18",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4128748",
+  "title": "Oxygen-18",
+  "url": "https://en.wikipedia.org/wiki/Oxygen-18",
+  "text_chars": 4364,
+  "exact_hash": "c5952d31decde1ac5de9ae4f0d0bcfbfb62bbaf7291c86c6f3db16907e03388b",
+  "source_score": 345993263914893827722175210952669840219833834258527058637445796873875157156
+}

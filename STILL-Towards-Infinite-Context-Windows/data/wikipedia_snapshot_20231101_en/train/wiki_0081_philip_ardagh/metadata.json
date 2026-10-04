@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0081_philip_ardagh",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4697512",
+  "title": "Philip Ardagh",
+  "url": "https://en.wikipedia.org/wiki/Philip%20Ardagh",
+  "text_chars": 4181,
+  "exact_hash": "97012d17af2710e94f0529f5fa5182770979cf2b00548d900af6e3e07874760f",
+  "source_score": 367034533458827668500564489255312149901944558437896693519031637229453082133
+}

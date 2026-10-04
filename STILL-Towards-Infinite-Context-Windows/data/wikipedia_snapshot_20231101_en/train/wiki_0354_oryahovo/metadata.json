@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0354_oryahovo",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4431280",
+  "title": "Oryahovo",
+  "url": "https://en.wikipedia.org/wiki/Oryahovo",
+  "text_chars": 6714,
+  "exact_hash": "e1ef05bc1ac3455cce7405dadeec4b5d74b7200838c0525e95959e260037ba40",
+  "source_score": 1474343820242898217447212845719770523401766274177639858254138195585626728165
+}

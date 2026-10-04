@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0087_pelsall_villa_f_c",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4059507",
+  "title": "Pelsall Villa F.C.",
+  "url": "https://en.wikipedia.org/wiki/Pelsall%20Villa%20F.C.",
+  "text_chars": 6181,
+  "exact_hash": "64ad28c2c5b9aad2818aaefd762024a5b18ba14c08a5bc7b025838ad35bfbaf6",
+  "source_score": 405580450520101364797913912215576185608666319016057917000227883613104898583
+}

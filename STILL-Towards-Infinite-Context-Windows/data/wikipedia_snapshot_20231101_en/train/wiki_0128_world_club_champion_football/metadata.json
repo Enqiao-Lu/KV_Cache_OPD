@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0128_world_club_champion_football",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4367323",
+  "title": "World Club Champion Football",
+  "url": "https://en.wikipedia.org/wiki/World%20Club%20Champion%20Football",
+  "text_chars": 9978,
+  "exact_hash": "6fefbaeccc630ad7421c20326fbeaf5b619571881e88e7c3bc98193b101a0465",
+  "source_score": 573868989016526207568791990679863718425947287884407667203018888210401155374
+}

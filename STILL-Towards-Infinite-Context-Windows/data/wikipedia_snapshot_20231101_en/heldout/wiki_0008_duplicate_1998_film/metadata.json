@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0008_duplicate_1998_film",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4311750",
+  "title": "Duplicate (1998 film)",
+  "url": "https://en.wikipedia.org/wiki/Duplicate%20%281998%20film%29",
+  "text_chars": 6444,
+  "exact_hash": "fc88aebd5d155afc218c55991bdef30894e76b8d1e31cff4aa02bbd948b79e6d",
+  "source_score": 28208736047996249817719997307439892528313540838831774837887415643416013455
+}

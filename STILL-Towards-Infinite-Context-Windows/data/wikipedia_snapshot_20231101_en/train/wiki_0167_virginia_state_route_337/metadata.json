@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0167_virginia_state_route_337",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4587545",
+  "title": "Virginia State Route 337",
+  "url": "https://en.wikipedia.org/wiki/Virginia%20State%20Route%20337",
+  "text_chars": 10054,
+  "exact_hash": "3dfb11a839c99925db391c2a39948d59a77e0f2bac454ae4b2ab7743dfd1c36c",
+  "source_score": 709109448500830817212812671752047554201620133247046588569498821341779368449
+}

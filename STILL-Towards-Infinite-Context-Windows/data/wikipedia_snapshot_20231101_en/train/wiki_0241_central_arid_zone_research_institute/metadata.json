@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0241_central_arid_zone_research_institute",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4680003",
+  "title": "Central Arid Zone Research Institute",
+  "url": "https://en.wikipedia.org/wiki/Central%20Arid%20Zone%20Research%20Institute",
+  "text_chars": 6353,
+  "exact_hash": "d3a8084cf44dc63374480ff559c7a9101ff4ad3abab984c374cc38269963ebdb",
+  "source_score": 954029685710951127266959840262263821336458134080030724860114085666201215859
+}

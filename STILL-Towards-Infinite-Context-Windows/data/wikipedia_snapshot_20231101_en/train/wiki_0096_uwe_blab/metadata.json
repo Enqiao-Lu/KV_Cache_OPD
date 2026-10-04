@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0096_uwe_blab",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4246607",
+  "title": "Uwe Blab",
+  "url": "https://en.wikipedia.org/wiki/Uwe%20Blab",
+  "text_chars": 4516,
+  "exact_hash": "d2b46a933dc84133afc194e10e06852ea5998809448e547fc3dc41d9ba5102a3",
+  "source_score": 446232746121388113383730254481854298763816071377528820404703021970279291882
+}

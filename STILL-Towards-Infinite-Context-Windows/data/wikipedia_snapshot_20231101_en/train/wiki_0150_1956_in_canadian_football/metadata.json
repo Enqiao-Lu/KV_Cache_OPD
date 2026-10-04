@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0150_1956_in_canadian_football",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4485932",
+  "title": "1956 in Canadian football",
+  "url": "https://en.wikipedia.org/wiki/1956%20in%20Canadian%20football",
+  "text_chars": 5119,
+  "exact_hash": "258d15ca14bbe7488fa4be7af79b5cae6d67f1b1a03d63a64e948f2ec49a7835",
+  "source_score": 643979580739005846608536731265586342984973318892422472842408969626344205712
+}

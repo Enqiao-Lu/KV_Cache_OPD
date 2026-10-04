@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0334_pazhayangadi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4709431",
+  "title": "Pazhayangadi",
+  "url": "https://en.wikipedia.org/wiki/Pazhayangadi",
+  "text_chars": 5698,
+  "exact_hash": "5cbba4650cd46db7d7aee7895cdb649804d1e4e85ebf8a1048233570fb78969d",
+  "source_score": 1395375434614815920207821706333624575773465900686742053456641002020267002448
+}

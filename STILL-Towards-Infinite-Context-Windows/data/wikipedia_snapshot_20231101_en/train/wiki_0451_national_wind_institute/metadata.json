@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0451_national_wind_institute",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4600283",
+  "title": "National Wind Institute",
+  "url": "https://en.wikipedia.org/wiki/National%20Wind%20Institute",
+  "text_chars": 5088,
+  "exact_hash": "a77565b9a484ec53a8620bdb0fddd79b8d337c66ecc6daa3c26430afb542fb96",
+  "source_score": 1876003434125735946210155925720804521562925531923800653738412596339756321469
+}

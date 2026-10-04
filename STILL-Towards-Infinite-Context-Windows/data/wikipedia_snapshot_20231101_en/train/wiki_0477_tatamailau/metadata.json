@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0477_tatamailau",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4767860",
+  "title": "Tatamailau",
+  "url": "https://en.wikipedia.org/wiki/Tatamailau",
+  "text_chars": 4506,
+  "exact_hash": "e1855f280feab99f89522490f36d14c19187cf72c2393ce880b9cbd7a80d9a1e",
+  "source_score": 1932061282709304430477922478868004448290892992681795538131058119067060994088
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0019_dorin_goian",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4083440",
+  "title": "Dorin Goian",
+  "url": "https://en.wikipedia.org/wiki/Dorin%20Goian",
+  "text_chars": 11088,
+  "exact_hash": "ae753792101ae0b6634b1e9baf8cd70daae7da5fa68491a1add08bf1dca76718",
+  "source_score": 144545621083720253078526036201027835091038180384755473913599926269189298587
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0415_judaai_1997_film",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4125457",
+  "title": "Judaai (1997 film)",
+  "url": "https://en.wikipedia.org/wiki/Judaai%20%281997%20film%29",
+  "text_chars": 7674,
+  "exact_hash": "6c48ac3b5440c645d3058b2ca8637e33e9aa65785924715b9ff57ef88b0645e5",
+  "source_score": 1753003328294042423255757893885190289759590812184767674486602573739620448955
+}

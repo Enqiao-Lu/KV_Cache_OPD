@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0495_parasite_band",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4625667",
+  "title": "Parasite (band)",
+  "url": "https://en.wikipedia.org/wiki/Parasite%20%28band%29",
+  "text_chars": 7562,
+  "exact_hash": "34c00016ec08c4663f54f3a307741eac05a8cde4d2000722f7699f0508c94090",
+  "source_score": 1980112175190013355091485822203242438568780899613237473039859261536708421487
+}

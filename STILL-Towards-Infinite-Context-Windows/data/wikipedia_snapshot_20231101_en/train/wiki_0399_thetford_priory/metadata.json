@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0399_thetford_priory",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4296832",
+  "title": "Thetford Priory",
+  "url": "https://en.wikipedia.org/wiki/Thetford%20Priory",
+  "text_chars": 5767,
+  "exact_hash": "9c2b9678fb2c1081c2f5b3c5a5a19b37142d962224f2c49aa182fb26feccfd03",
+  "source_score": 1683368285595436563292813941533317717466330355845736199003146340214392898833
+}

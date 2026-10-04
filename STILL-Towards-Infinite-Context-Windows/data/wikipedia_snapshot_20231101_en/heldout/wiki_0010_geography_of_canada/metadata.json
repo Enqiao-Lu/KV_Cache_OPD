@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0010_geography_of_canada",
+  "split": "heldout",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "5192",
+  "title": "Geography of Canada",
+  "url": "https://en.wikipedia.org/wiki/Geography%20of%20Canada",
+  "text_chars": 24752,
+  "exact_hash": "3212089366263940e2fada14567b300d8051bcb11552391ce200f5c785fd4e56",
+  "source_score": 33088101557343353273754571398244893984955757092326059510915697093812200416
+}

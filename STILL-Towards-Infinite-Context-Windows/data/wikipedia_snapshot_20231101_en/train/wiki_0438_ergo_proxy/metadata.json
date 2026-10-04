@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0438_ergo_proxy",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4339740",
+  "title": "Ergo Proxy",
+  "url": "https://en.wikipedia.org/wiki/Ergo%20Proxy",
+  "text_chars": 12463,
+  "exact_hash": "097c5cffee512a87a94cb50f6ab6cedc92ea08bdf70295d9e0b629b8030aba6d",
+  "source_score": 1840623724081659102495528071386386079919785372334348367846909480489771585846
+}

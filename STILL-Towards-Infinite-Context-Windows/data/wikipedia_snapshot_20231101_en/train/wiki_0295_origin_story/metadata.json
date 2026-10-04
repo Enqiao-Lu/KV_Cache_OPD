@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0295_origin_story",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4374325",
+  "title": "Origin story",
+  "url": "https://en.wikipedia.org/wiki/Origin%20story",
+  "text_chars": 4584,
+  "exact_hash": "799bb27fa8b6268359429e0696a2ae478c9f54f50cf7735c58146f413f5677d2",
+  "source_score": 1259287959732565317955989052332038776218968331647967051749736739595518741522
+}

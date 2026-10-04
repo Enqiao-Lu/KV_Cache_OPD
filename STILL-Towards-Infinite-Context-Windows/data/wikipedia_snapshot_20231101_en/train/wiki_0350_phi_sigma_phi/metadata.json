@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0350_phi_sigma_phi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4229058",
+  "title": "Phi Sigma Phi",
+  "url": "https://en.wikipedia.org/wiki/Phi%20Sigma%20Phi",
+  "text_chars": 7012,
+  "exact_hash": "ffd5ffa79e79294b6a8d65c551590dec3c66f427eb2f2d8bfef86166c75f8317",
+  "source_score": 1460108508555874854603433077318030456248552409860625419331037057464978722411
+}

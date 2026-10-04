@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0090_no_sweat_tv_series",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4568604",
+  "title": "No Sweat (TV series)",
+  "url": "https://en.wikipedia.org/wiki/No%20Sweat%20%28TV%20series%29",
+  "text_chars": 5338,
+  "exact_hash": "830df595f795f1baa7f69d16192d2e61287885cd3e1cbb69503ef6d4e8af11aa",
+  "source_score": 430922841759698639787112945046899417896830545631978329512959909616267845622
+}

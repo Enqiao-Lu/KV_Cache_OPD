@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0436_1989_in_association_football",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4103036",
+  "title": "1989 in association football",
+  "url": "https://en.wikipedia.org/wiki/1989%20in%20association%20football",
+  "text_chars": 5271,
+  "exact_hash": "0acfeb4acdc020774f7cac67e227bed07abddc1cfe0370833590db80129957ce",
+  "source_score": 1831805320913409587289888415088722777117275481436076827425845386983897622906
+}

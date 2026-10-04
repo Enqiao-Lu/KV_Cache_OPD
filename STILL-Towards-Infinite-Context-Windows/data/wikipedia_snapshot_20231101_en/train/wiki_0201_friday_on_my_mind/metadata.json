@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0201_friday_on_my_mind",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4173540",
+  "title": "Friday on My Mind",
+  "url": "https://en.wikipedia.org/wiki/Friday%20on%20My%20Mind",
+  "text_chars": 5852,
+  "exact_hash": "14692e0aad8ccb4d1819f17ba5cc952efd6aa0a92506b753ff7480a1e2cf4dbb",
+  "source_score": 798422971358955441160314749527728626094308532137932496328961758035155027670
+}

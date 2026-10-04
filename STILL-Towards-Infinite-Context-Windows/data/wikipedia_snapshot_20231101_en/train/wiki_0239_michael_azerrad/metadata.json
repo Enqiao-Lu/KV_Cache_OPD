@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0239_michael_azerrad",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4406113",
+  "title": "Michael Azerrad",
+  "url": "https://en.wikipedia.org/wiki/Michael%20Azerrad",
+  "text_chars": 4277,
+  "exact_hash": "0c0d948667f159fff0a41ea13f7a6080e162039c82c8eb9268e04285806f4723",
+  "source_score": 936080483188001289801922909778957615918358552345026654663978674726275058351
+}

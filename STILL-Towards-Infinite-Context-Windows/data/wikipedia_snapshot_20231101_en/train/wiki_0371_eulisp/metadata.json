@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0371_eulisp",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4158686",
+  "title": "EuLisp",
+  "url": "https://en.wikipedia.org/wiki/EuLisp",
+  "text_chars": 6616,
+  "exact_hash": "e2db5b09ab45e19287c0ea180e3ca2732987d74ccb0b49f699e7c081b1ea7cb9",
+  "source_score": 1540328123929783920596270131746404254702256676884873177883160776553646605555
+}

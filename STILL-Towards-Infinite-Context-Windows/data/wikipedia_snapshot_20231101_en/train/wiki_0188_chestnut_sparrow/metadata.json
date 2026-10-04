@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0188_chestnut_sparrow",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4314793",
+  "title": "Chestnut sparrow",
+  "url": "https://en.wikipedia.org/wiki/Chestnut%20sparrow",
+  "text_chars": 10742,
+  "exact_hash": "b46efa0ae34b0b0d6df26ebc98bfb48dd9b2a37d7a7d17ae05b59ce6387ed4c2",
+  "source_score": 761981222537394687534672812927479779510699074053336529341544601745718343499
+}

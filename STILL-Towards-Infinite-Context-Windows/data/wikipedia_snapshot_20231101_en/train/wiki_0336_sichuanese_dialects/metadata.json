@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0336_sichuanese_dialects",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4216974",
+  "title": "Sichuanese dialects",
+  "url": "https://en.wikipedia.org/wiki/Sichuanese%20dialects",
+  "text_chars": 12036,
+  "exact_hash": "d1308f526686ffe88e2d81c871fd2b36d764f619ab07804dce6455efa8d6d35e",
+  "source_score": 1400490536086398737549314942464189969303963947178072022858191126527347579230
+}

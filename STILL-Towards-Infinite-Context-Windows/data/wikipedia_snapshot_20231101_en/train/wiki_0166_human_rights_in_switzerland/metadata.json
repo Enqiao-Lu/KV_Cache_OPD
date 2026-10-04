@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0166_human_rights_in_switzerland",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4513611",
+  "title": "Human rights in Switzerland",
+  "url": "https://en.wikipedia.org/wiki/Human%20rights%20in%20Switzerland",
+  "text_chars": 13438,
+  "exact_hash": "9f66373b90ecf103b6329d158bdc0dc857d61506834cf16bf4deebb491497088",
+  "source_score": 708015625330089543107706402746288844852650137943195899403300891682510867361
+}

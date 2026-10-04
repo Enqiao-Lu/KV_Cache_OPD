@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0429_douglas_s_jackson",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4500180",
+  "title": "Douglas S. Jackson",
+  "url": "https://en.wikipedia.org/wiki/Douglas%20S.%20Jackson",
+  "text_chars": 6416,
+  "exact_hash": "ef00c48ee3b5a0cb523294d3e488b20b7948a366ae3349a4d305ce7a32075c9e",
+  "source_score": 1821126997960714566760156903035145649828318929775759876164140172394648175256
+}

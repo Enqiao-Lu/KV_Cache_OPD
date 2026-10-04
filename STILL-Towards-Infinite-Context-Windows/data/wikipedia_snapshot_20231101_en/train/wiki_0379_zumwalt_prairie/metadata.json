@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0379_zumwalt_prairie",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4642682",
+  "title": "Zumwalt Prairie",
+  "url": "https://en.wikipedia.org/wiki/Zumwalt%20Prairie",
+  "text_chars": 4858,
+  "exact_hash": "515910fed4b7162de538bc32ba750a8ce3b87e7fd174216c37e397ba411270f6",
+  "source_score": 1567419201464875133523423425405022013807172683198551378538755948867784894613
+}

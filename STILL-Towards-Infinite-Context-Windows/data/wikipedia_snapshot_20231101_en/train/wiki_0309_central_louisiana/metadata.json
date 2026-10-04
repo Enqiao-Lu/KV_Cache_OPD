@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0309_central_louisiana",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4747064",
+  "title": "Central Louisiana",
+  "url": "https://en.wikipedia.org/wiki/Central%20Louisiana",
+  "text_chars": 5423,
+  "exact_hash": "2e647839aadf9ce289c7470a4138740e7cdeb6236ba45e3711d0d0a4b83b4041",
+  "source_score": 1297014276875508866107999534767438168278899320008240695165741276908864495766
+}

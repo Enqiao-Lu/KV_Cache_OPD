@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0003_vengi",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4082326",
+  "title": "Vengi",
+  "url": "https://en.wikipedia.org/wiki/Vengi",
+  "text_chars": 4445,
+  "exact_hash": "71885286048749ab6525ecc158cd3ae3fee7b3c9613a79187bd31b18110ca944",
+  "source_score": 81858185946631876616160509077179758472754022540584406060622674410805487166
+}

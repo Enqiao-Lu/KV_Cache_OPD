@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wikipedia_india",
+  "split": "heldout",
+  "source": "local",
+  "dataset_name": "local",
+  "dataset_subset": "local",
+  "article_id": "local::wikipedia_india",
+  "title": "wikipedia_india",
+  "url": "",
+  "text_chars": 37757,
+  "exact_hash": "5f31e94f0faac0012c1bc029d219b4ce5c64497163f9890b20c6699fd1bdd98d",
+  "source_score": 17524155072231788719490824039627262945113510051991715523770284535804661412693
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0433_doyle_spotlight",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4367250",
+  "title": "Doyle: Spotlight",
+  "url": "https://en.wikipedia.org/wiki/Doyle%3A%20Spotlight",
+  "text_chars": 4470,
+  "exact_hash": "5d2d37debf4efaa6bdab976b1ba76b24d39b54ba7593ee56f9b27e0ed5d2e15c",
+  "source_score": 1826360755594610407001717429314257465992247439955199233734434086565296021802
+}

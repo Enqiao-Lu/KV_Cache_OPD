@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0479_klyy",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4756224",
+  "title": "KLYY",
+  "url": "https://en.wikipedia.org/wiki/KLYY",
+  "text_chars": 4785,
+  "exact_hash": "b6a17e762345336e5be035e5bbe2ada1874e025d41a7c47bcf67edfe52858ecc",
+  "source_score": 1932351120978217755186121367836579745614425128068397848523606100915225112846
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0017_iisco_steel_plant",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4659165",
+  "title": "IISCO Steel Plant",
+  "url": "https://en.wikipedia.org/wiki/IISCO%20Steel%20Plant",
+  "text_chars": 13627,
+  "exact_hash": "cb37f1e55db10d50e5bebb2531145eb49be9661bfb7d936f0711f7e4b1c793f1",
+  "source_score": 134325047201058925360379738369493352709945954963570533572221748238100823089
+}

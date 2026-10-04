@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0059_ray_gunter",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4595429",
+  "title": "Ray Gunter",
+  "url": "https://en.wikipedia.org/wiki/Ray%20Gunter",
+  "text_chars": 5103,
+  "exact_hash": "f774ac02fb7124e08cba121ac466f68f710990015a27360ea923c0d84f5a2cd6",
+  "source_score": 292581085451496850817319811272129593628449246732589102260210039993971880888
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0471_struthiosaurus",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4257127",
+  "title": "Struthiosaurus",
+  "url": "https://en.wikipedia.org/wiki/Struthiosaurus",
+  "text_chars": 8176,
+  "exact_hash": "401206ce97e3eb6f7ca1c777f62bef39a94eb133e648d790d4c64c87da669859",
+  "source_score": 1907470444580937482625326330076216421898922914235929466554642621786642052312
+}

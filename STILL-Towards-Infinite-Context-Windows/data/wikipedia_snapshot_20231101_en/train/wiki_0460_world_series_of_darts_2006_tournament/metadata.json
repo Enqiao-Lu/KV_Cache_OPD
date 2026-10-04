@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0460_world_series_of_darts_2006_tournament",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4049482",
+  "title": "World Series of Darts (2006 tournament)",
+  "url": "https://en.wikipedia.org/wiki/World%20Series%20of%20Darts%20%282006%20tournament%29",
+  "text_chars": 14508,
+  "exact_hash": "0cbf6bb2ab4e1ad7ce3f8e2be2b9d9f90fd05562041904d12639d1f2ceafb15c",
+  "source_score": 1890023269542289469767705418094727328534368313522632501430367909057110742657
+}

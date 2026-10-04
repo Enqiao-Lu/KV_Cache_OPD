@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0252_daffy_duck_and_the_dinosaur",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4475738",
+  "title": "Daffy Duck and the Dinosaur",
+  "url": "https://en.wikipedia.org/wiki/Daffy%20Duck%20and%20the%20Dinosaur",
+  "text_chars": 4438,
+  "exact_hash": "8b696eb7fedcd0e3b80bb76172776448e49047a036497957e20aa049b9e8898b",
+  "source_score": 999590037738406217796135709375689324591204176299719802072881099097506033113
+}

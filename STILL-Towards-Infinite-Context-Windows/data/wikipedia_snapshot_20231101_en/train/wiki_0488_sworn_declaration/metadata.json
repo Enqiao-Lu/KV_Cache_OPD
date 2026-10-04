@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0488_sworn_declaration",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4512544",
+  "title": "Sworn declaration",
+  "url": "https://en.wikipedia.org/wiki/Sworn%20declaration",
+  "text_chars": 4440,
+  "exact_hash": "fc7ecc3fbb831cbfab9c610eeb66636ee30ab349cdad0a8f93072e719bf1b493",
+  "source_score": 1964150468363360560333658499253873776472524920747471892518571684997138748066
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0324_categorical_perception",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4643899",
+  "title": "Categorical perception",
+  "url": "https://en.wikipedia.org/wiki/Categorical%20perception",
+  "text_chars": 24223,
+  "exact_hash": "99f065af7052d79655e3267844a131e80fe099c28706dee75b16c368d8694e6a",
+  "source_score": 1375085071450576514747714851581173137744038662405047740489591775286286028448
+}

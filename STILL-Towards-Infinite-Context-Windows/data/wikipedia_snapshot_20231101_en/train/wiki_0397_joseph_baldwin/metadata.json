@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0397_joseph_baldwin",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4362985",
+  "title": "Joseph Baldwin",
+  "url": "https://en.wikipedia.org/wiki/Joseph%20Baldwin",
+  "text_chars": 14176,
+  "exact_hash": "0ef6111549e3a9e9aef60081bc950fb36058608b5d8d377fd9eefc76a6d5b698",
+  "source_score": 1678370819893571955847278023992521354662888200164853873028188362117684684910
+}

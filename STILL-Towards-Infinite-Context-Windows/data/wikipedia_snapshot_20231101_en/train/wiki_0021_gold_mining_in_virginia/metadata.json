@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0021_gold_mining_in_virginia",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4753885",
+  "title": "Gold mining in Virginia",
+  "url": "https://en.wikipedia.org/wiki/Gold%20mining%20in%20Virginia",
+  "text_chars": 25528,
+  "exact_hash": "23783e864278f57f5ad8c0cbd88e2737addc9758ef30fb1f843feb80088d1e51",
+  "source_score": 147459178809431999164358754552755019589625407697441107605854821625062726705
+}

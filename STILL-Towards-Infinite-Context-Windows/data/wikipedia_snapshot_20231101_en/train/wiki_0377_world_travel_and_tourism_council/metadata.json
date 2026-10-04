@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0377_world_travel_and_tourism_council",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4282793",
+  "title": "World Travel and Tourism Council",
+  "url": "https://en.wikipedia.org/wiki/World%20Travel%20and%20Tourism%20Council",
+  "text_chars": 5590,
+  "exact_hash": "03dfb961be20c36fb4e57f34f870259d69e20a27d92da532bee8f8ea1c94400e",
+  "source_score": 1564629962444057175166692016470144826637293019132090156918194399955089108516
+}

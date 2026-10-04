@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0131_pythagoraswitch",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4753558",
+  "title": "PythagoraSwitch",
+  "url": "https://en.wikipedia.org/wiki/PythagoraSwitch",
+  "text_chars": 6435,
+  "exact_hash": "0f7369b257968d41f20526f06919ec4de7df5054227fa2699802e9d412952dcd",
+  "source_score": 578357301487832467763848683859800180282327775866448888438190971823012292972
+}

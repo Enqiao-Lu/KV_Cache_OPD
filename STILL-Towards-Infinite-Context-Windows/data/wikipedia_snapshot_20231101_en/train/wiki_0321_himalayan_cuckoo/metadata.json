@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0321_himalayan_cuckoo",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4059867",
+  "title": "Himalayan cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Himalayan%20cuckoo",
+  "text_chars": 9957,
+  "exact_hash": "c3e28781b801770096d7a13fd4ea13e57920261a0090d474e353260a3e6f0741",
+  "source_score": 1364996784597175546717618647569050910590095186830520662299352197920091422598
+}

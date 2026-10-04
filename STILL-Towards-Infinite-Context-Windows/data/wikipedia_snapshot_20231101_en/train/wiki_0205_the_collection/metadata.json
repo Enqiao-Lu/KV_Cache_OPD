@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0205_the_collection",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4440840",
+  "title": "The Collection",
+  "url": "https://en.wikipedia.org/wiki/The%20Collection",
+  "text_chars": 4050,
+  "exact_hash": "d3c0a578d706a55b45403fd94c54b27e37a2aafd5074587d745540ec5240aacf",
+  "source_score": 823394481654457682696385835654770650012961857342003643411119358275027725443
+}

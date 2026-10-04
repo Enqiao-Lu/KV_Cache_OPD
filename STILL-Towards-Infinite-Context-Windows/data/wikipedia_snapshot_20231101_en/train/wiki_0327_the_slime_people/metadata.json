@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0327_the_slime_people",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4608141",
+  "title": "The Slime People",
+  "url": "https://en.wikipedia.org/wiki/The%20Slime%20People",
+  "text_chars": 5588,
+  "exact_hash": "9bcdd38186faa33e8543a82bb4fdb54a4b58736b3cc851cf6d0508002e41223a",
+  "source_score": 1378678711813009136886550992469840043826205464114292614589400306212270897822
+}

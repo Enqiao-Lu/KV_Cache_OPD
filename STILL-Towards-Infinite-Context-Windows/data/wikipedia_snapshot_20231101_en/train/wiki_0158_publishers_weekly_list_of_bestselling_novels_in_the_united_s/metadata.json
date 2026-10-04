@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0158_publishers_weekly_list_of_bestselling_novels_in_the_united_s",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4675135",
+  "title": "Publishers Weekly list of bestselling novels in the United States in the 1930s",
+  "url": "https://en.wikipedia.org/wiki/Publishers%20Weekly%20list%20of%20bestselling%20novels%20in%20the%20United%20States%20in%20the%201930s",
+  "text_chars": 4135,
+  "exact_hash": "f1bae152f6d21da087ec1e8f3567638cdbc60e944a46611b055c7b9bf63073f0",
+  "source_score": 681465702639901999504079200461298105088483735751045015590749950997708818924
+}

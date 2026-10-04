@@ -1,0 +1,41 @@
+{
+  "still_structural": {
+    "row_count": 200,
+    "nonempty_cleaned_count": 200,
+    "nonempty_cleaned_rate": 1.0,
+    "nonempty_raw_count": 200,
+    "nonempty_raw_rate": 1.0,
+    "dominant_cleaned_prediction": "The answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer.",
+    "dominant_cleaned_prediction_share": 0.03,
+    "dominant_raw_prediction": " \n\nThe answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer. The correct answer is the correct answer.",
+    "dominant_raw_prediction_share": 0.03,
+    "mean_cleaned_token_repetition_ratio": 0.005,
+    "unexpected_cjk_prediction_rate": 0.0,
+    "summary_hash": "f043d5585bd077d7d5b518474af6f00a629d6677777f61906720f3bdf238f00d"
+  },
+  "broken_structural": {
+    "row_count": 39,
+    "nonempty_cleaned_count": 2,
+    "nonempty_cleaned_rate": 0.05128205128205128,
+    "nonempty_raw_count": 0,
+    "nonempty_raw_rate": 0.0,
+    "dominant_cleaned_prediction": "ipment",
+    "dominant_cleaned_prediction_share": 0.05128205128205128,
+    "dominant_raw_prediction": "",
+    "dominant_raw_prediction_share": 0.0,
+    "mean_cleaned_token_repetition_ratio": 0.0,
+    "unexpected_cjk_prediction_rate": 0.0,
+    "summary_hash": "48c23f7d688467ca2f27a9846a5e3624a4cb6258650387061eb303120070cb32"
+  },
+  "still_semantic_match_rate": 0.115,
+  "broken_semantic_match_rate": 0.05128205128205128,
+  "gate": {
+    "nonempty_rate_pass": true,
+    "dominant_string_pass": true,
+    "repetition_pass": true,
+    "script_pass": true,
+    "semantic_floor_pass": false,
+    "semantic_improves_over_broken": true,
+    "all_pass": false
+  }
+}

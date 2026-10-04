@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0489_texas_state_highway_34",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4700346",
+  "title": "Texas State Highway 34",
+  "url": "https://en.wikipedia.org/wiki/Texas%20State%20Highway%2034",
+  "text_chars": 4773,
+  "exact_hash": "efe67607cff939857873ee5903e05a14679b984ae34b9367192447b007a574f9",
+  "source_score": 1968391347186029903343493341137968632151193645580836409123120884958950394600
+}

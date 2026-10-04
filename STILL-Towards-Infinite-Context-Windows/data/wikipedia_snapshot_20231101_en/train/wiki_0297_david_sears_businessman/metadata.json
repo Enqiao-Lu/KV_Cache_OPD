@@ -1,0 +1,13 @@
+{
+  "experiment_name": "wiki_0297_david_sears_businessman",
+  "split": "train",
+  "source": "hf",
+  "dataset_name": "wikimedia/wikipedia",
+  "dataset_subset": "20231101.en",
+  "article_id": "4084448",
+  "title": "David Sears (businessman)",
+  "url": "https://en.wikipedia.org/wiki/David%20Sears%20%28businessman%29",
+  "text_chars": 4161,
+  "exact_hash": "3c0ef78f721d1385282bf3dc6503f8a9cdb4f8a321e196aaf2a344f01028b5c4",
+  "source_score": 1260633890942589199590765496890117593430666659274858730104078142565687281526
+}
