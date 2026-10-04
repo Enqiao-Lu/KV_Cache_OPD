@@ -1,4 +1,4 @@
-"""Matched full-context vs evidence-teacher KV OPD; default is a one-step smoke."""
+"""Matched full-KV, STILL-style KL and KV OPD comparisons; default is a smoke."""
 
 import argparse
 import hashlib
@@ -20,6 +20,7 @@ from still.train.opd import (
     compare_teachers,
     document_loss,
     evaluate,
+    generate_teacher_answers,
     gradient_stats,
 )
 from still.train.still import _build_training_schedule, _set_training_seed
@@ -49,7 +50,16 @@ def main():
     parser.add_argument("--train-data", type=Path, default=Path("outputs/opd/data/train.jsonl"))
     parser.add_argument("--eval-data", type=Path, default=Path("outputs/opd/data/dev.jsonl"))
     parser.add_argument("--output-dir", type=Path, default=Path("outputs/opd/smoke_4b"))
-    parser.add_argument("--teacher-context", choices=["full", "evidence", "both"], default="both")
+    selection = parser.add_mutually_exclusive_group()
+    selection.add_argument(
+        "--teacher-context", choices=["full", "evidence", "both"], default="both"
+    )
+    selection.add_argument(
+        "--methods",
+        nargs="+",
+        choices=["still", "full", "evidence"],
+        help="still: fixed full-teacher forward KL; full/evidence: student-on-policy JSD",
+    )
     parser.add_argument("--device", default="cuda:0")
     parser.add_argument("--attn-implementation", choices=["eager", "sdpa"], default="sdpa")
     parser.add_argument("--num-latents", type=int, default=512)
@@ -66,6 +76,11 @@ def main():
     parser.add_argument("--top-k", type=int, default=20)
     parser.add_argument("--tiny", action="store_true", help="random tiny Qwen3, real tokenizer")
     args = parser.parse_args()
+    modes = args.methods or (
+        ["full", "evidence"] if args.teacher_context == "both" else [args.teacher_context]
+    )
+    if len(modes) != len(set(modes)):
+        parser.error("methods must be unique")
     if (
         min(
             args.num_latents,
@@ -131,8 +146,17 @@ def main():
         "seed": args.seed,
         "steps": args.steps,
         "learning_rate": args.learning_rate,
+        "methods": modes,
         "sampling_and_loss_config": asdict(config),
-        "loss": "equal-weight full-vocabulary JSD; token mean then question mean",
+        "loss_by_method": {
+            mode: (
+                "full-vocabulary forward KL; fixed full-teacher answers; QASPER adaptation"
+                if mode == "still"
+                else "equal-weight full-vocabulary JSD; student-on-policy answers"
+            )
+            + "; token mean then question mean"
+            for mode in modes
+        },
         "torch": str(torch.__version__),
         "transformers": transformers.__version__,
         "attention_implementation": args.attn_implementation,
@@ -151,11 +175,58 @@ def main():
         metadata["gpu"] = torch.cuda.get_device_name(model.device)
     print(json.dumps(metadata, indent=2), flush=True)
     initial_eval = evaluate(model, tokenizer, compactor, held_out, config)
-    _set_training_seed(args.seed)
-    paired_teachers = compare_teachers(model, tokenizer, compactor, training[0], config)
-    (args.output_dir / "teacher_diagnostics.json").write_text(json.dumps(paired_teachers, indent=2))
-    modes = ["full", "evidence"] if args.teacher_context == "both" else [args.teacher_context]
-    results = {}
+    if "evidence" in modes:
+        _set_training_seed(args.seed)
+        paired_teachers = compare_teachers(model, tokenizer, compactor, training[0], config)
+        (args.output_dir / "teacher_diagnostics.json").write_text(
+            json.dumps(paired_teachers, indent=2)
+        )
+    if model.device.type == "cuda":
+        torch.cuda.reset_peak_memory_stats(model.device)
+        torch.cuda.synchronize(model.device)
+    started = time.perf_counter()
+    full_eval = evaluate(model, tokenizer, None, held_out, config)
+    if model.device.type == "cuda":
+        torch.cuda.synchronize(model.device)
+    results = {
+        "full_context": {
+            "evaluation": full_eval,
+            "train_seconds": 0,
+            "eval_seconds": time.perf_counter() - started,
+            "peak_allocated_gib": torch.cuda.max_memory_allocated(model.device) / 2**30
+            if model.device.type == "cuda"
+            else None,
+        }
+    }
+    (args.output_dir / "full_context_result.json").write_text(
+        json.dumps(results["full_context"], indent=2)
+    )
+    fixed_answers, teacher_preparation_seconds = {}, 0.0
+    if "still" in modes:
+        started = time.perf_counter()
+        fixed_answers = {
+            row["document_id"]: generate_teacher_answers(model, tokenizer, row, config)
+            for row in training
+        }
+        if model.device.type == "cuda":
+            torch.cuda.synchronize(model.device)
+        teacher_preparation_seconds = time.perf_counter() - started
+        serialized = json.dumps(fixed_answers, sort_keys=True)
+        metadata["fixed_teacher_answers_sha256"] = hashlib.sha256(serialized.encode()).hexdigest()
+        (args.output_dir / "still_teacher_trajectories.json").write_text(
+            json.dumps(
+                {
+                    "model_revision": MODEL_REVISION,
+                    "backbone_sha256": backbone_digest,
+                    "train_data_sha256": metadata["train_data_sha256"],
+                    "max_new_tokens": config.max_new_tokens,
+                    "greedy": True,
+                    "answers_sha256": metadata["fixed_teacher_answers_sha256"],
+                    "answers": fixed_answers,
+                },
+                indent=2,
+            )
+        )
     schedule = _build_training_schedule(len(training), args.steps, args.seed)
     for mode in modes:
         _set_training_seed(args.seed)
@@ -164,14 +235,22 @@ def main():
         compactor.train()
         optimizer = torch.optim.AdamW(compactor.parameters(), lr=args.learning_rate)
         logs = []
-        mode_config = replace(config, teacher_context=mode)
+        mode_config = replace(config, teacher_context="full" if mode == "still" else mode)
         if model.device.type == "cuda":
             torch.cuda.reset_peak_memory_stats(model.device)
             torch.cuda.synchronize(model.device)
         started = time.perf_counter()
         for step, index in enumerate(schedule, 1):
             optimizer.zero_grad(set_to_none=True)
-            loss, log = document_loss(model, tokenizer, compactor, training[index], mode_config)
+            row = training[index]
+            loss, log = document_loss(
+                model,
+                tokenizer,
+                compactor,
+                row,
+                mode_config,
+                teacher_answers=fixed_answers[row["document_id"]] if mode == "still" else None,
+            )
             if not torch.isfinite(loss):
                 raise RuntimeError(f"{mode}: nonfinite loss")
             loss.backward()
@@ -189,7 +268,7 @@ def main():
             print(
                 json.dumps(
                     {
-                        "teacher": mode,
+                        "method": mode,
                         "step": step,
                         "loss": log["loss"],
                         "gradient": log["gradient"],
@@ -209,7 +288,12 @@ def main():
         torch.save(
             {
                 "state_dict": {n: t.detach().cpu() for n, t in compactor.state_dict().items()},
-                "metadata": metadata | {"teacher_context": mode, "config": asdict(mode_config)},
+                "metadata": metadata
+                | {
+                    "method": mode,
+                    "teacher_context": mode_config.teacher_context,
+                    "config": asdict(mode_config),
+                },
                 "optimizer": optimizer.state_dict(),
             },
             checkpoint_path,
@@ -220,10 +304,14 @@ def main():
         del checkpoint
         after = evaluate(model, tokenizer, compactor, held_out, config)
         results[mode] = {
+            "objective": "forward_kl" if mode == "still" else "jsd",
+            "loss_definition": metadata["loss_by_method"][mode],
+            "initial_compactor_sha256": initial_digest,
             "initial_evaluation": initial_eval,
             "after_evaluation": after,
             "steps": logs,
             "train_seconds": elapsed,
+            "teacher_preparation_seconds": teacher_preparation_seconds if mode == "still" else 0,
             "peak_allocated_gib": torch.cuda.max_memory_allocated(model.device) / 2**30
             if model.device.type == "cuda"
             else None,
@@ -235,32 +323,40 @@ def main():
         }
         (args.output_dir / f"{mode}_result.json").write_text(json.dumps(results[mode], indent=2))
         del optimizer
-    if len(modes) == 2:
+    if {"full", "evidence"}.issubset(modes):
         trajectories = [
-            [q["answer_token_ids"] for q in results[m]["steps"][0]["questions"]] for m in modes
+            [q["answer_token_ids"] for q in results[m]["steps"][0]["questions"]]
+            for m in ("full", "evidence")
         ]
         assert trajectories[0] == trajectories[1], "initial trajectories must match between arms"
         metadata["first_step_trajectories_matched"] = True
     summary = {
         "metadata": metadata,
         "results": results,
-        "interpretation": "Pre-training smoke only; scores do not establish method quality.",
+        "interpretation": (
+            "Exploratory comparison; short runs do not establish method quality. "
+            "STILL is a fixed full-teacher, full-vocabulary forward-KL QASPER adaptation. "
+            "Different losses are not comparable quality scores."
+        ),
     }
     (args.output_dir / "summary.json").write_text(json.dumps(summary, indent=2))
     lines = [
-        "# KV OPD comparison smoke",
+        "# KV cache baseline comparison",
         "",
-        "One matched pipeline; teacher context is the experimental treatment. "
-        "These short runs validate integration, not research effectiveness.",
+        summary["interpretation"],
         "",
-        "| Teacher | Mean JSD | Gradient norm | Initial doc F1 | After doc F1 | Peak GiB |",
-        "| --- | ---: | ---: | ---: | ---: | ---: |",
+        "| Method | Objective | Mean train loss | Gradient norm | "
+        "Initial doc F1 | After doc F1 | Peak GiB |",
+        "| --- | --- | ---: | ---: | ---: | ---: | ---: |",
+        f"| full_context | none | — | — | — | {full_eval['document_f1']:.4f} | "
+        f"{results['full_context']['peak_allocated_gib']} |",
     ]
-    for mode, result in results.items():
+    for mode in modes:
+        result = results[mode]
         loss = sum(s["loss"] for s in result["steps"]) / len(result["steps"])
         grad = result["steps"][0]["gradient"]["norm"]
         lines.append(
-            f"| {mode} | {loss:.6f} | {grad:.6f} | "
+            f"| {mode} | {result['objective']} | {loss:.6f} | {grad:.6f} | "
             f"{initial_eval['document_f1']:.4f} | "
             f"{result['after_evaluation']['document_f1']:.4f} | "
             f"{result['peak_allocated_gib']} |"
@@ -268,13 +364,18 @@ def main():
     lines.extend(
         [
             "",
-            "Both arms: finite gradients, updated compactor, unchanged backbone, "
+            "All trained arms: finite gradients, updated compactor, unchanged backbone, "
             "checkpoint round-trip checked. Gold answers are only read for evaluation.",
-            "",
-            "See `teacher_diagnostics.json` for full/evidence teacher answers, F1, "
-            "and divergences on identical initial student trajectories.",
         ]
     )
+    if "evidence" in modes:
+        lines.extend(
+            [
+                "",
+                "See `teacher_diagnostics.json` for full/evidence teacher answers, F1, "
+                "and divergences on identical initial student trajectories.",
+            ]
+        )
     (args.output_dir / "comparison.md").write_text("\n".join(lines) + "\n")
     print(f"Comparison saved: {args.output_dir.resolve()}", flush=True)
 

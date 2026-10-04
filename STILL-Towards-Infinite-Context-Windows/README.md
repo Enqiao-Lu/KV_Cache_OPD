@@ -4,6 +4,12 @@ The new frozen-Qwen3-4B full-context/evidence-teacher KV OPD integration is docu
 [docs/opd_integration.md](docs/opd_integration.md). Its default comparison command runs a
 one-step pre-training smoke; the original offline MCQ benchmark remains below.
 
+The full-KV / fixed-teacher forward-KL / ordinary OPD baseline comparison and
+the four-benchmark readiness audit are documented in
+[docs/baselines_and_benchmarks.md](docs/baselines_and_benchmarks.md).
+Use `scripts/run_opd_comparison.py --methods still full` for the three baselines;
+this excludes evidence-teacher training.
+
 This repository is a single-GPU reproduction of Baseten's STILL idea for neural KV-cache compaction, benchmarked against:
 
 - full-context inference

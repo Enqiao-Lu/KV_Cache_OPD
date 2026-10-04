@@ -239,3 +239,143 @@ def test_rollout_honors_all_model_declared_eos_tokens(terminal_id):
     )
     hook.remove()
     assert generated == [terminal_id]
+
+
+def test_forward_kl_matches_teacher_to_student_and_detaches_teacher():
+    from still.train.opd import forward_kl_loss
+
+    student = torch.tensor([[0.2, -0.5, 1.4], [1.0, 0.0, -1.0]], requires_grad=True)
+    teacher = torch.tensor([[1.2, 0.3, -0.7], [-0.1, 1.5, 0.4]], requires_grad=True)
+    p = teacher.detach().softmax(-1)
+    expected = (p * (p.log() - student.log_softmax(-1))).sum(-1).mean()
+    actual = forward_kl_loss(student, teacher)
+    torch.testing.assert_close(actual, expected)
+    assert not torch.isclose(actual, forward_kl_loss(teacher, student))
+    actual.backward()
+    assert student.grad is not None and student.grad.norm() > 0
+    assert teacher.grad is None
+    assert forward_kl_loss(student.detach(), student.detach()).abs() < 1e-7
+
+
+def test_full_kv_evaluation_reuses_one_prefill_and_matches_direct_generation():
+    from still.data.qasper import answer_f1
+    from still.eval.common import SYSTEM_PROMPT
+    from still.train.opd import OPDConfig, evaluate
+
+    model, tokenizer, _ = tiny_components()
+    row = document()
+    config = OPDConfig(max_new_tokens=2)
+    prefills = []
+
+    def count_prefills(_, args, kwargs):
+        if kwargs.get("past_key_values") is None:
+            prefills.append(1)
+
+    hook = model.register_forward_pre_hook(count_prefills, with_kwargs=True)
+    actual = evaluate(model, tokenizer, None, [row], config)
+    hook.remove()
+    assert prefills == [1]
+    expected = []
+    for qa in row["questions"]:
+        # Independent reference: no cache builder, split prompt or rollout helper.
+        inputs = tokenizer.apply_chat_template(
+            [
+                {"role": "system", "content": SYSTEM_PROMPT.format(context=row["document"])},
+                {
+                    "role": "user",
+                    "content": (
+                        qa["question"] + "\n\nAnswer concisely using only the provided context."
+                    ),
+                },
+            ],
+            tokenize=True,
+            add_generation_prompt=True,
+            enable_thinking=False,
+            return_tensors="pt",
+        ).to(model.device)
+        ids = []
+        with torch.no_grad():
+            for _ in range(config.max_new_tokens):
+                token = model(input_ids=inputs, use_cache=False, logits_to_keep=1).logits[
+                    :, -1
+                ].argmax(-1, keepdim=True)
+                ids.append(int(token.item()))
+                if ids[-1] == tokenizer.eos_token_id:
+                    break
+                inputs = torch.cat([inputs, token], dim=-1)
+        answer = tokenizer.decode(ids, skip_special_tokens=True)
+        expected.append(answer)
+        assert actual["predictions"][len(expected) - 1]["f1"] == answer_f1(answer, qa["answers"])
+    assert [p["answer"] for p in actual["predictions"]] == expected
+    assert actual["documents"] == 1 and actual["questions"] == 2
+    assert actual["question_f1"] == actual["document_f1"]
+    reversed_row = copy.deepcopy(row)
+    reversed_row["questions"].reverse()
+    reversed_result = evaluate(model, tokenizer, None, [reversed_row], config)
+    assert [p["answer"] for p in reversed_result["predictions"]] == expected[::-1]
+
+
+def test_fixed_full_teacher_answers_ignore_gold_and_evidence():
+    from still.train.opd import OPDConfig, generate_teacher_answers
+
+    model, tokenizer, _ = tiny_components()
+    row = document()
+    poisoned = copy.deepcopy(row)
+    for qa in poisoned["questions"]:
+        qa["answers"] = ["POISONED GOLD"]
+        qa["evidence"] = "POISONED EVIDENCE"
+    config = OPDConfig(max_new_tokens=2)
+    answers = generate_teacher_answers(model, tokenizer, row, config)
+    assert answers == generate_teacher_answers(model, tokenizer, poisoned, config)
+    assert set(answers) == {"r", "b"}
+    assert all(1 <= len(tokens) <= 2 for tokens in answers.values())
+    assert all(not p.requires_grad and p.grad is None for p in model.parameters())
+
+
+def test_still_replays_fixed_teacher_prefixes_without_student_sampling(monkeypatch):
+    from still.train import opd
+
+    model, tokenizer, compactor = tiny_components()
+    row = document()
+    references = {"r": [101, 102], "b": [103, 104, 105]}
+    config = opd.OPDConfig(max_new_tokens=3)
+
+    def reject_sampling(*args, **kwargs):
+        raise AssertionError("fixed-trajectory STILL must not sample from the student")
+
+    monkeypatch.setattr(opd, "rollout", reject_sampling)
+    calls = []
+    hook = compactor.register_forward_hook(lambda *_: calls.append(1))
+    loss, log = opd.document_loss(
+        model, tokenizer, compactor, row, config, teacher_answers=references
+    )
+    hook.remove()
+    assert calls == [1]
+    assert [q["answer_token_ids"] for q in log["questions"]] == list(references.values())
+    assert all(q["trajectory_source"] == "full_teacher" for q in log["questions"])
+    assert all(q["objective"] == "forward_kl" for q in log["questions"])
+    assert all("student_answer" not in q for q in log["questions"])
+    assert log["loss"] == pytest.approx(sum(q["loss"] for q in log["questions"]) / 2)
+    changed = copy.deepcopy(row)
+    for qa in changed["questions"]:
+        qa["answers"] = ["POISONED GOLD"]
+        qa["evidence"] = "POISONED EVIDENCE"
+    other, _ = opd.document_loss(
+        model, tokenizer, compactor, changed, config, teacher_answers=references
+    )
+    torch.testing.assert_close(loss, other)
+    loss.backward()
+    assert all(not p.requires_grad and p.grad is None for p in model.parameters())
+    assert opd.gradient_stats(compactor)["layers_with_gradient"] == len(compactor.layers)
+    assert opd.gradient_stats(compactor)["finite"]
+
+
+@pytest.mark.parametrize("references", [{}, {"r": [], "b": [103]}])
+def test_still_rejects_missing_or_empty_teacher_answers(references):
+    from still.train.opd import OPDConfig, document_loss
+
+    model, tokenizer, compactor = tiny_components()
+    with pytest.raises(ValueError, match="teacher answer"):
+        document_loss(
+            model, tokenizer, compactor, document(), OPDConfig(), teacher_answers=references
+        )

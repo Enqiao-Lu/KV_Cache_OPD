@@ -8,6 +8,18 @@
 
 配置、数据筛选、可复现命令和冒烟结果见 [整合说明](STILL-Towards-Infinite-Context-Windows/docs/opd_integration.md)。
 
+当前先建立三个基线：完整 KV、STILL 风格固定教师 forward KL、完整上下文 OPD。
+[三个基线与 benchmark 核查](STILL-Towards-Infinite-Context-Windows/docs/baselines_and_benchmarks.md)
+记录了统一比较入口、已验证的冒烟结果和 QASPER / LongBench v2 / RULER / NoLiMa 的接入状态。
+
+```bash
+cd STILL-Towards-Infinite-Context-Windows
+.venv/bin/python scripts/run_opd_comparison.py --methods still full \
+  --output-dir outputs/opd/baselines_smoke_4b
+```
+
+后续两个 OPD 教师对照仍可使用：
+
 ```bash
 cd STILL-Towards-Infinite-Context-Windows
 .venv/bin/python scripts/run_opd_comparison.py --teacher-context both

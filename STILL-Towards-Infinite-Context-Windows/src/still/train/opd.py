@@ -52,6 +52,13 @@ def jsd_loss(student_logits: torch.Tensor, teacher_logits: torch.Tensor) -> torc
     return divergence.mean()
 
 
+def forward_kl_loss(student_logits: torch.Tensor, teacher_logits: torch.Tensor) -> torch.Tensor:
+    """Full-vocabulary KL(teacher || student), averaged over answer positions."""
+    student = F.log_softmax(student_logits.float(), dim=-1)
+    teacher = F.log_softmax(teacher_logits.detach().float(), dim=-1)
+    return (teacher.exp() * (teacher - student)).sum(dim=-1).mean()
+
+
 def system_prompt(context: str) -> str:
     return SYSTEM_PROMPT.format(context=context)
 
@@ -160,7 +167,8 @@ def replay_logits(model, cache, prompt_ids, answer_ids: list[int], *, position_s
     ).logits[0]
 
 
-def build_document_cache(model, tokenizer, compactor, document: dict, config: OPDConfig):
+def build_full_document_cache(model, tokenizer, document: dict, config: OPDConfig):
+    """Prefill a complete document once, without a question or answer label."""
     model.eval().requires_grad_(False)
     enable_still_attention_bias(model)
     ids = encode_system_prefix(tokenizer, system_prompt(document["document"])).to(model.device)
@@ -171,27 +179,74 @@ def build_document_cache(model, tokenizer, compactor, document: dict, config: OP
             f"{config.max_source_tokens}; filter whole documents during preparation"
         )
     full_cache = prefill(model, ids)
+    full_cache.metadata.update(
+        {"source_tokens": source_tokens, "document_id": document["document_id"]}
+    )
+    return full_cache
+
+
+def build_document_cache(model, tokenizer, compactor, document: dict, config: OPDConfig):
+    full_cache = build_full_document_cache(model, tokenizer, document, config)
     compact = compactor(full_cache.as_cache(model.config))
     compact.metadata.update(
-        {"source_tokens": source_tokens, "document_id": document["document_id"]}
+        {"source_tokens": full_cache.num_tokens, "document_id": document["document_id"]}
     )
     return full_cache, compact
 
 
-def document_loss(model, tokenizer, compactor, document: dict, config: OPDConfig):
-    """One compression, multiple questions, only student replay carries gradients."""
+@torch.no_grad()
+def generate_teacher_answers(model, tokenizer, document: dict, config: OPDConfig):
+    """Generate fixed full-teacher trajectories for the QASPER STILL adaptation.
+
+    Prepare once before training. Neither gold answers nor evidence enter the
+    prompt; these trajectories are independent of the changing compact student.
+    """
+    full = build_full_document_cache(model, tokenizer, document, config)
+    return {
+        qa["question_id"]: rollout(
+            model,
+            full,
+            question_ids(tokenizer, document["document"], qa["question"], model.device),
+            position_start=full.num_tokens,
+            config=config,
+            eos_token_id=tokenizer.eos_token_id,
+            greedy=True,
+        )
+        for qa in document["questions"]
+    }
+
+
+def document_loss(
+    model,
+    tokenizer,
+    compactor,
+    document: dict,
+    config: OPDConfig,
+    *,
+    teacher_answers: dict[str, list[int]] | None = None,
+):
+    """Compress once; train on student OPD or fixed full-teacher STILL prefixes."""
+    if teacher_answers is not None:
+        if config.teacher_context != "full":
+            raise ValueError("fixed teacher answers require a full-context teacher")
+        for qa in document["questions"]:
+            if not teacher_answers.get(qa["question_id"]):
+                raise ValueError(f"missing or empty teacher answer for {qa['question_id']}")
     full_cache, compact = build_document_cache(model, tokenizer, compactor, document, config)
     losses, questions = [], []
     for qa in document["questions"]:
         prompt = question_ids(tokenizer, document["document"], qa["question"], model.device)
-        answer_ids = rollout(
-            model,
-            compact,
-            prompt,
-            position_start=full_cache.num_tokens,
-            config=config,
-            eos_token_id=tokenizer.eos_token_id,
-        )
+        if teacher_answers is None:
+            answer_ids = rollout(
+                model,
+                compact,
+                prompt,
+                position_start=full_cache.num_tokens,
+                config=config,
+                eos_token_id=tokenizer.eos_token_id,
+            )
+        else:
+            answer_ids = list(teacher_answers[qa["question_id"]])
         with torch.no_grad():
             if config.teacher_context == "full":
                 teacher_cache = full_cache
@@ -206,16 +261,21 @@ def document_loss(model, tokenizer, compactor, document: dict, config: OPDConfig
         student_logits = replay_logits(
             model, compact, prompt, answer_ids, position_start=full_cache.num_tokens
         )
-        loss = jsd_loss(student_logits, teacher_logits)
+        loss_fn = jsd_loss if teacher_answers is None else forward_kl_loss
+        loss = loss_fn(student_logits, teacher_logits)
         losses.append(loss)
         questions.append(
             {
                 "question_id": qa["question_id"],
                 "teacher_context": config.teacher_context,
+                "trajectory_source": "student" if teacher_answers is None else "full_teacher",
+                "objective": "jsd" if teacher_answers is None else "forward_kl",
                 "teacher_tokens": teacher_cache.num_tokens,
                 "generated_tokens": len(answer_ids),
                 "answer_token_ids": answer_ids,
-                "student_answer": tokenizer.decode(answer_ids, skip_special_tokens=True),
+                "student_answer" if teacher_answers is None else "teacher_answer": tokenizer.decode(
+                    answer_ids, skip_special_tokens=True
+                ),
                 "loss": float(loss.detach()),
             }
         )
@@ -248,17 +308,22 @@ def gradient_stats(compactor) -> dict:
 
 @torch.no_grad()
 def evaluate(model, tokenizer, compactor, documents: list[dict], config: OPDConfig):
+    """Shared greedy QASPER evaluator; compactor=None evaluates uncompressed KV."""
     predictions, document_scores = [], []
     for document in documents:
-        full, compact = build_document_cache(model, tokenizer, compactor, document, config)
-        position_start = full.num_tokens
-        del full
+        if compactor is None:
+            cache = build_full_document_cache(model, tokenizer, document, config)
+            position_start = cache.num_tokens
+        else:
+            full, cache = build_document_cache(model, tokenizer, compactor, document, config)
+            position_start = full.num_tokens
+            del full
         scores = []
         for qa in document["questions"]:
             prompt = question_ids(tokenizer, document["document"], qa["question"], model.device)
             ids = rollout(
                 model,
-                compact,
+                cache,
                 prompt,
                 position_start=position_start,
                 config=config,
