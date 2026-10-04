@@ -1,7 +1,9 @@
-# 三个基线与四个 benchmark 的准备状态
+# 基线与四个 benchmark 的准备状态
 
 本轮先比较完整 KV、STILL 风格蒸馏、完整上下文 OPD。证据教师训练留到
 这三个基线建立后。默认冻结同一 Qwen3-4B，仅学习每层 512 个缓存位置的压缩器。
+后续已补齐四种方法的统一 benchmark 接口；准备、磁盘权重加载与运行命令见
+[benchmark suite](benchmark_suite.md)。下方基线定义和早期三组冒烟结果保留。
 
 ## 三个基线的定义
 
@@ -61,13 +63,14 @@ STILL vs 普通 OPD 同时改变轨迹来源和散度，比较的是整套 OPD �
 
 | Benchmark | 适合验证什么 | 指标与协议 | 当前仓库状态 |
 | --- | --- | --- | --- |
-| QASPER 留出集 | 一份文档缓存能否服务多个问题 | 官方 max-reference Answer F1；额外文档平均 F1 | 数据已下载；文档分组、三个基线统一 F1 评测已接通 |
-| LongBench v2 | 真实任务的理解与推理泛化 | 官方选择题 Accuracy，按任务/难度/长度分组 | `kvpress` 已有数据转换、prompt 和 scorer；尚未接入并验证当前 STILL 缓存路径 |
-| RULER | 检索、追踪、多目标聚合随长度与预算的变化 | 逐任务官方 string-match 分数及聚合；不把所有任务都视为严格 EM | `kvpress` 已有数据转换、生成 shell 和 scorer；`cartridges` 另有修改版 NIAH/变量追踪；尚未验证当前 STILL 路径 |
-| NoLiMa | 少词面重合情况下的关联检索 | 按所选官方配置的 EM/contains 等规则汇总正确率，按长度和放置深度报告 | 当前仓库没有 NoLiMa 数据准备、生成或评分接口 |
+| QASPER 留出集 | 一份文档缓存能否服务多个问题 | 官方 max-reference Answer F1；额外文档平均 F1 | 数据已下载；四种方法的统一缓存评测已接通 |
+| LongBench v2 | 真实任务的理解与推理泛化 | 官方选择题 Accuracy，按任务/难度/长度分组 | 官方数据已下载，新增按完整上下文分组的转换和当前缓存评测；复用 `kvpress` scorer |
+| RULER | 检索、追踪、多目标聚合随长度与预算的变化 | 逐任务官方 string-match 分数及聚合；不把所有任务都视为严格 EM | 新增官方 13 类任务的 Qwen tokenizer 生成、缓存评测与官方匹配评分 |
+| NoLiMa | 少词面重合情况下的关联检索 | 按所选官方配置的 EM/contains 等规则汇总正确率，按长度和放置深度报告 | 新增官方 needle/haystack 下载、放置、缓存评测和配置评分 |
 
-截至本次核查，本机缓存中发现 QASPER；未发现 LongBench-v2、RULER 或 NoLiMa
-数据集缓存。现成的 Python 脚本不代表完整数据已经下载，或当前压缩器已经跑通。
+本机已缓存 QASPER、完整 LongBench-v2、RULER 的生成资源和 NoLiMa 官方资源。
+冒烟使用明确声明的小样本；数据文件、来源 revision 与覆盖数量见新 suite 的
+`provenance.json` / `selection.json`，不代表完整官方 benchmark 已评测。
 
 可以复用的代码：
 
@@ -80,7 +83,7 @@ STILL vs 普通 OPD 同时改变轨迹来源和散度，比较的是整套 OPD �
 - [cartridges 修改版 RULER](../../cartridges/cartridges/data/ruler/README.md)。
 
 `kvpress` 的 loader 指向经过转换的 HF 数据集；转换脚本中的 `push_to_hub`
-是发布步骤，不是本地准备所必需的步骤。后续接入应保存本地转换数据，复用
+是发布步骤，不是本地准备所必需的步骤。当前接入保存本地转换数据，复用
 官方数据、prompt 和评分逻辑，再桥接到已有 `CompactKVCache` 回答路径，
 无需重装或复刻整个训练栈。当前 registry 中的 `CompactorPress` 也不是本项目
 的 STILL Perceiver，不能仅换一个 press 名称就认为已接通。

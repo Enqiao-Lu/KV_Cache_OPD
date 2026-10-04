@@ -10,6 +10,11 @@ the four-benchmark readiness audit are documented in
 Use `scripts/run_opd_comparison.py --methods still full` for the three baselines;
 this excludes evidence-teacher training.
 
+The shared QASPER / LongBench v2 / RULER / NoLiMa preparation and saved-checkpoint
+evaluation entry points are documented in [docs/benchmark_suite.md](docs/benchmark_suite.md).
+`scripts/evaluate_benchmarks.py` evaluates full KV plus the saved `still`, `full`,
+and `evidence` compactors without training on evaluation questions.
+
 This repository is a single-GPU reproduction of Baseten's STILL idea for neural KV-cache compaction, benchmarked against:
 
 - full-context inference

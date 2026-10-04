@@ -22,6 +22,7 @@ def encode_user_continuation(
     *,
     system_prompt: str,
     user_message: str,
+    assistant_prefix: str = "",
 ) -> torch.Tensor:
     """Encode the user continuation after verifying the system-prefix split matches exactly."""
     system_ids = encode_system_prefix(tokenizer, system_prompt)
@@ -34,10 +35,14 @@ def encode_user_continuation(
         add_generation_prompt=True,
         **chat_template_kwargs(),
     )
-    full_ids = tokenizer(full_prompt, return_tensors="pt", add_special_tokens=False)["input_ids"]
+    full_ids = tokenizer(
+        full_prompt + assistant_prefix, return_tensors="pt", add_special_tokens=False
+    )["input_ids"]
     prefix_len = int(system_ids.shape[-1])
     if prefix_len >= int(full_ids.shape[-1]):
         raise ValueError("System prefix consumed the entire prompt; expected a user continuation.")
     if not torch.equal(full_ids[:, :prefix_len], system_ids):
-        raise ValueError("Chat-template system prefix mismatch while splitting system and user tokens.")
+        raise ValueError(
+            "Chat-template system prefix mismatch while splitting system and user tokens."
+        )
     return full_ids[:, prefix_len:]

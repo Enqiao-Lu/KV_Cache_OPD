@@ -12,6 +12,21 @@
 [三个基线与 benchmark 核查](STILL-Towards-Infinite-Context-Windows/docs/baselines_and_benchmarks.md)
 记录了统一比较入口、已验证的冒烟结果和 QASPER / LongBench v2 / RULER / NoLiMa 的接入状态。
 
+四种方法在四个 benchmark 上的统一磁盘权重评测见
+[benchmark 接口与命令](STILL-Towards-Infinite-Context-Windows/docs/benchmark_suite.md)。
+准备数据与压缩器 checkpoint 后运行：
+
+```bash
+cd STILL-Towards-Infinite-Context-Windows
+.venv/bin/python scripts/evaluate_benchmarks.py \
+  --data-dir outputs/benchmarks/smoke_data \
+  --checkpoint-dir outputs/opd/four_methods_smoke_4b \
+  --num-latents 512 --max-new-tokens 16 \
+  --output-dir outputs/benchmarks/smoke_4b
+```
+
+前三个基线的训练冒烟入口：
+
 ```bash
 cd STILL-Towards-Infinite-Context-Windows
 .venv/bin/python scripts/run_opd_comparison.py --methods still full \

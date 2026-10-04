@@ -16,6 +16,14 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+benchmarks = [
+  "nltk>=3.9,<4",
+  "wonderwords>=2.2,<3",
+  "tenacity>=9,<10",
+  "scipy>=1.15,<2",
+  "html2text>=2024.2.26",
+  "beautifulsoup4>=4.13,<5",
+]
 train = [
   "accelerate>=1.10,<2",
   "datasets>=4.1,<5",
